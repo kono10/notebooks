@@ -1,0 +1,1405 @@
+,conf,season_type,year,team_name,wins,losses
+0,EAST,reg,2000,Miami Dolphins,11,5
+1,EAST,reg,2000,Indianapolis Colts,10,6
+2,EAST,reg,2000,New York Jets,9,7
+3,EAST,reg,2000,Buffalo Bills,8,8
+4,EAST,reg,2000,New England Patriots,5,11
+5,CENTRAL,reg,2000,Tennessee Titans,13,3
+6,CENTRAL,reg,2000,Baltimore Ravens,12,4
+7,CENTRAL,reg,2000,Pittsburgh Steelers,9,7
+8,CENTRAL,reg,2000,Jacksonville Jaguars,7,9
+9,CENTRAL,reg,2000,Cincinnati Bengals,4,12
+10,CENTRAL,reg,2000,Cleveland Browns,3,13
+11,WEST,reg,2000,Oakland Raiders,12,4
+12,WEST,reg,2000,Denver Broncos,11,5
+13,WEST,reg,2000,Kansas City Chiefs,7,9
+14,WEST,reg,2000,Seattle Seahawks,6,10
+15,WEST,reg,2000,San Diego Chargers,1,15
+16,EAST,reg,2000,New York Giants,12,4
+17,EAST,reg,2000,Philadelphia Eagles,11,5
+18,EAST,reg,2000,Washington Redskins,8,8
+19,EAST,reg,2000,Dallas Cowboys,5,11
+20,EAST,reg,2000,Arizona Cardinals,3,13
+21,CENTRAL,reg,2000,Minnesota Vikings,11,5
+22,CENTRAL,reg,2000,Tampa Bay Buccaneers,10,6
+23,CENTRAL,reg,2000,Green Bay Packers,9,7
+24,CENTRAL,reg,2000,Detroit Lions,9,7
+25,CENTRAL,reg,2000,Chicago Bears,5,11
+26,WEST,reg,2000,New Orleans Saints,10,6
+27,WEST,reg,2000,St. Louis Rams,10,6
+28,WEST,reg,2000,Carolina Panthers,7,9
+29,WEST,reg,2000,San Francisco 49ers,6,10
+30,WEST,reg,2000,Atlanta Falcons,4,12
+31,EAST,pre,2000,Buffalo Bills,3,1
+32,EAST,pre,2000,Miami Dolphins,3,1
+33,EAST,pre,2000,Indianapolis Colts,3,2
+34,EAST,pre,2000,New England Patriots,3,2
+35,EAST,pre,2000,New York Jets,2,2
+36,CENTRAL,pre,2000,Baltimore Ravens,4,0
+37,CENTRAL,pre,2000,Jacksonville Jaguars,3,1
+38,CENTRAL,pre,2000,Tennessee Titans,3,1
+39,CENTRAL,pre,2000,Pittsburgh Steelers,3,2
+40,CENTRAL,pre,2000,Cincinnati Bengals,1,3
+41,CENTRAL,pre,2000,Cleveland Browns,1,3
+42,WEST,pre,2000,Denver Broncos,4,0
+43,WEST,pre,2000,San Diego Chargers,4,0
+44,WEST,pre,2000,Oakland Raiders,3,1
+45,WEST,pre,2000,Seattle Seahawks,2,2
+46,WEST,pre,2000,Kansas City Chiefs,0,4
+47,EAST,pre,2000,Washington Redskins,3,1
+48,EAST,pre,2000,Arizona Cardinals,1,3
+49,EAST,pre,2000,Philadelphia Eagles,1,3
+50,EAST,pre,2000,New York Giants,0,4
+51,EAST,pre,2000,Dallas Cowboys,0,5
+52,CENTRAL,pre,2000,Tampa Bay Buccaneers,3,1
+53,CENTRAL,pre,2000,Chicago Bears,2,2
+54,CENTRAL,pre,2000,Detroit Lions,2,2
+55,CENTRAL,pre,2000,Green Bay Packers,2,2
+56,CENTRAL,pre,2000,Minnesota Vikings,1,3
+57,WEST,pre,2000,Atlanta Falcons,4,1
+58,WEST,pre,2000,St. Louis Rams,2,2
+59,WEST,pre,2000,New Orleans Saints,1,3
+60,WEST,pre,2000,San Francisco 49ers,1,4
+61,WEST,pre,2000,Carolina Panthers,0,4
+62,EAST,reg,2001,New England Patriots,11,5
+63,EAST,reg,2001,Miami Dolphins,11,5
+64,EAST,reg,2001,New York Jets,10,6
+65,EAST,reg,2001,Indianapolis Colts,6,10
+66,EAST,reg,2001,Buffalo Bills,3,13
+67,CENTRAL,reg,2001,Pittsburgh Steelers,13,3
+68,CENTRAL,reg,2001,Baltimore Ravens,10,6
+69,CENTRAL,reg,2001,Cleveland Browns,7,9
+70,CENTRAL,reg,2001,Tennessee Titans,7,9
+71,CENTRAL,reg,2001,Jacksonville Jaguars,6,10
+72,CENTRAL,reg,2001,Cincinnati Bengals,6,10
+73,WEST,reg,2001,Oakland Raiders,10,6
+74,WEST,reg,2001,Seattle Seahawks,9,7
+75,WEST,reg,2001,Denver Broncos,8,8
+76,WEST,reg,2001,Kansas City Chiefs,6,10
+77,WEST,reg,2001,San Diego Chargers,5,11
+78,EAST,reg,2001,Philadelphia Eagles,11,5
+79,EAST,reg,2001,Washington Redskins,8,8
+80,EAST,reg,2001,New York Giants,7,9
+81,EAST,reg,2001,Arizona Cardinals,7,9
+82,EAST,reg,2001,Dallas Cowboys,5,11
+83,CENTRAL,reg,2001,Chicago Bears,13,3
+84,CENTRAL,reg,2001,Green Bay Packers,12,4
+85,CENTRAL,reg,2001,Tampa Bay Buccaneers,9,7
+86,CENTRAL,reg,2001,Minnesota Vikings,5,11
+87,CENTRAL,reg,2001,Detroit Lions,2,14
+88,WEST,reg,2001,St. Louis Rams,14,2
+89,WEST,reg,2001,San Francisco 49ers,12,4
+90,WEST,reg,2001,New Orleans Saints,7,9
+91,WEST,reg,2001,Atlanta Falcons,7,9
+92,WEST,reg,2001,Carolina Panthers,1,15
+93,EAST,pre,2001,New England Patriots,3,1
+94,EAST,pre,2001,Buffalo Bills,2,2
+95,EAST,pre,2001,Indianapolis Colts,2,2
+96,EAST,pre,2001,New York Jets,2,2
+97,EAST,pre,2001,Miami Dolphins,1,4
+98,CENTRAL,pre,2001,Pittsburgh Steelers,3,1
+99,CENTRAL,pre,2001,Tennessee Titans,3,1
+100,CENTRAL,pre,2001,Cleveland Browns,2,2
+101,CENTRAL,pre,2001,Jacksonville Jaguars,2,2
+102,CENTRAL,pre,2001,Baltimore Ravens,1,2
+103,CENTRAL,pre,2001,Cincinnati Bengals,1,3
+104,WEST,pre,2001,Denver Broncos,3,1
+105,WEST,pre,2001,San Diego Chargers,3,1
+106,WEST,pre,2001,Oakland Raiders,3,2
+107,WEST,pre,2001,Kansas City Chiefs,2,2
+108,WEST,pre,2001,Seattle Seahawks,2,2
+109,EAST,pre,2001,Arizona Cardinals,3,1
+110,EAST,pre,2001,Philadelphia Eagles,2,1
+111,EAST,pre,2001,Dallas Cowboys,2,3
+112,EAST,pre,2001,New York Giants,1,3
+113,EAST,pre,2001,Washington Redskins,1,3
+114,CENTRAL,pre,2001,Minnesota Vikings,4,0
+115,CENTRAL,pre,2001,Green Bay Packers,2,2
+116,CENTRAL,pre,2001,Chicago Bears,1,3
+117,CENTRAL,pre,2001,Detroit Lions,1,3
+118,CENTRAL,pre,2001,Tampa Bay Buccaneers,1,3
+119,WEST,pre,2001,Atlanta Falcons,3,1
+120,WEST,pre,2001,St. Louis Rams,3,2
+121,WEST,pre,2001,Carolina Panthers,2,2
+122,WEST,pre,2001,New Orleans Saints,1,3
+123,WEST,pre,2001,San Francisco 49ers,1,3
+124,EAST,reg,2002,New York Jets,9,7
+125,EAST,reg,2002,New England Patriots,9,7
+126,EAST,reg,2002,Miami Dolphins,9,7
+127,EAST,reg,2002,Buffalo Bills,8,8
+128,NORTH,reg,2002,Pittsburgh Steelers,10,5
+129,NORTH,reg,2002,Cleveland Browns,9,7
+130,NORTH,reg,2002,Baltimore Ravens,7,9
+131,NORTH,reg,2002,Cincinnati Bengals,2,14
+132,SOUTH,reg,2002,Tennessee Titans,11,5
+133,SOUTH,reg,2002,Indianapolis Colts,10,6
+134,SOUTH,reg,2002,Jacksonville Jaguars,6,10
+135,SOUTH,reg,2002,Houston Texans,4,12
+136,WEST,reg,2002,Oakland Raiders,11,5
+137,WEST,reg,2002,Denver Broncos,9,7
+138,WEST,reg,2002,San Diego Chargers,8,8
+139,WEST,reg,2002,Kansas City Chiefs,8,8
+140,EAST,reg,2002,Philadelphia Eagles,12,4
+141,EAST,reg,2002,New York Giants,10,6
+142,EAST,reg,2002,Washington Redskins,7,9
+143,EAST,reg,2002,Dallas Cowboys,5,11
+144,NORTH,reg,2002,Green Bay Packers,12,4
+145,NORTH,reg,2002,Minnesota Vikings,6,10
+146,NORTH,reg,2002,Chicago Bears,4,12
+147,NORTH,reg,2002,Detroit Lions,3,13
+148,SOUTH,reg,2002,Tampa Bay Buccaneers,12,4
+149,SOUTH,reg,2002,Atlanta Falcons,9,6
+150,SOUTH,reg,2002,New Orleans Saints,9,7
+151,SOUTH,reg,2002,Carolina Panthers,7,9
+152,WEST,reg,2002,San Francisco 49ers,10,6
+153,WEST,reg,2002,St. Louis Rams,7,9
+154,WEST,reg,2002,Seattle Seahawks,7,9
+155,WEST,reg,2002,Arizona Cardinals,5,11
+156,EAST,pre,2002,New York Jets,4,0
+157,EAST,pre,2002,New England Patriots,3,1
+158,EAST,pre,2002,Miami Dolphins,2,2
+159,EAST,pre,2002,Buffalo Bills,0,4
+160,NORTH,pre,2002,Baltimore Ravens,2,2
+161,NORTH,pre,2002,Cincinnati Bengals,2,2
+162,NORTH,pre,2002,Cleveland Browns,2,2
+163,NORTH,pre,2002,Pittsburgh Steelers,2,2
+164,SOUTH,pre,2002,Indianapolis Colts,2,2
+165,SOUTH,pre,2002,Tennessee Titans,2,2
+166,SOUTH,pre,2002,Jacksonville Jaguars,1,3
+167,SOUTH,pre,2002,Houston Texans,1,4
+168,WEST,pre,2002,Denver Broncos,3,1
+169,WEST,pre,2002,Kansas City Chiefs,3,1
+170,WEST,pre,2002,Oakland Raiders,2,2
+171,WEST,pre,2002,San Diego Chargers,2,2
+172,EAST,pre,2002,Washington Redskins,4,1
+173,EAST,pre,2002,Dallas Cowboys,3,1
+174,EAST,pre,2002,New York Giants,3,2
+175,EAST,pre,2002,Philadelphia Eagles,1,3
+176,NORTH,pre,2002,Green Bay Packers,3,1
+177,NORTH,pre,2002,Minnesota Vikings,2,2
+178,NORTH,pre,2002,Chicago Bears,1,3
+179,NORTH,pre,2002,Detroit Lions,1,3
+180,SOUTH,pre,2002,Atlanta Falcons,4,0
+181,SOUTH,pre,2002,New Orleans Saints,3,1
+182,SOUTH,pre,2002,Tampa Bay Buccaneers,3,1
+183,SOUTH,pre,2002,Carolina Panthers,1,3
+184,WEST,pre,2002,San Francisco 49ers,2,3
+185,WEST,pre,2002,Arizona Cardinals,1,3
+186,WEST,pre,2002,Seattle Seahawks,1,3
+187,WEST,pre,2002,St. Louis Rams,0,4
+188,EAST,reg,2003,New England Patriots,14,2
+189,EAST,reg,2003,Miami Dolphins,10,6
+190,EAST,reg,2003,Buffalo Bills,6,10
+191,EAST,reg,2003,New York Jets,6,10
+192,NORTH,reg,2003,Baltimore Ravens,10,6
+193,NORTH,reg,2003,Cincinnati Bengals,8,8
+194,NORTH,reg,2003,Pittsburgh Steelers,6,10
+195,NORTH,reg,2003,Cleveland Browns,5,11
+196,SOUTH,reg,2003,Indianapolis Colts,12,4
+197,SOUTH,reg,2003,Tennessee Titans,12,4
+198,SOUTH,reg,2003,Jacksonville Jaguars,5,11
+199,SOUTH,reg,2003,Houston Texans,5,11
+200,WEST,reg,2003,Kansas City Chiefs,13,3
+201,WEST,reg,2003,Denver Broncos,10,6
+202,WEST,reg,2003,Oakland Raiders,4,12
+203,WEST,reg,2003,San Diego Chargers,4,12
+204,EAST,reg,2003,Philadelphia Eagles,12,4
+205,EAST,reg,2003,Dallas Cowboys,10,6
+206,EAST,reg,2003,Washington Redskins,5,11
+207,EAST,reg,2003,New York Giants,4,12
+208,NORTH,reg,2003,Green Bay Packers,10,6
+209,NORTH,reg,2003,Minnesota Vikings,9,7
+210,NORTH,reg,2003,Chicago Bears,7,9
+211,NORTH,reg,2003,Detroit Lions,5,11
+212,SOUTH,reg,2003,Carolina Panthers,11,5
+213,SOUTH,reg,2003,New Orleans Saints,8,8
+214,SOUTH,reg,2003,Tampa Bay Buccaneers,7,9
+215,SOUTH,reg,2003,Atlanta Falcons,5,11
+216,WEST,reg,2003,St. Louis Rams,12,4
+217,WEST,reg,2003,Seattle Seahawks,10,6
+218,WEST,reg,2003,San Francisco 49ers,7,9
+219,WEST,reg,2003,Arizona Cardinals,4,12
+220,EAST,pre,2003,New England Patriots,4,0
+221,EAST,pre,2003,Buffalo Bills,3,1
+222,EAST,pre,2003,New York Jets,3,2
+223,EAST,pre,2003,Miami Dolphins,2,2
+224,NORTH,pre,2003,Baltimore Ravens,1,3
+225,NORTH,pre,2003,Cincinnati Bengals,1,3
+226,NORTH,pre,2003,Cleveland Browns,1,3
+227,NORTH,pre,2003,Pittsburgh Steelers,1,3
+228,SOUTH,pre,2003,Tennessee Titans,4,0
+229,SOUTH,pre,2003,Indianapolis Colts,3,1
+230,SOUTH,pre,2003,Jacksonville Jaguars,3,1
+231,SOUTH,pre,2003,Houston Texans,0,4
+232,WEST,pre,2003,Denver Broncos,3,1
+233,WEST,pre,2003,Kansas City Chiefs,3,2
+234,WEST,pre,2003,San Diego Chargers,2,2
+235,WEST,pre,2003,Oakland Raiders,1,3
+236,EAST,pre,2003,Dallas Cowboys,2,2
+237,EAST,pre,2003,Philadelphia Eagles,2,2
+238,EAST,pre,2003,New York Giants,1,3
+239,EAST,pre,2003,Washington Redskins,1,3
+240,NORTH,pre,2003,Detroit Lions,2,2
+241,NORTH,pre,2003,Green Bay Packers,2,3
+242,NORTH,pre,2003,Chicago Bears,1,3
+243,NORTH,pre,2003,Minnesota Vikings,1,3
+244,SOUTH,pre,2003,Carolina Panthers,4,0
+245,SOUTH,pre,2003,Tampa Bay Buccaneers,4,1
+246,SOUTH,pre,2003,New Orleans Saints,1,3
+247,SOUTH,pre,2003,Atlanta Falcons,0,4
+248,WEST,pre,2003,Arizona Cardinals,4,0
+249,WEST,pre,2003,San Francisco 49ers,3,1
+250,WEST,pre,2003,Seattle Seahawks,2,2
+251,WEST,pre,2003,St. Louis Rams,1,3
+252,EAST,reg,2004,New England Patriots,14,2
+253,EAST,reg,2004,New York Jets,10,6
+254,EAST,reg,2004,Buffalo Bills,9,7
+255,EAST,reg,2004,Miami Dolphins,4,12
+256,NORTH,reg,2004,Pittsburgh Steelers,15,1
+257,NORTH,reg,2004,Baltimore Ravens,9,7
+258,NORTH,reg,2004,Cincinnati Bengals,8,8
+259,NORTH,reg,2004,Cleveland Browns,4,12
+260,SOUTH,reg,2004,Indianapolis Colts,12,4
+261,SOUTH,reg,2004,Jacksonville Jaguars,9,7
+262,SOUTH,reg,2004,Houston Texans,7,9
+263,SOUTH,reg,2004,Tennessee Titans,5,11
+264,WEST,reg,2004,San Diego Chargers,12,4
+265,WEST,reg,2004,Denver Broncos,10,6
+266,WEST,reg,2004,Kansas City Chiefs,7,9
+267,WEST,reg,2004,Oakland Raiders,5,11
+268,EAST,reg,2004,Philadelphia Eagles,13,3
+269,EAST,reg,2004,New York Giants,6,10
+270,EAST,reg,2004,Dallas Cowboys,6,10
+271,EAST,reg,2004,Washington Redskins,6,10
+272,NORTH,reg,2004,Green Bay Packers,10,6
+273,NORTH,reg,2004,Minnesota Vikings,8,8
+274,NORTH,reg,2004,Detroit Lions,6,10
+275,NORTH,reg,2004,Chicago Bears,5,11
+276,SOUTH,reg,2004,Atlanta Falcons,11,5
+277,SOUTH,reg,2004,New Orleans Saints,8,8
+278,SOUTH,reg,2004,Carolina Panthers,7,9
+279,SOUTH,reg,2004,Tampa Bay Buccaneers,5,11
+280,WEST,reg,2004,Seattle Seahawks,9,7
+281,WEST,reg,2004,St. Louis Rams,8,8
+282,WEST,reg,2004,Arizona Cardinals,6,10
+283,WEST,reg,2004,San Francisco 49ers,2,14
+284,EAST,pre,2004,New York Jets,3,1
+285,EAST,pre,2004,Miami Dolphins,2,2
+286,EAST,pre,2004,Buffalo Bills,1,3
+287,EAST,pre,2004,New England Patriots,1,3
+288,NORTH,pre,2004,Baltimore Ravens,3,1
+289,NORTH,pre,2004,Cleveland Browns,3,1
+290,NORTH,pre,2004,Cincinnati Bengals,2,2
+291,NORTH,pre,2004,Pittsburgh Steelers,2,2
+292,SOUTH,pre,2004,Jacksonville Jaguars,3,1
+293,SOUTH,pre,2004,Tennessee Titans,3,1
+294,SOUTH,pre,2004,Indianapolis Colts,2,2
+295,SOUTH,pre,2004,Houston Texans,1,3
+296,WEST,pre,2004,Oakland Raiders,3,1
+297,WEST,pre,2004,San Diego Chargers,2,2
+298,WEST,pre,2004,Denver Broncos,2,3
+299,WEST,pre,2004,Kansas City Chiefs,1,3
+300,EAST,pre,2004,Dallas Cowboys,3,1
+301,EAST,pre,2004,Washington Redskins,3,2
+302,EAST,pre,2004,New York Giants,1,3
+303,EAST,pre,2004,Philadelphia Eagles,1,3
+304,NORTH,pre,2004,Chicago Bears,2,2
+305,NORTH,pre,2004,Detroit Lions,2,2
+306,NORTH,pre,2004,Minnesota Vikings,2,2
+307,NORTH,pre,2004,Green Bay Packers,1,3
+308,SOUTH,pre,2004,Carolina Panthers,4,0
+309,SOUTH,pre,2004,Tampa Bay Buccaneers,3,1
+310,SOUTH,pre,2004,Atlanta Falcons,2,2
+311,SOUTH,pre,2004,New Orleans Saints,2,2
+312,WEST,pre,2004,Seattle Seahawks,3,1
+313,WEST,pre,2004,Arizona Cardinals,1,3
+314,WEST,pre,2004,St. Louis Rams,1,3
+315,WEST,pre,2004,San Francisco 49ers,0,4
+316,EAST,reg,2005,New England Patriots,10,6
+317,EAST,reg,2005,Miami Dolphins,9,7
+318,EAST,reg,2005,Buffalo Bills,5,11
+319,EAST,reg,2005,New York Jets,4,12
+320,NORTH,reg,2005,Cincinnati Bengals,11,5
+321,NORTH,reg,2005,Pittsburgh Steelers,11,5
+322,NORTH,reg,2005,Baltimore Ravens,6,10
+323,NORTH,reg,2005,Cleveland Browns,6,10
+324,SOUTH,reg,2005,Indianapolis Colts,14,2
+325,SOUTH,reg,2005,Jacksonville Jaguars,12,4
+326,SOUTH,reg,2005,Tennessee Titans,4,12
+327,SOUTH,reg,2005,Houston Texans,2,14
+328,WEST,reg,2005,Denver Broncos,13,3
+329,WEST,reg,2005,Kansas City Chiefs,10,6
+330,WEST,reg,2005,San Diego Chargers,9,7
+331,WEST,reg,2005,Oakland Raiders,4,12
+332,EAST,reg,2005,New York Giants,11,5
+333,EAST,reg,2005,Washington Redskins,10,6
+334,EAST,reg,2005,Dallas Cowboys,9,7
+335,EAST,reg,2005,Philadelphia Eagles,6,10
+336,NORTH,reg,2005,Chicago Bears,11,5
+337,NORTH,reg,2005,Minnesota Vikings,9,7
+338,NORTH,reg,2005,Detroit Lions,5,11
+339,NORTH,reg,2005,Green Bay Packers,4,12
+340,SOUTH,reg,2005,Tampa Bay Buccaneers,11,5
+341,SOUTH,reg,2005,Carolina Panthers,11,5
+342,SOUTH,reg,2005,Atlanta Falcons,8,8
+343,SOUTH,reg,2005,New Orleans Saints,3,13
+344,WEST,reg,2005,Seattle Seahawks,13,3
+345,WEST,reg,2005,St. Louis Rams,6,10
+346,WEST,reg,2005,Arizona Cardinals,5,11
+347,WEST,reg,2005,San Francisco 49ers,4,12
+348,EAST,pre,2005,New York Jets,3,1
+349,EAST,pre,2005,Buffalo Bills,2,2
+350,EAST,pre,2005,New England Patriots,2,2
+351,EAST,pre,2005,Miami Dolphins,1,4
+352,NORTH,pre,2005,Cleveland Browns,3,1
+353,NORTH,pre,2005,Pittsburgh Steelers,3,1
+354,NORTH,pre,2005,Baltimore Ravens,2,2
+355,NORTH,pre,2005,Cincinnati Bengals,2,2
+356,SOUTH,pre,2005,Jacksonville Jaguars,2,2
+357,SOUTH,pre,2005,Houston Texans,1,3
+358,SOUTH,pre,2005,Tennessee Titans,1,3
+359,SOUTH,pre,2005,Indianapolis Colts,0,5
+360,WEST,pre,2005,Denver Broncos,4,0
+361,WEST,pre,2005,San Diego Chargers,2,2
+362,WEST,pre,2005,Oakland Raiders,1,3
+363,WEST,pre,2005,Kansas City Chiefs,0,4
+364,EAST,pre,2005,Dallas Cowboys,3,1
+365,EAST,pre,2005,New York Giants,3,1
+366,EAST,pre,2005,Philadelphia Eagles,2,2
+367,EAST,pre,2005,Washington Redskins,1,3
+368,NORTH,pre,2005,Minnesota Vikings,3,1
+369,NORTH,pre,2005,Chicago Bears,3,2
+370,NORTH,pre,2005,Green Bay Packers,2,2
+371,NORTH,pre,2005,Detroit Lions,1,3
+372,SOUTH,pre,2005,Atlanta Falcons,4,1
+373,SOUTH,pre,2005,Carolina Panthers,2,2
+374,SOUTH,pre,2005,Tampa Bay Buccaneers,2,2
+375,SOUTH,pre,2005,New Orleans Saints,1,3
+376,WEST,pre,2005,Arizona Cardinals,3,1
+377,WEST,pre,2005,St. Louis Rams,3,1
+378,WEST,pre,2005,San Francisco 49ers,2,2
+379,WEST,pre,2005,Seattle Seahawks,2,2
+380,EAST,reg,2006,New England Patriots,12,4
+381,EAST,reg,2006,New York Jets,10,6
+382,EAST,reg,2006,Buffalo Bills,7,9
+383,EAST,reg,2006,Miami Dolphins,6,10
+384,NORTH,reg,2006,Baltimore Ravens,13,3
+385,NORTH,reg,2006,Cincinnati Bengals,8,8
+386,NORTH,reg,2006,Pittsburgh Steelers,8,8
+387,NORTH,reg,2006,Cleveland Browns,4,12
+388,SOUTH,reg,2006,Indianapolis Colts,12,4
+389,SOUTH,reg,2006,Tennessee Titans,8,8
+390,SOUTH,reg,2006,Jacksonville Jaguars,8,8
+391,SOUTH,reg,2006,Houston Texans,6,10
+392,WEST,reg,2006,San Diego Chargers,14,2
+393,WEST,reg,2006,Kansas City Chiefs,9,7
+394,WEST,reg,2006,Denver Broncos,9,7
+395,WEST,reg,2006,Oakland Raiders,2,14
+396,EAST,reg,2006,Philadelphia Eagles,10,6
+397,EAST,reg,2006,Dallas Cowboys,9,7
+398,EAST,reg,2006,New York Giants,8,8
+399,EAST,reg,2006,Washington Redskins,5,11
+400,NORTH,reg,2006,Chicago Bears,13,3
+401,NORTH,reg,2006,Green Bay Packers,8,8
+402,NORTH,reg,2006,Minnesota Vikings,6,10
+403,NORTH,reg,2006,Detroit Lions,3,13
+404,SOUTH,reg,2006,New Orleans Saints,10,6
+405,SOUTH,reg,2006,Carolina Panthers,8,8
+406,SOUTH,reg,2006,Atlanta Falcons,7,9
+407,SOUTH,reg,2006,Tampa Bay Buccaneers,4,12
+408,WEST,reg,2006,Seattle Seahawks,9,7
+409,WEST,reg,2006,St. Louis Rams,8,8
+410,WEST,reg,2006,San Francisco 49ers,7,9
+411,WEST,reg,2006,Arizona Cardinals,5,11
+412,EAST,pre,2006,Miami Dolphins,2,2
+413,EAST,pre,2006,New England Patriots,2,2
+414,EAST,pre,2006,New York Jets,2,2
+415,EAST,pre,2006,Buffalo Bills,1,3
+416,NORTH,pre,2006,Cincinnati Bengals,4,0
+417,NORTH,pre,2006,Baltimore Ravens,2,2
+418,NORTH,pre,2006,Cleveland Browns,2,2
+419,NORTH,pre,2006,Pittsburgh Steelers,0,4
+420,SOUTH,pre,2006,Houston Texans,3,1
+421,SOUTH,pre,2006,Jacksonville Jaguars,3,1
+422,SOUTH,pre,2006,Indianapolis Colts,1,3
+423,SOUTH,pre,2006,Tennessee Titans,1,3
+424,WEST,pre,2006,Oakland Raiders,4,1
+425,WEST,pre,2006,Denver Broncos,3,1
+426,WEST,pre,2006,Kansas City Chiefs,2,2
+427,WEST,pre,2006,San Diego Chargers,2,2
+428,EAST,pre,2006,New York Giants,4,0
+429,EAST,pre,2006,Dallas Cowboys,3,0
+430,EAST,pre,2006,Philadelphia Eagles,2,3
+431,EAST,pre,2006,Washington Redskins,0,4
+432,NORTH,pre,2006,Minnesota Vikings,2,1
+433,NORTH,pre,2006,Chicago Bears,2,2
+434,NORTH,pre,2006,Detroit Lions,1,3
+435,NORTH,pre,2006,Green Bay Packers,1,3
+436,SOUTH,pre,2006,Carolina Panthers,4,0
+437,SOUTH,pre,2006,Atlanta Falcons,2,2
+438,SOUTH,pre,2006,New Orleans Saints,1,3
+439,SOUTH,pre,2006,Tampa Bay Buccaneers,1,3
+440,WEST,pre,2006,Arizona Cardinals,2,2
+441,WEST,pre,2006,San Francisco 49ers,2,2
+442,WEST,pre,2006,Seattle Seahawks,2,2
+443,WEST,pre,2006,St. Louis Rams,1,3
+444,EAST,reg,2007,New England Patriots,16,0
+445,EAST,reg,2007,Buffalo Bills,7,9
+446,EAST,reg,2007,New York Jets,4,12
+447,EAST,reg,2007,Miami Dolphins,1,15
+448,NORTH,reg,2007,Pittsburgh Steelers,10,6
+449,NORTH,reg,2007,Cleveland Browns,10,6
+450,NORTH,reg,2007,Cincinnati Bengals,7,9
+451,NORTH,reg,2007,Baltimore Ravens,5,11
+452,SOUTH,reg,2007,Indianapolis Colts,13,3
+453,SOUTH,reg,2007,Jacksonville Jaguars,11,5
+454,SOUTH,reg,2007,Tennessee Titans,10,6
+455,SOUTH,reg,2007,Houston Texans,8,8
+456,WEST,reg,2007,San Diego Chargers,11,5
+457,WEST,reg,2007,Denver Broncos,7,9
+458,WEST,reg,2007,Kansas City Chiefs,4,12
+459,WEST,reg,2007,Oakland Raiders,4,12
+460,EAST,reg,2007,Dallas Cowboys,13,3
+461,EAST,reg,2007,New York Giants,10,6
+462,EAST,reg,2007,Washington Redskins,9,7
+463,EAST,reg,2007,Philadelphia Eagles,8,8
+464,NORTH,reg,2007,Green Bay Packers,13,3
+465,NORTH,reg,2007,Minnesota Vikings,8,8
+466,NORTH,reg,2007,Detroit Lions,7,9
+467,NORTH,reg,2007,Chicago Bears,7,9
+468,SOUTH,reg,2007,Tampa Bay Buccaneers,9,7
+469,SOUTH,reg,2007,Carolina Panthers,7,9
+470,SOUTH,reg,2007,New Orleans Saints,7,9
+471,SOUTH,reg,2007,Atlanta Falcons,4,12
+472,WEST,reg,2007,Seattle Seahawks,10,6
+473,WEST,reg,2007,Arizona Cardinals,8,8
+474,WEST,reg,2007,San Francisco 49ers,5,11
+475,WEST,reg,2007,St. Louis Rams,3,13
+476,EAST,pre,2007,New York Jets,3,1
+477,EAST,pre,2007,Buffalo Bills,2,2
+478,EAST,pre,2007,Miami Dolphins,2,2
+479,EAST,pre,2007,New England Patriots,2,2
+480,NORTH,pre,2007,Pittsburgh Steelers,4,1
+481,NORTH,pre,2007,Cleveland Browns,3,1
+482,NORTH,pre,2007,Baltimore Ravens,1,3
+483,NORTH,pre,2007,Cincinnati Bengals,1,3
+484,SOUTH,pre,2007,Jacksonville Jaguars,3,1
+485,SOUTH,pre,2007,Tennessee Titans,3,1
+486,SOUTH,pre,2007,Houston Texans,2,2
+487,SOUTH,pre,2007,Indianapolis Colts,1,3
+488,WEST,pre,2007,San Diego Chargers,3,1
+489,WEST,pre,2007,Denver Broncos,2,2
+490,WEST,pre,2007,Oakland Raiders,2,2
+491,WEST,pre,2007,Kansas City Chiefs,0,4
+492,EAST,pre,2007,Dallas Cowboys,2,2
+493,EAST,pre,2007,Washington Redskins,2,2
+494,EAST,pre,2007,New York Giants,1,3
+495,EAST,pre,2007,Philadelphia Eagles,1,3
+496,NORTH,pre,2007,Chicago Bears,3,1
+497,NORTH,pre,2007,Detroit Lions,2,2
+498,NORTH,pre,2007,Green Bay Packers,2,2
+499,NORTH,pre,2007,Minnesota Vikings,2,2
+500,SOUTH,pre,2007,Atlanta Falcons,3,1
+501,SOUTH,pre,2007,Tampa Bay Buccaneers,3,1
+502,SOUTH,pre,2007,New Orleans Saints,3,2
+503,SOUTH,pre,2007,Carolina Panthers,1,3
+504,WEST,pre,2007,Seattle Seahawks,3,1
+505,WEST,pre,2007,St. Louis Rams,2,2
+506,WEST,pre,2007,San Francisco 49ers,1,3
+507,WEST,pre,2007,Arizona Cardinals,0,4
+508,EAST,reg,2008,Miami Dolphins,11,5
+509,EAST,reg,2008,New England Patriots,11,5
+510,EAST,reg,2008,New York Jets,9,7
+511,EAST,reg,2008,Buffalo Bills,7,9
+512,NORTH,reg,2008,Pittsburgh Steelers,12,4
+513,NORTH,reg,2008,Baltimore Ravens,11,5
+514,NORTH,reg,2008,Cincinnati Bengals,4,11
+515,NORTH,reg,2008,Cleveland Browns,4,12
+516,SOUTH,reg,2008,Tennessee Titans,13,3
+517,SOUTH,reg,2008,Indianapolis Colts,12,4
+518,SOUTH,reg,2008,Houston Texans,8,8
+519,SOUTH,reg,2008,Jacksonville Jaguars,5,11
+520,WEST,reg,2008,San Diego Chargers,8,8
+521,WEST,reg,2008,Denver Broncos,8,8
+522,WEST,reg,2008,Oakland Raiders,5,11
+523,WEST,reg,2008,Kansas City Chiefs,2,14
+524,EAST,reg,2008,New York Giants,12,4
+525,EAST,reg,2008,Philadelphia Eagles,9,6
+526,EAST,reg,2008,Dallas Cowboys,9,7
+527,EAST,reg,2008,Washington Redskins,8,8
+528,NORTH,reg,2008,Minnesota Vikings,10,6
+529,NORTH,reg,2008,Chicago Bears,9,7
+530,NORTH,reg,2008,Green Bay Packers,6,10
+531,NORTH,reg,2008,Detroit Lions,0,16
+532,SOUTH,reg,2008,Carolina Panthers,12,4
+533,SOUTH,reg,2008,Atlanta Falcons,11,5
+534,SOUTH,reg,2008,Tampa Bay Buccaneers,9,7
+535,SOUTH,reg,2008,New Orleans Saints,8,8
+536,WEST,reg,2008,Arizona Cardinals,9,7
+537,WEST,reg,2008,San Francisco 49ers,7,9
+538,WEST,reg,2008,Seattle Seahawks,4,12
+539,WEST,reg,2008,St. Louis Rams,2,14
+540,EAST,pre,2008,Miami Dolphins,3,1
+541,EAST,pre,2008,New York Jets,3,1
+542,EAST,pre,2008,Buffalo Bills,2,2
+543,EAST,pre,2008,New England Patriots,0,4
+544,NORTH,pre,2008,Pittsburgh Steelers,3,1
+545,NORTH,pre,2008,Cincinnati Bengals,2,2
+546,NORTH,pre,2008,Baltimore Ravens,1,3
+547,NORTH,pre,2008,Cleveland Browns,0,4
+548,SOUTH,pre,2008,Jacksonville Jaguars,3,1
+549,SOUTH,pre,2008,Tennessee Titans,3,1
+550,SOUTH,pre,2008,Houston Texans,2,2
+551,SOUTH,pre,2008,Indianapolis Colts,1,4
+552,WEST,pre,2008,San Diego Chargers,3,1
+553,WEST,pre,2008,Denver Broncos,2,2
+554,WEST,pre,2008,Kansas City Chiefs,2,2
+555,WEST,pre,2008,Oakland Raiders,1,3
+556,EAST,pre,2008,Washington Redskins,3,2
+557,EAST,pre,2008,Dallas Cowboys,2,2
+558,EAST,pre,2008,New York Giants,2,2
+559,EAST,pre,2008,Philadelphia Eagles,2,2
+560,NORTH,pre,2008,Detroit Lions,4,0
+561,NORTH,pre,2008,Chicago Bears,1,3
+562,NORTH,pre,2008,Green Bay Packers,1,3
+563,NORTH,pre,2008,Minnesota Vikings,1,3
+564,SOUTH,pre,2008,Tampa Bay Buccaneers,3,1
+565,SOUTH,pre,2008,Atlanta Falcons,2,2
+566,SOUTH,pre,2008,Carolina Panthers,2,2
+567,SOUTH,pre,2008,New Orleans Saints,2,2
+568,WEST,pre,2008,Seattle Seahawks,3,1
+569,WEST,pre,2008,Arizona Cardinals,2,2
+570,WEST,pre,2008,San Francisco 49ers,2,2
+571,WEST,pre,2008,St. Louis Rams,2,2
+572,EAST,reg,2009,New England Patriots,10,6
+573,EAST,reg,2009,New York Jets,9,7
+574,EAST,reg,2009,Miami Dolphins,7,9
+575,EAST,reg,2009,Buffalo Bills,6,10
+576,NORTH,reg,2009,Cincinnati Bengals,10,6
+577,NORTH,reg,2009,Baltimore Ravens,9,7
+578,NORTH,reg,2009,Pittsburgh Steelers,9,7
+579,NORTH,reg,2009,Cleveland Browns,5,11
+580,SOUTH,reg,2009,Indianapolis Colts,14,2
+581,SOUTH,reg,2009,Houston Texans,9,7
+582,SOUTH,reg,2009,Tennessee Titans,8,8
+583,SOUTH,reg,2009,Jacksonville Jaguars,7,9
+584,WEST,reg,2009,San Diego Chargers,13,3
+585,WEST,reg,2009,Denver Broncos,8,8
+586,WEST,reg,2009,Oakland Raiders,5,11
+587,WEST,reg,2009,Kansas City Chiefs,4,12
+588,EAST,reg,2009,Dallas Cowboys,11,5
+589,EAST,reg,2009,Philadelphia Eagles,11,5
+590,EAST,reg,2009,New York Giants,8,8
+591,EAST,reg,2009,Washington Redskins,4,12
+592,NORTH,reg,2009,Minnesota Vikings,12,4
+593,NORTH,reg,2009,Green Bay Packers,11,5
+594,NORTH,reg,2009,Chicago Bears,7,9
+595,NORTH,reg,2009,Detroit Lions,2,14
+596,SOUTH,reg,2009,New Orleans Saints,13,3
+597,SOUTH,reg,2009,Atlanta Falcons,9,7
+598,SOUTH,reg,2009,Carolina Panthers,8,8
+599,SOUTH,reg,2009,Tampa Bay Buccaneers,3,13
+600,WEST,reg,2009,Arizona Cardinals,10,6
+601,WEST,reg,2009,San Francisco 49ers,8,8
+602,WEST,reg,2009,Seattle Seahawks,5,11
+603,WEST,reg,2009,St. Louis Rams,1,15
+604,EAST,pre,2009,Miami Dolphins,4,0
+605,EAST,pre,2009,New England Patriots,3,1
+606,EAST,pre,2009,New York Jets,2,2
+607,EAST,pre,2009,Buffalo Bills,1,4
+608,NORTH,pre,2009,Baltimore Ravens,4,0
+609,NORTH,pre,2009,Pittsburgh Steelers,3,1
+610,NORTH,pre,2009,Cincinnati Bengals,2,2
+611,NORTH,pre,2009,Cleveland Browns,2,2
+612,SOUTH,pre,2009,Tennessee Titans,3,2
+613,SOUTH,pre,2009,Houston Texans,2,2
+614,SOUTH,pre,2009,Indianapolis Colts,1,3
+615,SOUTH,pre,2009,Jacksonville Jaguars,1,3
+616,WEST,pre,2009,San Diego Chargers,2,2
+617,WEST,pre,2009,Denver Broncos,1,3
+618,WEST,pre,2009,Oakland Raiders,1,3
+619,WEST,pre,2009,Kansas City Chiefs,0,4
+620,EAST,pre,2009,Dallas Cowboys,2,2
+621,EAST,pre,2009,New York Giants,1,3
+622,EAST,pre,2009,Philadelphia Eagles,1,3
+623,EAST,pre,2009,Washington Redskins,1,3
+624,NORTH,pre,2009,Chicago Bears,3,1
+625,NORTH,pre,2009,Detroit Lions,3,1
+626,NORTH,pre,2009,Green Bay Packers,3,1
+627,NORTH,pre,2009,Minnesota Vikings,3,1
+628,SOUTH,pre,2009,New Orleans Saints,3,1
+629,SOUTH,pre,2009,Atlanta Falcons,2,2
+630,SOUTH,pre,2009,Tampa Bay Buccaneers,1,3
+631,SOUTH,pre,2009,Carolina Panthers,0,4
+632,WEST,pre,2009,Seattle Seahawks,4,0
+633,WEST,pre,2009,San Francisco 49ers,3,1
+634,WEST,pre,2009,St. Louis Rams,3,1
+635,WEST,pre,2009,Arizona Cardinals,0,4
+636,EAST,reg,2010,New England Patriots,14,2
+637,EAST,reg,2010,New York Jets,11,5
+638,EAST,reg,2010,Miami Dolphins,7,9
+639,EAST,reg,2010,Buffalo Bills,4,12
+640,NORTH,reg,2010,Pittsburgh Steelers,12,4
+641,NORTH,reg,2010,Baltimore Ravens,12,4
+642,NORTH,reg,2010,Cleveland Browns,5,11
+643,NORTH,reg,2010,Cincinnati Bengals,4,12
+644,SOUTH,reg,2010,Indianapolis Colts,10,6
+645,SOUTH,reg,2010,Jacksonville Jaguars,8,8
+646,SOUTH,reg,2010,Houston Texans,6,10
+647,SOUTH,reg,2010,Tennessee Titans,6,10
+648,WEST,reg,2010,Kansas City Chiefs,10,6
+649,WEST,reg,2010,San Diego Chargers,9,7
+650,WEST,reg,2010,Oakland Raiders,8,8
+651,WEST,reg,2010,Denver Broncos,4,12
+652,EAST,reg,2010,Philadelphia Eagles,10,6
+653,EAST,reg,2010,New York Giants,10,6
+654,EAST,reg,2010,Dallas Cowboys,6,10
+655,EAST,reg,2010,Washington Redskins,6,10
+656,NORTH,reg,2010,Chicago Bears,11,5
+657,NORTH,reg,2010,Green Bay Packers,10,6
+658,NORTH,reg,2010,Detroit Lions,6,10
+659,NORTH,reg,2010,Minnesota Vikings,6,10
+660,SOUTH,reg,2010,Atlanta Falcons,13,3
+661,SOUTH,reg,2010,New Orleans Saints,11,5
+662,SOUTH,reg,2010,Tampa Bay Buccaneers,10,6
+663,SOUTH,reg,2010,Carolina Panthers,2,14
+664,WEST,reg,2010,Seattle Seahawks,7,9
+665,WEST,reg,2010,St. Louis Rams,7,9
+666,WEST,reg,2010,San Francisco 49ers,6,10
+667,WEST,reg,2010,Arizona Cardinals,5,11
+668,EAST,pre,2010,Buffalo Bills,2,2
+669,EAST,pre,2010,Miami Dolphins,2,2
+670,EAST,pre,2010,New England Patriots,2,2
+671,EAST,pre,2010,New York Jets,2,2
+672,NORTH,pre,2010,Baltimore Ravens,3,1
+673,NORTH,pre,2010,Pittsburgh Steelers,3,1
+674,NORTH,pre,2010,Cincinnati Bengals,3,2
+675,NORTH,pre,2010,Cleveland Browns,2,2
+676,SOUTH,pre,2010,Jacksonville Jaguars,2,2
+677,SOUTH,pre,2010,Tennessee Titans,2,2
+678,SOUTH,pre,2010,Houston Texans,1,3
+679,SOUTH,pre,2010,Indianapolis Colts,0,4
+680,WEST,pre,2010,Oakland Raiders,3,1
+681,WEST,pre,2010,Denver Broncos,1,3
+682,WEST,pre,2010,Kansas City Chiefs,1,3
+683,WEST,pre,2010,San Diego Chargers,1,3
+684,EAST,pre,2010,Dallas Cowboys,3,2
+685,EAST,pre,2010,New York Giants,2,2
+686,EAST,pre,2010,Philadelphia Eagles,2,2
+687,EAST,pre,2010,Washington Redskins,2,2
+688,NORTH,pre,2010,Detroit Lions,3,1
+689,NORTH,pre,2010,Minnesota Vikings,3,1
+690,NORTH,pre,2010,Green Bay Packers,2,2
+691,NORTH,pre,2010,Chicago Bears,0,4
+692,SOUTH,pre,2010,Atlanta Falcons,2,2
+693,SOUTH,pre,2010,New Orleans Saints,2,2
+694,SOUTH,pre,2010,Tampa Bay Buccaneers,2,2
+695,SOUTH,pre,2010,Carolina Panthers,1,3
+696,WEST,pre,2010,San Francisco 49ers,4,0
+697,WEST,pre,2010,Arizona Cardinals,3,1
+698,WEST,pre,2010,St. Louis Rams,3,1
+699,WEST,pre,2010,Seattle Seahawks,1,3
+700,EAST,reg,2011,New England Patriots,13,3
+701,EAST,reg,2011,New York Jets,8,8
+702,EAST,reg,2011,Miami Dolphins,6,10
+703,EAST,reg,2011,Buffalo Bills,6,10
+704,NORTH,reg,2011,Baltimore Ravens,12,4
+705,NORTH,reg,2011,Pittsburgh Steelers,12,4
+706,NORTH,reg,2011,Cincinnati Bengals,9,7
+707,NORTH,reg,2011,Cleveland Browns,4,12
+708,SOUTH,reg,2011,Houston Texans,10,6
+709,SOUTH,reg,2011,Tennessee Titans,9,7
+710,SOUTH,reg,2011,Jacksonville Jaguars,5,11
+711,SOUTH,reg,2011,Indianapolis Colts,2,14
+712,WEST,reg,2011,Denver Broncos,8,8
+713,WEST,reg,2011,San Diego Chargers,8,8
+714,WEST,reg,2011,Oakland Raiders,8,8
+715,WEST,reg,2011,Kansas City Chiefs,7,9
+716,EAST,reg,2011,New York Giants,9,7
+717,EAST,reg,2011,Philadelphia Eagles,8,8
+718,EAST,reg,2011,Dallas Cowboys,8,8
+719,EAST,reg,2011,Washington Redskins,5,11
+720,NORTH,reg,2011,Green Bay Packers,15,1
+721,NORTH,reg,2011,Detroit Lions,10,6
+722,NORTH,reg,2011,Chicago Bears,8,8
+723,NORTH,reg,2011,Minnesota Vikings,3,13
+724,SOUTH,reg,2011,New Orleans Saints,13,3
+725,SOUTH,reg,2011,Atlanta Falcons,10,6
+726,SOUTH,reg,2011,Carolina Panthers,6,10
+727,SOUTH,reg,2011,Tampa Bay Buccaneers,4,12
+728,WEST,reg,2011,San Francisco 49ers,13,3
+729,WEST,reg,2011,Arizona Cardinals,8,8
+730,WEST,reg,2011,Seattle Seahawks,7,9
+731,WEST,reg,2011,St. Louis Rams,2,14
+732,EAST,pre,2011,Miami Dolphins,3,1
+733,EAST,pre,2011,New England Patriots,2,2
+734,EAST,pre,2011,New York Jets,2,2
+735,EAST,pre,2011,Buffalo Bills,1,3
+736,NORTH,pre,2011,Baltimore Ravens,3,1
+737,NORTH,pre,2011,Pittsburgh Steelers,3,1
+738,NORTH,pre,2011,Cincinnati Bengals,1,3
+739,NORTH,pre,2011,Cleveland Browns,1,3
+740,SOUTH,pre,2011,Houston Texans,3,1
+741,SOUTH,pre,2011,Tennessee Titans,3,1
+742,SOUTH,pre,2011,Indianapolis Colts,1,3
+743,SOUTH,pre,2011,Jacksonville Jaguars,1,3
+744,WEST,pre,2011,Denver Broncos,2,2
+745,WEST,pre,2011,San Diego Chargers,2,2
+746,WEST,pre,2011,Kansas City Chiefs,0,4
+747,WEST,pre,2011,Oakland Raiders,0,4
+748,EAST,pre,2011,Philadelphia Eagles,3,1
+749,EAST,pre,2011,Washington Redskins,3,1
+750,EAST,pre,2011,Dallas Cowboys,2,2
+751,EAST,pre,2011,New York Giants,2,2
+752,NORTH,pre,2011,Detroit Lions,4,0
+753,NORTH,pre,2011,Green Bay Packers,3,1
+754,NORTH,pre,2011,Chicago Bears,2,2
+755,NORTH,pre,2011,Minnesota Vikings,2,2
+756,SOUTH,pre,2011,New Orleans Saints,2,2
+757,SOUTH,pre,2011,Tampa Bay Buccaneers,2,2
+758,SOUTH,pre,2011,Carolina Panthers,1,3
+759,SOUTH,pre,2011,Atlanta Falcons,0,4
+760,WEST,pre,2011,St. Louis Rams,4,0
+761,WEST,pre,2011,Arizona Cardinals,2,2
+762,WEST,pre,2011,San Francisco 49ers,2,2
+763,WEST,pre,2011,Seattle Seahawks,2,2
+764,EAST,reg,2012,New England Patriots,12,4
+765,EAST,reg,2012,Miami Dolphins,7,9
+766,EAST,reg,2012,New York Jets,6,10
+767,EAST,reg,2012,Buffalo Bills,6,10
+768,NORTH,reg,2012,Baltimore Ravens,10,6
+769,NORTH,reg,2012,Cincinnati Bengals,10,6
+770,NORTH,reg,2012,Pittsburgh Steelers,8,8
+771,NORTH,reg,2012,Cleveland Browns,5,11
+772,SOUTH,reg,2012,Houston Texans,12,4
+773,SOUTH,reg,2012,Indianapolis Colts,11,5
+774,SOUTH,reg,2012,Tennessee Titans,6,10
+775,SOUTH,reg,2012,Jacksonville Jaguars,2,14
+776,WEST,reg,2012,Denver Broncos,13,3
+777,WEST,reg,2012,San Diego Chargers,7,9
+778,WEST,reg,2012,Oakland Raiders,4,12
+779,WEST,reg,2012,Kansas City Chiefs,2,14
+780,EAST,reg,2012,Washington Redskins,10,6
+781,EAST,reg,2012,New York Giants,9,7
+782,EAST,reg,2012,Dallas Cowboys,8,8
+783,EAST,reg,2012,Philadelphia Eagles,4,12
+784,NORTH,reg,2012,Green Bay Packers,11,5
+785,NORTH,reg,2012,Minnesota Vikings,10,6
+786,NORTH,reg,2012,Chicago Bears,10,6
+787,NORTH,reg,2012,Detroit Lions,4,12
+788,SOUTH,reg,2012,Atlanta Falcons,13,3
+789,SOUTH,reg,2012,Carolina Panthers,7,9
+790,SOUTH,reg,2012,New Orleans Saints,7,9
+791,SOUTH,reg,2012,Tampa Bay Buccaneers,7,9
+792,WEST,reg,2012,San Francisco 49ers,11,4
+793,WEST,reg,2012,Seattle Seahawks,11,5
+794,WEST,reg,2012,St. Louis Rams,7,8
+795,WEST,reg,2012,Arizona Cardinals,5,11
+796,EAST,pre,2012,New England Patriots,1,3
+797,EAST,pre,2012,Buffalo Bills,0,4
+798,EAST,pre,2012,Miami Dolphins,0,4
+799,EAST,pre,2012,New York Jets,0,4
+800,NORTH,pre,2012,Pittsburgh Steelers,3,1
+801,NORTH,pre,2012,Baltimore Ravens,2,2
+802,NORTH,pre,2012,Cincinnati Bengals,2,2
+803,NORTH,pre,2012,Cleveland Browns,2,2
+804,SOUTH,pre,2012,Houston Texans,3,1
+805,SOUTH,pre,2012,Jacksonville Jaguars,3,1
+806,SOUTH,pre,2012,Tennessee Titans,3,1
+807,SOUTH,pre,2012,Indianapolis Colts,2,2
+808,WEST,pre,2012,San Diego Chargers,3,1
+809,WEST,pre,2012,Denver Broncos,2,2
+810,WEST,pre,2012,Kansas City Chiefs,1,3
+811,WEST,pre,2012,Oakland Raiders,1,3
+812,EAST,pre,2012,Philadelphia Eagles,4,0
+813,EAST,pre,2012,Dallas Cowboys,3,1
+814,EAST,pre,2012,Washington Redskins,3,1
+815,EAST,pre,2012,New York Giants,2,2
+816,NORTH,pre,2012,Chicago Bears,3,1
+817,NORTH,pre,2012,Detroit Lions,2,2
+818,NORTH,pre,2012,Green Bay Packers,2,2
+819,NORTH,pre,2012,Minnesota Vikings,1,3
+820,SOUTH,pre,2012,Carolina Panthers,2,2
+821,SOUTH,pre,2012,Tampa Bay Buccaneers,2,2
+822,SOUTH,pre,2012,New Orleans Saints,2,3
+823,SOUTH,pre,2012,Atlanta Falcons,1,3
+824,WEST,pre,2012,Seattle Seahawks,4,0
+825,WEST,pre,2012,San Francisco 49ers,3,1
+826,WEST,pre,2012,St. Louis Rams,2,2
+827,WEST,pre,2012,Arizona Cardinals,1,4
+828,EAST,reg,2013,New England Patriots,12,4
+829,EAST,reg,2013,New York Jets,8,8
+830,EAST,reg,2013,Miami Dolphins,8,8
+831,EAST,reg,2013,Buffalo Bills,6,10
+832,NORTH,reg,2013,Cincinnati Bengals,11,5
+833,NORTH,reg,2013,Pittsburgh Steelers,8,8
+834,NORTH,reg,2013,Baltimore Ravens,8,8
+835,NORTH,reg,2013,Cleveland Browns,4,12
+836,SOUTH,reg,2013,Indianapolis Colts,11,5
+837,SOUTH,reg,2013,Tennessee Titans,7,9
+838,SOUTH,reg,2013,Jacksonville Jaguars,4,12
+839,SOUTH,reg,2013,Houston Texans,2,14
+840,WEST,reg,2013,Denver Broncos,13,3
+841,WEST,reg,2013,Kansas City Chiefs,11,5
+842,WEST,reg,2013,San Diego Chargers,9,7
+843,WEST,reg,2013,Oakland Raiders,4,12
+844,EAST,reg,2013,Philadelphia Eagles,10,6
+845,EAST,reg,2013,Dallas Cowboys,8,8
+846,EAST,reg,2013,New York Giants,7,9
+847,EAST,reg,2013,Washington Redskins,3,13
+848,NORTH,reg,2013,Green Bay Packers,8,7
+849,NORTH,reg,2013,Chicago Bears,8,8
+850,NORTH,reg,2013,Detroit Lions,7,9
+851,NORTH,reg,2013,Minnesota Vikings,5,10
+852,SOUTH,reg,2013,Carolina Panthers,12,4
+853,SOUTH,reg,2013,New Orleans Saints,11,5
+854,SOUTH,reg,2013,Atlanta Falcons,4,12
+855,SOUTH,reg,2013,Tampa Bay Buccaneers,4,12
+856,WEST,reg,2013,Seattle Seahawks,13,3
+857,WEST,reg,2013,San Francisco 49ers,12,4
+858,WEST,reg,2013,Arizona Cardinals,10,6
+859,WEST,reg,2013,St. Louis Rams,7,9
+860,EAST,pre,2013,New England Patriots,3,1
+861,EAST,pre,2013,New York Jets,3,1
+862,EAST,pre,2013,Buffalo Bills,2,2
+863,EAST,pre,2013,Miami Dolphins,2,3
+864,NORTH,pre,2013,Cincinnati Bengals,3,1
+865,NORTH,pre,2013,Cleveland Browns,3,1
+866,NORTH,pre,2013,Baltimore Ravens,2,2
+867,NORTH,pre,2013,Pittsburgh Steelers,0,4
+868,SOUTH,pre,2013,Houston Texans,3,1
+869,SOUTH,pre,2013,Indianapolis Colts,2,2
+870,SOUTH,pre,2013,Jacksonville Jaguars,1,3
+871,SOUTH,pre,2013,Tennessee Titans,1,3
+872,WEST,pre,2013,Denver Broncos,2,2
+873,WEST,pre,2013,Kansas City Chiefs,2,2
+874,WEST,pre,2013,Oakland Raiders,1,3
+875,WEST,pre,2013,San Diego Chargers,1,3
+876,EAST,pre,2013,Washington Redskins,4,0
+877,EAST,pre,2013,Philadelphia Eagles,2,2
+878,EAST,pre,2013,Dallas Cowboys,2,3
+879,EAST,pre,2013,New York Giants,1,3
+880,NORTH,pre,2013,Detroit Lions,3,1
+881,NORTH,pre,2013,Chicago Bears,2,2
+882,NORTH,pre,2013,Green Bay Packers,1,3
+883,NORTH,pre,2013,Minnesota Vikings,1,3
+884,SOUTH,pre,2013,Carolina Panthers,3,1
+885,SOUTH,pre,2013,New Orleans Saints,3,1
+886,SOUTH,pre,2013,Tampa Bay Buccaneers,1,3
+887,SOUTH,pre,2013,Atlanta Falcons,0,4
+888,WEST,pre,2013,Seattle Seahawks,4,0
+889,WEST,pre,2013,Arizona Cardinals,3,1
+890,WEST,pre,2013,San Francisco 49ers,3,1
+891,WEST,pre,2013,St. Louis Rams,1,3
+892,EAST,reg,2014,New England Patriots,12,4
+893,EAST,reg,2014,Buffalo Bills,9,7
+894,EAST,reg,2014,Miami Dolphins,8,8
+895,EAST,reg,2014,New York Jets,4,12
+896,NORTH,reg,2014,Pittsburgh Steelers,11,5
+897,NORTH,reg,2014,Cincinnati Bengals,10,5
+898,NORTH,reg,2014,Baltimore Ravens,10,6
+899,NORTH,reg,2014,Cleveland Browns,7,9
+900,SOUTH,reg,2014,Indianapolis Colts,11,5
+901,SOUTH,reg,2014,Houston Texans,9,7
+902,SOUTH,reg,2014,Jacksonville Jaguars,3,13
+903,SOUTH,reg,2014,Tennessee Titans,2,14
+904,WEST,reg,2014,Denver Broncos,12,4
+905,WEST,reg,2014,Kansas City Chiefs,9,7
+906,WEST,reg,2014,San Diego Chargers,9,7
+907,WEST,reg,2014,Oakland Raiders,3,13
+908,EAST,reg,2014,Dallas Cowboys,12,4
+909,EAST,reg,2014,Philadelphia Eagles,10,6
+910,EAST,reg,2014,New York Giants,6,10
+911,EAST,reg,2014,Washington Redskins,4,12
+912,NORTH,reg,2014,Green Bay Packers,12,4
+913,NORTH,reg,2014,Detroit Lions,11,5
+914,NORTH,reg,2014,Minnesota Vikings,7,9
+915,NORTH,reg,2014,Chicago Bears,5,11
+916,SOUTH,reg,2014,Carolina Panthers,7,8
+917,SOUTH,reg,2014,New Orleans Saints,7,9
+918,SOUTH,reg,2014,Atlanta Falcons,6,10
+919,SOUTH,reg,2014,Tampa Bay Buccaneers,2,14
+920,WEST,reg,2014,Seattle Seahawks,12,4
+921,WEST,reg,2014,Arizona Cardinals,11,5
+922,WEST,reg,2014,San Francisco 49ers,8,8
+923,WEST,reg,2014,St. Louis Rams,6,10
+924,EAST,pre,2014,Miami Dolphins,3,1
+925,EAST,pre,2014,New England Patriots,2,2
+926,EAST,pre,2014,New York Jets,2,2
+927,EAST,pre,2014,Buffalo Bills,1,4
+928,NORTH,pre,2014,Baltimore Ravens,4,0
+929,NORTH,pre,2014,Cincinnati Bengals,2,2
+930,NORTH,pre,2014,Cleveland Browns,1,3
+931,NORTH,pre,2014,Pittsburgh Steelers,1,3
+932,SOUTH,pre,2014,Houston Texans,2,2
+933,SOUTH,pre,2014,Tennessee Titans,2,2
+934,SOUTH,pre,2014,Jacksonville Jaguars,1,3
+935,SOUTH,pre,2014,Indianapolis Colts,0,4
+936,WEST,pre,2014,Denver Broncos,3,1
+937,WEST,pre,2014,Oakland Raiders,2,2
+938,WEST,pre,2014,San Diego Chargers,2,2
+939,WEST,pre,2014,Kansas City Chiefs,1,3
+940,EAST,pre,2014,New York Giants,5,0
+941,EAST,pre,2014,Washington Redskins,3,1
+942,EAST,pre,2014,Philadelphia Eagles,2,2
+943,EAST,pre,2014,Dallas Cowboys,0,4
+944,NORTH,pre,2014,Minnesota Vikings,4,0
+945,NORTH,pre,2014,Detroit Lions,3,1
+946,NORTH,pre,2014,Green Bay Packers,3,1
+947,NORTH,pre,2014,Chicago Bears,2,2
+948,SOUTH,pre,2014,New Orleans Saints,3,1
+949,SOUTH,pre,2014,Atlanta Falcons,2,2
+950,SOUTH,pre,2014,Carolina Panthers,2,2
+951,SOUTH,pre,2014,Tampa Bay Buccaneers,1,3
+952,WEST,pre,2014,San Francisco 49ers,2,2
+953,WEST,pre,2014,Seattle Seahawks,2,2
+954,WEST,pre,2014,Arizona Cardinals,1,3
+955,WEST,pre,2014,St. Louis Rams,1,3
+956,EAST,reg,2015,New England Patriots,12,4
+957,EAST,reg,2015,New York Jets,10,6
+958,EAST,reg,2015,Buffalo Bills,8,8
+959,EAST,reg,2015,Miami Dolphins,6,10
+960,NORTH,reg,2015,Cincinnati Bengals,12,4
+961,NORTH,reg,2015,Pittsburgh Steelers,10,6
+962,NORTH,reg,2015,Baltimore Ravens,5,11
+963,NORTH,reg,2015,Cleveland Browns,3,13
+964,SOUTH,reg,2015,Houston Texans,9,7
+965,SOUTH,reg,2015,Indianapolis Colts,8,8
+966,SOUTH,reg,2015,Jacksonville Jaguars,5,11
+967,SOUTH,reg,2015,Tennessee Titans,3,13
+968,WEST,reg,2015,Denver Broncos,12,4
+969,WEST,reg,2015,Kansas City Chiefs,11,5
+970,WEST,reg,2015,Oakland Raiders,7,9
+971,WEST,reg,2015,San Diego Chargers,4,12
+972,EAST,reg,2015,Washington Redskins,9,7
+973,EAST,reg,2015,Philadelphia Eagles,7,9
+974,EAST,reg,2015,New York Giants,6,10
+975,EAST,reg,2015,Dallas Cowboys,4,12
+976,NORTH,reg,2015,Minnesota Vikings,11,5
+977,NORTH,reg,2015,Green Bay Packers,10,6
+978,NORTH,reg,2015,Detroit Lions,7,9
+979,NORTH,reg,2015,Chicago Bears,6,10
+980,SOUTH,reg,2015,Carolina Panthers,15,1
+981,SOUTH,reg,2015,Atlanta Falcons,8,8
+982,SOUTH,reg,2015,New Orleans Saints,7,9
+983,SOUTH,reg,2015,Tampa Bay Buccaneers,6,10
+984,WEST,reg,2015,Arizona Cardinals,13,3
+985,WEST,reg,2015,Seattle Seahawks,10,6
+986,WEST,reg,2015,St. Louis Rams,7,9
+987,WEST,reg,2015,San Francisco 49ers,5,11
+988,EAST,pre,2015,New York Jets,3,1
+989,EAST,pre,2015,Buffalo Bills,2,2
+990,EAST,pre,2015,New England Patriots,2,2
+991,EAST,pre,2015,Miami Dolphins,1,3
+992,NORTH,pre,2015,Cincinnati Bengals,3,1
+993,NORTH,pre,2015,Baltimore Ravens,1,3
+994,NORTH,pre,2015,Cleveland Browns,1,3
+995,NORTH,pre,2015,Pittsburgh Steelers,1,4
+996,SOUTH,pre,2015,Houston Texans,2,2
+997,SOUTH,pre,2015,Jacksonville Jaguars,2,2
+998,SOUTH,pre,2015,Tennessee Titans,2,2
+999,SOUTH,pre,2015,Indianapolis Colts,1,3
+1000,WEST,pre,2015,Kansas City Chiefs,4,0
+1001,WEST,pre,2015,Denver Broncos,3,1
+1002,WEST,pre,2015,San Diego Chargers,2,2
+1003,WEST,pre,2015,Oakland Raiders,1,3
+1004,EAST,pre,2015,Philadelphia Eagles,3,1
+1005,EAST,pre,2015,Washington Redskins,3,1
+1006,EAST,pre,2015,New York Giants,2,2
+1007,EAST,pre,2015,Dallas Cowboys,1,3
+1008,NORTH,pre,2015,Minnesota Vikings,4,1
+1009,NORTH,pre,2015,Chicago Bears,3,1
+1010,NORTH,pre,2015,Detroit Lions,3,1
+1011,NORTH,pre,2015,Green Bay Packers,2,2
+1012,SOUTH,pre,2015,Carolina Panthers,3,1
+1013,SOUTH,pre,2015,Atlanta Falcons,2,2
+1014,SOUTH,pre,2015,Tampa Bay Buccaneers,2,2
+1015,SOUTH,pre,2015,New Orleans Saints,0,4
+1016,WEST,pre,2015,Arizona Cardinals,2,2
+1017,WEST,pre,2015,San Francisco 49ers,2,2
+1018,WEST,pre,2015,Seattle Seahawks,2,2
+1019,WEST,pre,2015,St. Louis Rams,0,4
+1020,EAST,reg,2016,New England Patriots,14,2
+1021,EAST,reg,2016,Miami Dolphins,10,6
+1022,EAST,reg,2016,Buffalo Bills,7,9
+1023,EAST,reg,2016,New York Jets,5,11
+1024,NORTH,reg,2016,Pittsburgh Steelers,11,5
+1025,NORTH,reg,2016,Baltimore Ravens,8,8
+1026,NORTH,reg,2016,Cincinnati Bengals,6,9
+1027,NORTH,reg,2016,Cleveland Browns,1,15
+1028,SOUTH,reg,2016,Houston Texans,9,7
+1029,SOUTH,reg,2016,Tennessee Titans,9,7
+1030,SOUTH,reg,2016,Indianapolis Colts,8,8
+1031,SOUTH,reg,2016,Jacksonville Jaguars,3,13
+1032,WEST,reg,2016,Kansas City Chiefs,12,4
+1033,WEST,reg,2016,Oakland Raiders,12,4
+1034,WEST,reg,2016,Denver Broncos,9,7
+1035,WEST,reg,2016,San Diego Chargers,5,11
+1036,EAST,reg,2016,Dallas Cowboys,13,3
+1037,EAST,reg,2016,New York Giants,11,5
+1038,EAST,reg,2016,Washington Redskins,8,7
+1039,EAST,reg,2016,Philadelphia Eagles,7,9
+1040,NORTH,reg,2016,Green Bay Packers,10,6
+1041,NORTH,reg,2016,Detroit Lions,9,7
+1042,NORTH,reg,2016,Minnesota Vikings,8,8
+1043,NORTH,reg,2016,Chicago Bears,3,13
+1044,SOUTH,reg,2016,Atlanta Falcons,11,5
+1045,SOUTH,reg,2016,Tampa Bay Buccaneers,9,7
+1046,SOUTH,reg,2016,New Orleans Saints,7,9
+1047,SOUTH,reg,2016,Carolina Panthers,6,10
+1048,WEST,reg,2016,Seattle Seahawks,10,5
+1049,WEST,reg,2016,Arizona Cardinals,7,8
+1050,WEST,reg,2016,Los Angeles Rams,4,12
+1051,WEST,reg,2016,San Francisco 49ers,2,14
+1052,EAST,pre,2016,New England Patriots,3,1
+1053,EAST,pre,2016,Miami Dolphins,2,2
+1054,EAST,pre,2016,Buffalo Bills,1,3
+1055,EAST,pre,2016,New York Jets,1,3
+1056,NORTH,pre,2016,Baltimore Ravens,4,0
+1057,NORTH,pre,2016,Cincinnati Bengals,1,3
+1058,NORTH,pre,2016,Pittsburgh Steelers,1,3
+1059,NORTH,pre,2016,Cleveland Browns,0,4
+1060,SOUTH,pre,2016,Houston Texans,4,0
+1061,SOUTH,pre,2016,Tennessee Titans,3,1
+1062,SOUTH,pre,2016,Indianapolis Colts,2,2
+1063,SOUTH,pre,2016,Jacksonville Jaguars,1,3
+1064,WEST,pre,2016,Denver Broncos,2,2
+1065,WEST,pre,2016,Kansas City Chiefs,2,2
+1066,WEST,pre,2016,Oakland Raiders,1,3
+1067,WEST,pre,2016,San Diego Chargers,1,3
+1068,EAST,pre,2016,Philadelphia Eagles,4,0
+1069,EAST,pre,2016,Washington Redskins,3,1
+1070,EAST,pre,2016,New York Giants,2,2
+1071,EAST,pre,2016,Dallas Cowboys,1,3
+1072,NORTH,pre,2016,Minnesota Vikings,4,0
+1073,NORTH,pre,2016,Green Bay Packers,3,1
+1074,NORTH,pre,2016,Detroit Lions,2,2
+1075,NORTH,pre,2016,Chicago Bears,1,3
+1076,SOUTH,pre,2016,Atlanta Falcons,3,1
+1077,SOUTH,pre,2016,Carolina Panthers,2,2
+1078,SOUTH,pre,2016,Tampa Bay Buccaneers,2,2
+1079,SOUTH,pre,2016,New Orleans Saints,0,4
+1080,WEST,pre,2016,Seattle Seahawks,3,1
+1081,WEST,pre,2016,Los Angeles Rams,2,2
+1082,WEST,pre,2016,San Francisco 49ers,2,2
+1083,WEST,pre,2016,Arizona Cardinals,1,3
+1084,EAST,reg,2017,New England Patriots,13,3
+1085,EAST,reg,2017,Buffalo Bills,9,7
+1086,EAST,reg,2017,Miami Dolphins,6,10
+1087,EAST,reg,2017,New York Jets,5,11
+1088,NORTH,reg,2017,Pittsburgh Steelers,13,3
+1089,NORTH,reg,2017,Baltimore Ravens,9,7
+1090,NORTH,reg,2017,Cincinnati Bengals,7,9
+1091,NORTH,reg,2017,Cleveland Browns,0,16
+1092,SOUTH,reg,2017,Jacksonville Jaguars,10,6
+1093,SOUTH,reg,2017,Tennessee Titans,9,7
+1094,SOUTH,reg,2017,Indianapolis Colts,4,12
+1095,SOUTH,reg,2017,Houston Texans,4,12
+1096,WEST,reg,2017,Kansas City Chiefs,10,6
+1097,WEST,reg,2017,Los Angeles Chargers,9,7
+1098,WEST,reg,2017,Oakland Raiders,6,10
+1099,WEST,reg,2017,Denver Broncos,5,11
+1100,EAST,reg,2017,Philadelphia Eagles,13,3
+1101,EAST,reg,2017,Dallas Cowboys,9,7
+1102,EAST,reg,2017,Washington Redskins,7,9
+1103,EAST,reg,2017,New York Giants,3,13
+1104,NORTH,reg,2017,Minnesota Vikings,13,3
+1105,NORTH,reg,2017,Detroit Lions,9,7
+1106,NORTH,reg,2017,Green Bay Packers,7,9
+1107,NORTH,reg,2017,Chicago Bears,5,11
+1108,SOUTH,reg,2017,New Orleans Saints,11,5
+1109,SOUTH,reg,2017,Carolina Panthers,11,5
+1110,SOUTH,reg,2017,Atlanta Falcons,10,6
+1111,SOUTH,reg,2017,Tampa Bay Buccaneers,5,11
+1112,WEST,reg,2017,Los Angeles Rams,11,5
+1113,WEST,reg,2017,Seattle Seahawks,9,7
+1114,WEST,reg,2017,Arizona Cardinals,8,8
+1115,WEST,reg,2017,San Francisco 49ers,6,10
+1116,EAST,pre,2017,Miami Dolphins,2,2
+1117,EAST,pre,2017,New York Jets,2,2
+1118,EAST,pre,2017,Buffalo Bills,1,3
+1119,EAST,pre,2017,New England Patriots,1,3
+1120,NORTH,pre,2017,Baltimore Ravens,4,0
+1121,NORTH,pre,2017,Cleveland Browns,4,0
+1122,NORTH,pre,2017,Pittsburgh Steelers,3,1
+1123,NORTH,pre,2017,Cincinnati Bengals,1,3
+1124,SOUTH,pre,2017,Indianapolis Colts,2,2
+1125,SOUTH,pre,2017,Jacksonville Jaguars,2,2
+1126,SOUTH,pre,2017,Houston Texans,1,2
+1127,SOUTH,pre,2017,Tennessee Titans,1,3
+1128,WEST,pre,2017,Denver Broncos,4,0
+1129,WEST,pre,2017,Kansas City Chiefs,2,2
+1130,WEST,pre,2017,Los Angeles Chargers,1,3
+1131,WEST,pre,2017,Oakland Raiders,0,4
+1132,EAST,pre,2017,Dallas Cowboys,3,1
+1133,EAST,pre,2017,New York Giants,2,2
+1134,EAST,pre,2017,Philadelphia Eagles,2,2
+1135,EAST,pre,2017,Washington Redskins,2,2
+1136,NORTH,pre,2017,Green Bay Packers,3,1
+1137,NORTH,pre,2017,Chicago Bears,2,2
+1138,NORTH,pre,2017,Detroit Lions,2,2
+1139,NORTH,pre,2017,Minnesota Vikings,2,2
+1140,SOUTH,pre,2017,Carolina Panthers,2,2
+1141,SOUTH,pre,2017,New Orleans Saints,2,2
+1142,SOUTH,pre,2017,Tampa Bay Buccaneers,1,3
+1143,SOUTH,pre,2017,Atlanta Falcons,0,4
+1144,WEST,pre,2017,Seattle Seahawks,4,0
+1145,WEST,pre,2017,Los Angeles Rams,2,2
+1146,WEST,pre,2017,San Francisco 49ers,2,2
+1147,WEST,pre,2017,Arizona Cardinals,2,3
+1148,EAST,reg,2018,New England Patriots,11,5
+1149,EAST,reg,2018,Miami Dolphins,7,9
+1150,EAST,reg,2018,Buffalo Bills,6,10
+1151,EAST,reg,2018,New York Jets,4,12
+1152,NORTH,reg,2018,Baltimore Ravens,10,6
+1153,NORTH,reg,2018,Pittsburgh Steelers,9,6
+1154,NORTH,reg,2018,Cleveland Browns,7,8
+1155,NORTH,reg,2018,Cincinnati Bengals,6,10
+1156,SOUTH,reg,2018,Houston Texans,11,5
+1157,SOUTH,reg,2018,Indianapolis Colts,10,6
+1158,SOUTH,reg,2018,Tennessee Titans,9,7
+1159,SOUTH,reg,2018,Jacksonville Jaguars,5,11
+1160,WEST,reg,2018,Kansas City Chiefs,12,4
+1161,WEST,reg,2018,Los Angeles Chargers,12,4
+1162,WEST,reg,2018,Denver Broncos,6,10
+1163,WEST,reg,2018,Oakland Raiders,4,12
+1164,EAST,reg,2018,Dallas Cowboys,10,6
+1165,EAST,reg,2018,Philadelphia Eagles,9,7
+1166,EAST,reg,2018,Washington Redskins,7,9
+1167,EAST,reg,2018,New York Giants,5,11
+1168,NORTH,reg,2018,Chicago Bears,12,4
+1169,NORTH,reg,2018,Minnesota Vikings,8,7
+1170,NORTH,reg,2018,Green Bay Packers,6,9
+1171,NORTH,reg,2018,Detroit Lions,6,10
+1172,SOUTH,reg,2018,New Orleans Saints,13,3
+1173,SOUTH,reg,2018,Atlanta Falcons,7,9
+1174,SOUTH,reg,2018,Carolina Panthers,7,9
+1175,SOUTH,reg,2018,Tampa Bay Buccaneers,5,11
+1176,WEST,reg,2018,Los Angeles Rams,13,3
+1177,WEST,reg,2018,Seattle Seahawks,10,6
+1178,WEST,reg,2018,San Francisco 49ers,4,12
+1179,WEST,reg,2018,Arizona Cardinals,3,13
+1180,EAST,pre,2018,New England Patriots,3,1
+1181,EAST,pre,2018,Buffalo Bills,2,2
+1182,EAST,pre,2018,Miami Dolphins,1,3
+1183,EAST,pre,2018,New York Jets,1,3
+1184,NORTH,pre,2018,Baltimore Ravens,5,0
+1185,NORTH,pre,2018,Cincinnati Bengals,3,1
+1186,NORTH,pre,2018,Cleveland Browns,3,1
+1187,NORTH,pre,2018,Pittsburgh Steelers,3,1
+1188,SOUTH,pre,2018,Houston Texans,3,1
+1189,SOUTH,pre,2018,Indianapolis Colts,3,1
+1190,SOUTH,pre,2018,Jacksonville Jaguars,3,1
+1191,SOUTH,pre,2018,Tennessee Titans,0,4
+1192,WEST,pre,2018,Oakland Raiders,3,1
+1193,WEST,pre,2018,Denver Broncos,2,2
+1194,WEST,pre,2018,Kansas City Chiefs,2,2
+1195,WEST,pre,2018,Los Angeles Chargers,2,2
+1196,EAST,pre,2018,New York Giants,2,2
+1197,EAST,pre,2018,Philadelphia Eagles,1,3
+1198,EAST,pre,2018,Washington Redskins,1,3
+1199,EAST,pre,2018,Dallas Cowboys,0,4
+1200,NORTH,pre,2018,Minnesota Vikings,3,1
+1201,NORTH,pre,2018,Green Bay Packers,2,2
+1202,NORTH,pre,2018,Chicago Bears,2,3
+1203,NORTH,pre,2018,Detroit Lions,1,3
+1204,SOUTH,pre,2018,Carolina Panthers,3,1
+1205,SOUTH,pre,2018,New Orleans Saints,3,1
+1206,SOUTH,pre,2018,Tampa Bay Buccaneers,2,2
+1207,SOUTH,pre,2018,Atlanta Falcons,0,4
+1208,WEST,pre,2018,Arizona Cardinals,3,1
+1209,WEST,pre,2018,Los Angeles Rams,2,2
+1210,WEST,pre,2018,San Francisco 49ers,1,3
+1211,WEST,pre,2018,Seattle Seahawks,0,4
+1212,EAST,reg,2019,New England Patriots,12,4
+1213,EAST,reg,2019,Buffalo Bills,10,6
+1214,EAST,reg,2019,New York Jets,7,9
+1215,EAST,reg,2019,Miami Dolphins,5,11
+1216,NORTH,reg,2019,Baltimore Ravens,14,2
+1217,NORTH,reg,2019,Pittsburgh Steelers,8,8
+1218,NORTH,reg,2019,Cleveland Browns,6,10
+1219,NORTH,reg,2019,Cincinnati Bengals,2,14
+1220,SOUTH,reg,2019,Houston Texans,10,6
+1221,SOUTH,reg,2019,Tennessee Titans,9,7
+1222,SOUTH,reg,2019,Indianapolis Colts,7,9
+1223,SOUTH,reg,2019,Jacksonville Jaguars,6,10
+1224,WEST,reg,2019,Kansas City Chiefs,12,4
+1225,WEST,reg,2019,Denver Broncos,7,9
+1226,WEST,reg,2019,Oakland Raiders,7,9
+1227,WEST,reg,2019,Los Angeles Chargers,5,11
+1228,EAST,reg,2019,Philadelphia Eagles,9,7
+1229,EAST,reg,2019,Dallas Cowboys,8,8
+1230,EAST,reg,2019,New York Giants,4,12
+1231,EAST,reg,2019,Washington Redskins,3,13
+1232,NORTH,reg,2019,Green Bay Packers,13,3
+1233,NORTH,reg,2019,Minnesota Vikings,10,6
+1234,NORTH,reg,2019,Chicago Bears,8,8
+1235,NORTH,reg,2019,Detroit Lions,3,12
+1236,SOUTH,reg,2019,New Orleans Saints,13,3
+1237,SOUTH,reg,2019,Atlanta Falcons,7,9
+1238,SOUTH,reg,2019,Tampa Bay Buccaneers,7,9
+1239,SOUTH,reg,2019,Carolina Panthers,5,11
+1240,WEST,reg,2019,San Francisco 49ers,13,3
+1241,WEST,reg,2019,Seattle Seahawks,11,5
+1242,WEST,reg,2019,Los Angeles Rams,9,7
+1243,WEST,reg,2019,Arizona Cardinals,5,10
+1244,EAST,pre,2019,Buffalo Bills,4,0
+1245,EAST,pre,2019,Miami Dolphins,3,1
+1246,EAST,pre,2019,New England Patriots,3,1
+1247,EAST,pre,2019,New York Jets,2,2
+1248,NORTH,pre,2019,Baltimore Ravens,4,0
+1249,NORTH,pre,2019,Cleveland Browns,3,1
+1250,NORTH,pre,2019,Pittsburgh Steelers,3,1
+1251,NORTH,pre,2019,Cincinnati Bengals,1,3
+1252,SOUTH,pre,2019,Tennessee Titans,2,2
+1253,SOUTH,pre,2019,Houston Texans,1,3
+1254,SOUTH,pre,2019,Indianapolis Colts,1,3
+1255,SOUTH,pre,2019,Jacksonville Jaguars,0,4
+1256,WEST,pre,2019,Oakland Raiders,3,1
+1257,WEST,pre,2019,Denver Broncos,2,3
+1258,WEST,pre,2019,Kansas City Chiefs,1,3
+1259,WEST,pre,2019,Los Angeles Chargers,1,3
+1260,EAST,pre,2019,New York Giants,4,0
+1261,EAST,pre,2019,Dallas Cowboys,2,2
+1262,EAST,pre,2019,Philadelphia Eagles,1,3
+1263,EAST,pre,2019,Washington Redskins,1,3
+1264,NORTH,pre,2019,Minnesota Vikings,3,1
+1265,NORTH,pre,2019,Green Bay Packers,2,2
+1266,NORTH,pre,2019,Chicago Bears,1,3
+1267,NORTH,pre,2019,Detroit Lions,0,4
+1268,SOUTH,pre,2019,Tampa Bay Buccaneers,3,1
+1269,SOUTH,pre,2019,Carolina Panthers,2,2
+1270,SOUTH,pre,2019,New Orleans Saints,2,2
+1271,SOUTH,pre,2019,Atlanta Falcons,1,4
+1272,WEST,pre,2019,San Francisco 49ers,3,1
+1273,WEST,pre,2019,Seattle Seahawks,3,1
+1274,WEST,pre,2019,Los Angeles Rams,2,2
+1275,WEST,pre,2019,Arizona Cardinals,1,3
+1276,EAST,reg,2020,Buffalo Bills,13,3
+1277,EAST,reg,2020,Miami Dolphins,10,6
+1278,EAST,reg,2020,New England Patriots,7,9
+1279,EAST,reg,2020,New York Jets,2,14
+1280,NORTH,reg,2020,Pittsburgh Steelers,12,4
+1281,NORTH,reg,2020,Baltimore Ravens,11,5
+1282,NORTH,reg,2020,Cleveland Browns,11,5
+1283,NORTH,reg,2020,Cincinnati Bengals,4,11
+1284,SOUTH,reg,2020,Tennessee Titans,11,5
+1285,SOUTH,reg,2020,Indianapolis Colts,11,5
+1286,SOUTH,reg,2020,Houston Texans,4,12
+1287,SOUTH,reg,2020,Jacksonville Jaguars,1,15
+1288,WEST,reg,2020,Kansas City Chiefs,14,2
+1289,WEST,reg,2020,Las Vegas Raiders,8,8
+1290,WEST,reg,2020,Los Angeles Chargers,7,9
+1291,WEST,reg,2020,Denver Broncos,5,11
+1292,EAST,reg,2020,Washington Football Team,7,9
+1293,EAST,reg,2020,New York Giants,6,10
+1294,EAST,reg,2020,Dallas Cowboys,6,10
+1295,EAST,reg,2020,Philadelphia Eagles,4,11
+1296,NORTH,reg,2020,Green Bay Packers,13,3
+1297,NORTH,reg,2020,Chicago Bears,8,8
+1298,NORTH,reg,2020,Minnesota Vikings,7,9
+1299,NORTH,reg,2020,Detroit Lions,5,11
+1300,SOUTH,reg,2020,New Orleans Saints,12,4
+1301,SOUTH,reg,2020,Tampa Bay Buccaneers,11,5
+1302,SOUTH,reg,2020,Carolina Panthers,5,11
+1303,SOUTH,reg,2020,Atlanta Falcons,4,12
+1304,WEST,reg,2020,Seattle Seahawks,12,4
+1305,WEST,reg,2020,Los Angeles Rams,10,6
+1306,WEST,reg,2020,Arizona Cardinals,8,8
+1307,WEST,reg,2020,San Francisco 49ers,6,10
+1308,EAST,pre,2020,Buffalo Bills,0,0
+1309,EAST,pre,2020,Miami Dolphins,0,0
+1310,EAST,pre,2020,New England Patriots,0,0
+1311,EAST,pre,2020,New York Jets,0,0
+1312,NORTH,pre,2020,Baltimore Ravens,0,0
+1313,NORTH,pre,2020,Cincinnati Bengals,0,0
+1314,NORTH,pre,2020,Cleveland Browns,0,0
+1315,NORTH,pre,2020,Pittsburgh Steelers,0,0
+1316,SOUTH,pre,2020,Houston Texans,0,0
+1317,SOUTH,pre,2020,Indianapolis Colts,0,0
+1318,SOUTH,pre,2020,Jacksonville Jaguars,0,0
+1319,SOUTH,pre,2020,Tennessee Titans,0,0
+1320,WEST,pre,2020,Denver Broncos,0,0
+1321,WEST,pre,2020,Kansas City Chiefs,0,0
+1322,WEST,pre,2020,Las Vegas Raiders,0,0
+1323,WEST,pre,2020,Los Angeles Chargers,0,0
+1324,EAST,pre,2020,Dallas Cowboys,0,0
+1325,EAST,pre,2020,New York Giants,0,0
+1326,EAST,pre,2020,Philadelphia Eagles,0,0
+1327,EAST,pre,2020,Washington Football Team,0,0
+1328,NORTH,pre,2020,Chicago Bears,0,0
+1329,NORTH,pre,2020,Detroit Lions,0,0
+1330,NORTH,pre,2020,Green Bay Packers,0,0
+1331,NORTH,pre,2020,Minnesota Vikings,0,0
+1332,SOUTH,pre,2020,Atlanta Falcons,0,0
+1333,SOUTH,pre,2020,Carolina Panthers,0,0
+1334,SOUTH,pre,2020,New Orleans Saints,0,0
+1335,SOUTH,pre,2020,Tampa Bay Buccaneers,0,0
+1336,WEST,pre,2020,Arizona Cardinals,0,0
+1337,WEST,pre,2020,Los Angeles Rams,0,0
+1338,WEST,pre,2020,San Francisco 49ers,0,0
+1339,WEST,pre,2020,Seattle Seahawks,0,0
+1340,EAST,reg,2021,Buffalo Bills,11,6
+1341,EAST,reg,2021,New England Patriots,10,7
+1342,EAST,reg,2021,Miami Dolphins,9,8
+1343,EAST,reg,2021,New York Jets,4,13
+1344,NORTH,reg,2021,Cincinnati Bengals,10,7
+1345,NORTH,reg,2021,Pittsburgh Steelers,9,7
+1346,NORTH,reg,2021,Cleveland Browns,8,9
+1347,NORTH,reg,2021,Baltimore Ravens,8,9
+1348,SOUTH,reg,2021,Tennessee Titans,12,5
+1349,SOUTH,reg,2021,Indianapolis Colts,9,8
+1350,SOUTH,reg,2021,Houston Texans,4,13
+1351,SOUTH,reg,2021,Jacksonville Jaguars,3,14
+1352,WEST,reg,2021,Kansas City Chiefs,12,5
+1353,WEST,reg,2021,Las Vegas Raiders,10,7
+1354,WEST,reg,2021,Los Angeles Chargers,9,8
+1355,WEST,reg,2021,Denver Broncos,7,10
+1356,EAST,reg,2021,Dallas Cowboys,12,5
+1357,EAST,reg,2021,Philadelphia Eagles,9,8
+1358,EAST,reg,2021,Washington Football Team,7,10
+1359,EAST,reg,2021,New York Giants,4,13
+1360,NORTH,reg,2021,Green Bay Packers,13,4
+1361,NORTH,reg,2021,Minnesota Vikings,8,9
+1362,NORTH,reg,2021,Chicago Bears,6,11
+1363,NORTH,reg,2021,Detroit Lions,3,13
+1364,SOUTH,reg,2021,Tampa Bay Buccaneers,13,4
+1365,SOUTH,reg,2021,New Orleans Saints,9,8
+1366,SOUTH,reg,2021,Atlanta Falcons,7,10
+1367,SOUTH,reg,2021,Carolina Panthers,5,12
+1368,WEST,reg,2021,Los Angeles Rams,12,5
+1369,WEST,reg,2021,Arizona Cardinals,11,6
+1370,WEST,reg,2021,San Francisco 49ers,10,7
+1371,WEST,reg,2021,Seattle Seahawks,7,10
+1372,EAST,pre,2021,Buffalo Bills,3,0
+1373,EAST,pre,2021,New England Patriots,3,0
+1374,EAST,pre,2021,New York Jets,2,0
+1375,EAST,pre,2021,Miami Dolphins,2,1
+1376,NORTH,pre,2021,Baltimore Ravens,3,0
+1377,NORTH,pre,2021,Cleveland Browns,3,0
+1378,NORTH,pre,2021,Pittsburgh Steelers,3,1
+1379,NORTH,pre,2021,Cincinnati Bengals,1,2
+1380,SOUTH,pre,2021,Indianapolis Colts,3,0
+1381,SOUTH,pre,2021,Houston Texans,2,1
+1382,SOUTH,pre,2021,Tennessee Titans,2,1
+1383,SOUTH,pre,2021,Jacksonville Jaguars,1,2
+1384,WEST,pre,2021,Denver Broncos,3,0
+1385,WEST,pre,2021,Kansas City Chiefs,3,0
+1386,WEST,pre,2021,Las Vegas Raiders,2,1
+1387,WEST,pre,2021,Los Angeles Chargers,1,2
+1388,EAST,pre,2021,Washington Football Team,1,2
+1389,EAST,pre,2021,Philadelphia Eagles,0,2
+1390,EAST,pre,2021,New York Giants,0,3
+1391,EAST,pre,2021,Dallas Cowboys,0,4
+1392,NORTH,pre,2021,Chicago Bears,2,1
+1393,NORTH,pre,2021,Detroit Lions,0,3
+1394,NORTH,pre,2021,Green Bay Packers,0,3
+1395,NORTH,pre,2021,Minnesota Vikings,0,3
+1396,SOUTH,pre,2021,New Orleans Saints,1,1
+1397,SOUTH,pre,2021,Carolina Panthers,1,2
+1398,SOUTH,pre,2021,Tampa Bay Buccaneers,1,2
+1399,SOUTH,pre,2021,Atlanta Falcons,0,3
+1400,WEST,pre,2021,San Francisco 49ers,2,1
+1401,WEST,pre,2021,Arizona Cardinals,1,1
+1402,WEST,pre,2021,Seattle Seahawks,1,2
+1403,WEST,pre,2021,Los Angeles Rams,0,3

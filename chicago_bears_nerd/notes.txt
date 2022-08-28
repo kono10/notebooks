@@ -1,0 +1,3 @@
+https://altair-viz.github.io/gallery/multiple_interactions.html -> dropdown
+
+https://altair-viz.github.io/gallery/index.html#interactive-charts -> all interati

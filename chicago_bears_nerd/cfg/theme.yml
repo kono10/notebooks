@@ -1,0 +1,13 @@
+attrs:
+    Figure:
+        background_fill_color: '#0b162a'
+        border_fill_color: '#0b162a'
+        outline_line_color: '#0b162a'
+    Axis:
+        axis_line_color: !!null
+    Grid:
+        grid_line_dash: [6, 4]
+        grid_line_alpha: .3
+    Title:
+        text_color: "#c83803"
+        text_font: "OL London Black"

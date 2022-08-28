@@ -1,0 +1,94 @@
+,Player (93),Pos.,Age,Exp.,Contract Terms,Avg. Salary,Guaranteed,Expires,Acquired
+0,QuinnRobert Quinn,LB,32,12,"700000005 yr $70,000,000","$14,000,000","$30,000,000",2025,Free Agent
+1,JacksonEddie Jackson,FS,29,6,"584000004 yr $58,400,000","$14,600,000","$33,000,000",2025,Drafted
+2,WhitehairCody Whitehair,C,30,7,"512500005 yr $51,250,000","$10,250,000","$27,026,078",2025,Drafted
+3,FieldsJustin Fields,QB,23,2,"188719574 yr $18,871,957","$4,717,989","$18,871,957",2026,Drafted
+4,SmithRoquan Smith,LB,25,5,"184771684 yr $18,477,168","$4,619,292","$18,477,168",2023,Drafted
+5,JonesJustin Jones,DT,25,5,"120000002 yr $12,000,000","$6,000,000","$7,050,000",2024,Free Agent
+6,EdwardsMario Edwards,DE,28,8,"116603913 yr $11,660,391","$3,886,797","$5,500,000",2024,Free Agent
+7,HarryN'Keal Harry,WR,24,4,"100983464 yr $10,098,346","$2,524,587","$8,405,237",2023,Traded
+8,SantosCairo Santos,K,30,8,"90000003 yr $9,000,000","$3,000,000","$4,575,000",2024,From Prac. Squad (CHI)
+9,GordonKyler Gordon,CB,22,"86829264 yr $8,682,926","$2,170,732","$5,790,021",2026,Drafted,
+10,JenkinsTeven Jenkins,T,24,2,"83878474 yr $8,387,847","$2,096,962","$4,501,518",2025,Drafted
+11,PatrickLucas Patrick,G,29,6,"80000002 yr $8,000,000","$4,000,000","$4,000,000",2024,Free Agent
+12,MuhammadAl-Quadin Muhammad,DE,27,6,"80000002 yr $8,000,000","$4,000,000","$3,300,000",2024,Free Agent
+13,KmetCole Kmet,TE,23,3,"75777784 yr $7,577,778","$1,894,445","$4,025,556",2024,Drafted
+14,BriskerJaquan Brisker,S,23,"73555404 yr $7,355,540","$1,838,885","$3,568,827",2026,Drafted,
+15,JohnsonJaylon Johnson,CB,23,3,"64687704 yr $6,468,770","$1,617,193","$3,168,595",2024,Drafted
+16,BlacksonAngelo Blackson,DE,29,8,"55000002 yr $5,500,000","$2,750,000","$3,000,000",2023,Free Agent
+17,JonesVelus Jones,WR,25,"54059284 yr $5,405,928","$1,351,482","$1,111,584",2026,Drafted,
+18,EvansDarrynton Evans,RB,24,3,"45617884 yr $4,561,788","$1,140,447","$877,664",2024,Claimed
+19,PringleByron Pringle,WR,28,5,"41250001 yr $4,125,000","$4,125,000","$3,900,000",2023,Free Agent
+20,MontgomeryDavid Montgomery,RB,25,4,"40153804 yr $4,015,380","$1,003,845","$1,046,180",2023,Drafted
+21,SiemianTrevor Siemian,QB,30,7,"40000002 yr $4,000,000","$2,000,000","$3,035,000",2024,Free Agent
+22,JonesBraxton Jones,T,23,"39595524 yr $3,959,552","$989,888","$299,552",2026,Drafted,
+23,RobinsonDominique Robinson,DE,24,"39331564 yr $3,933,156","$983,289","$273,156",2026,Drafted,
+24,ThomasZach Thomas,T,24,"38516524 yr $3,851,652","$962,913","$191,652",2026,Drafted,
+25,EbnerTrestan Ebner,RB,23,"38259364 yr $3,825,936","$956,484","$165,936",2026,Drafted,
+26,KramerDoug Kramer,C,24,"38178084 yr $3,817,808","$954,452","$157,808",2026,Drafted,
+27,BoromLarry Borom,T,23,2,"38130804 yr $3,813,080","$953,270","$333,080",2025,Drafted
+28,CarterJa'Tyre Carter,G,23,"37693124 yr $3,769,312","$942,328","$109,312",2026,Drafted,
+29,HicksElijah Hicks,CB,22,"37370084 yr $3,737,008","$934,252","$77,008",2026,Drafted,
+30,GillTrenton Gill,P,"37370084 yr $3,737,008","$934,252","$77,008",2026,Drafted,,
+31,GipsonTrevis Gipson,OLB,25,3,"36206724 yr $3,620,672","$905,168","$325,672",2024,Drafted
+32,HerbertKhalil Herbert,RB,24,2,"36107084 yr $3,610,708","$902,677","$130,708",2025,Drafted
+33,VildorKindle Vildor,CB,24,3,"36056724 yr $3,605,672","$901,418","$310,672",2024,Drafted
+34,MooneyDarnell Mooney,WR,24,3,"35770524 yr $3,577,052","$894,263","$282,052",2024,Drafted
+35,TongaKhyiris Tonga,DT,26,2,"35636484 yr $3,563,648","$890,912","$83,648",2025,Drafted
+36,ReiffRiley Reiff,LT,33,10,"30000001 yr $3,000,000","$3,000,000",-,2023,Free Agent
+37,MorrowNicholas Morrow,OLB,27,6,"30000001 yr $3,000,000","$3,000,000","$2,500,000",2023,Free Agent
+38,ShelleyDuke Shelley,CB,25,4,"25878404 yr $2,587,840","$646,960","$127,840",2023,Drafted
+39,DelanceJean Delance,T,"25800003 yr $2,580,000","$860,000","$120,000",2025,Undrafted,,
+40,ShaaKevin Shaa,WR,"25740003 yr $2,574,000","$858,000","$14,000",2025,Undrafted,,
+41,AllenChase Allen,TE,"25720003 yr $2,572,000","$857,333","$72,000",2025,Undrafted,,
+42,AveryC.J. Avery,LB,"25720003 yr $2,572,000","$857,333","$12,000",2025,Undrafted,,
+43,SanbornJack Sanborn,LB,"25675003 yr $2,567,500","$855,833","$17,500",2025,Undrafted,,
+44,TongesJake Tonges,TE,"25670003 yr $2,567,000","$855,667","$7,000",2025,Undrafted,,
+45,Dew-TreadwayMicah Dew-Treadway,DT,"25650003 yr $2,565,000","$855,000","$5,000",2025,Undrafted,,
+46,JonesJaylon Jones,S,"25625003 yr $2,562,500","$854,167","$2,500",2025,Undrafted,,
+47,ThomasA.J. Thomas,S,"25600003 yr $2,560,000","$853,333",-,2025,Undrafted,,
+48,TaylorCarson Taylor,DE,"25600003 yr $2,560,000","$853,333",-,2025,Undrafted,,
+49,TuggleDe'Montre Tuggle,RB,"25600003 yr $2,560,000","$853,333",-,2025,Undrafted,,
+50,JohnsonCaleb Johnson,LB,24,2,"24320003 yr $2,432,000","$810,667","$7,000",2024,Undrafted
+51,GriffinRyan Griffin,TE,32,10,"22500001 yr $2,250,000","$2,250,000","$750,000",2023,Free Agent
+52,Houston-CarsonDeAndre Houston-Carson,S,29,7,"17700001 yr $1,770,000","$1,770,000","$1,770,000",2023,Free Agent
+53,JohnRysen John,WR,24,1,"14900001 yr $1,490,000","$1,490,000","$5,000",2023,Claimed
+54,YoungTavon Young,CB,28,7,"13650001 yr $1,365,000","$1,365,000","$650,000",2023,Free Agent
+55,ScalesPatrick Scales,LS,34,7,"12725001 yr $1,272,500","$1,272,500","$1,047,500",2023,Free Agent
+56,CruikshankDane Cruikshank,CB,27,5,"11875001 yr $1,187,500","$1,187,500","$1,047,500",2023,Free Agent
+57,AdamsMatthew Adams,OLB,26,5,"11875001 yr $1,187,500","$1,187,500","$152,500",2023,Free Agent
+58,SchofieldMichael Schofield,G,31,9,"11200001 yr $1,120,000","$1,120,000",-,2023,Free Agent
+59,DozierDakota Dozier,LT,31,9,"11200001 yr $1,120,000","$1,120,000",-,2023,Free Agent
+60,PennelMike Pennel,DT,31,9,"11200001 yr $1,120,000","$1,120,000",-,2023,Free Agent
+61,O'ShaughnessyJames O'Shaughnessy,TE,30,8,"11200001 yr $1,120,000","$1,120,000",-,2023,Free Agent
+62,IrvinBruce Irvin,DE,34,10,"10750001 yr $1,075,000","$1,075,000",-,-,
+63,MarshCassius Marsh,DE,30,9,"10750001 yr $1,075,000","$1,075,000",-,-,
+64,ThomasJoe Thomas,OLB,31,8,"10350001 yr $1,035,000","$1,035,000",-,2023,Reserve/Future
+65,SharpeTajae Sharpe,WR,27,7,"10350001 yr $1,035,000","$1,035,000",-,2023,Free Agent
+66,ColeyTrevon Coley,DT,28,6,"10350001 yr $1,035,000","$1,035,000",-,2023,Free Agent
+67,DavenportJulie'n Davenport,LT,27,6,"10350001 yr $1,035,000","$1,035,000",-,2023,Free Agent
+68,PetermanNathan Peterman,QB,28,4,"10350001 yr $1,035,000","$1,035,000",-,2023,Free Agent
+69,MooreDavid Moore,WR,27,6,"10350001 yr $1,035,000","$1,035,000",-,2023,Free Agent
+70,PettisDante Pettis,WR,26,4,"10350001 yr $1,035,000","$1,035,000",-,2023,Free Agent
+71,HarrisDavontae Harris,CB,27,5,"10350001 yr $1,035,000","$1,035,000",-,2023,
+72,St. BrownEquanimeous St. Brown,WR,25,5,"9650001 yr $965,000","$965,000",-,2023,Free Agent
+73,WebsterNsimba Webster,WR,26,4,"9650001 yr $965,000","$965,000",-,-,Reserve/Future
+74,BlasingameKhari Blasingame,FB,26,4,"9650001 yr $965,000","$965,000",-,2023,Free Agent
+75,StromanGreg Stroman,CB,26,5,"8950001 yr $895,000","$895,000",-,2023,Free Agent
+76,DawkinsNoah Dawkins,LB,24,3,"8950001 yr $895,000","$895,000",-,-,
+77,MustipherSam Mustipher,C,25,3,"8950001 yr $895,000","$895,000",-,2023,From Prac. Squad (CHI)
+78,SimmonsLachavious Simmons,T,25,3,"8950001 yr $895,000","$895,000",-,2023,From Prac. Squad (CHI)
+79,KeyesBopete Keyes,CB,24,3,"8950001 yr $895,000","$895,000",-,-,Reserve/Future
+80,WhiteJavin White,LB,25,1,"8950001 yr $895,000","$895,000",-,2023,Free Agent
+81,StanleyJayson Stanley,CB,25,1,"8250001 yr $825,000","$825,000",-,2023,Free Agent
+82,CoulterIsaiah Coulter,WR,23,3,"8250001 yr $825,000","$825,000",-,-,Reserve/Future
+83,JacksonLamar Jackson,CB,24,3,"8250001 yr $825,000","$825,000",-,-,Reserve/Future
+84,JosephMichael Joseph,CB,27,3,"7050001 yr $705,000","$705,000",-,-,Reserve/Future
+85,GatesDeMarquis Gates,OLB,26,1,"7050001 yr $705,000","$705,000",-,2023,
+86,FinkeChris Finke,WR,26,2,"7050001 yr $705,000","$705,000",-,-,Claimed
+87,EiselenDieter Eiselen,G,25,2,"7050001 yr $705,000","$705,000",-,-,Reserve/Future
+88,LondonLaCale London,DE,25,2,"7050001 yr $705,000","$705,000",-,-,Reserve/Future
+89,SnowdenCharles Snowden,DE,24,1,"7050001 yr $705,000","$705,000",-,-,Reserve/Future
+90,NewsomeDazz Newsome,WR,23,1,"6600001 yr $660,000","$660,000",-,2023,To Prac. Squad
+91,Graham Jr.Thomas Graham Jr.,CB,23,1,"6600001 yr $660,000","$660,000",-,2023,To Prac. Squad
+92,KamaraSam Kamara,DT,24,2,"6600001 yr $660,000","$660,000",-,2023,To Prac. Squad
