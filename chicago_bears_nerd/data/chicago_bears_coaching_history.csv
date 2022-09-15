@@ -1,0 +1,109 @@
+Year,Coach,G,W,L,T,W-L%,G,W,L,Result,Offense,Defense
+2022,Matt Eberflus,0,,,,,,,,,Luke Getsy,Alan Williams
+2021,Matt Nagy,17,6,11,0,0.353,,,,,Bill Lazor,Sean Desai
+2020,Matt Nagy,16,8,8,0,0.5,1,0,1,Lost WC,Bill Lazor,Chuck Pagano
+2019,Matt Nagy,16,8,8,0,0.5,,,,,Mark Helfrich,Chuck Pagano
+2018,Matt Nagy,16,12,4,0,0.75,1,0,1,Lost WC,Mark Helfrich,Vic Fangio
+2017,John Fox,16,5,11,0,0.313,,,,,Dowell Loggains,Vic Fangio
+2016,John Fox,16,3,13,0,0.188,,,,,Dowell Loggains,Vic Fangio
+2015,John Fox,16,6,10,0,0.375,,,,,Adam Gase,Vic Fangio
+2014,Marc Trestman,16,5,11,0,0.313,0,0,0,,Aaron Kromer,Mel Tucker
+2013,Marc Trestman,16,8,8,0,0.5,0,0,0,,Aaron Kromer,Mel Tucker
+2012,Lovie Smith,16,10,6,0,0.625,0,0,0,,Mike Tice,Rod Marinelli
+2011,Lovie Smith,16,8,8,0,0.5,0,0,0,,Mike Martz,Rod Marinelli
+2010,Lovie Smith,16,11,5,0,0.688,2,1,1,Lost Conf,Mike Martz,Rod Marinelli
+2009,Lovie Smith,16,7,9,0,0.438,0,0,0,,Ron Turner,Bob Babich
+2008,Lovie Smith,16,9,7,0,0.563,0,0,0,,Ron Turner,Bob Babich
+2007,Lovie Smith,16,7,9,0,0.438,0,0,0,,Ron Turner,Bob Babich
+2006,Lovie Smith,16,13,3,0,0.813,3,2,1,Lost SB,Ron Turner,Ron Rivera
+2005,Lovie Smith,16,11,5,0,0.688,1,0,1,Lost Div,Ron Turner,Ron Rivera
+2004,Lovie Smith,16,5,11,0,0.313,0,0,0,,Terry Shea,Ron Rivera
+2003,Dick Jauron,16,7,9,0,0.438,0,0,0,,John Shoop,Greg Blache
+2002,Dick Jauron,16,4,12,0,0.25,0,0,0,,John Shoop,Greg Blache
+2001,Dick Jauron,16,13,3,0,0.813,1,0,1,Lost Div,John Shoop,Greg Blache
+2000,Dick Jauron,16,5,11,0,0.313,0,0,0,,Gary Crowton,Greg Blache
+1999,Dick Jauron,16,6,10,0,0.375,0,0,0,,Gary Crowton,Greg Blache
+1998,Dave Wannstedt,16,4,12,0,0.25,0,0,0,,Matt Cavanaugh,Bob Slowik
+1997,Dave Wannstedt,16,4,12,0,0.25,0,0,0,,Matt Cavanaugh,Bob Slowik
+1996,Dave Wannstedt,16,7,9,0,0.438,0,0,0,,Ron Turner,Bob Slowik
+1995,Dave Wannstedt,16,9,7,0,0.563,0,0,0,,Ron Turner,Bob Slowik
+1994,Dave Wannstedt,16,9,7,0,0.563,2,1,1,Lost Div,Ron Turner,Bob Slowik
+1993,Dave Wannstedt,16,7,9,0,0.438,0,0,0,,Ron Turner,Bob Slowik
+1992,Mike Ditka,16,5,11,0,0.313,0,0,0,,Greg Landry,Vince Tobin
+1991,Mike Ditka,16,11,5,0,0.688,1,0,1,Lost WC,Greg Landry,Vince Tobin
+1990,Mike Ditka,16,11,5,0,0.688,2,1,1,Lost Div,Greg Landry,Vince Tobin
+1989,Mike Ditka,16,6,10,0,0.375,0,0,0,,Greg Landry,Vince Tobin
+1988,Mike Ditka,16,12,4,0,0.75,2,1,1,Lost Conf,Ed Hughes,Vince Tobin
+1987,Mike Ditka,15,11,4,0,0.733,1,0,1,Lost Div,Ed Hughes,Vince Tobin
+1986,Mike Ditka,16,14,2,0,0.875,1,0,1,Lost Div,Ed Hughes,Vince Tobin
+1985,Mike Ditka,16,15,1,0,0.938,3,3,0,Won SB,Ed Hughes,Buddy Ryan
+1984,Mike Ditka,16,10,6,0,0.625,2,1,1,Lost Conf,Ed Hughes,Buddy Ryan
+1983,Mike Ditka,16,8,8,0,0.5,0,0,0,,Ed Hughes,Buddy Ryan
+1982,Mike Ditka,9,3,6,0,0.333,0,0,0,,Ed Hughes,Buddy Ryan
+1981,Neill Armstrong,16,6,10,0,0.375,0,0,0,,Ted Marchibroda,Buddy Ryan
+1980,Neill Armstrong,16,7,9,0,0.438,0,0,0,,Ken Meyer,Buddy Ryan
+1979,Neill Armstrong,16,10,6,0,0.625,1,0,1,Lost WC,Ken Meyer,Buddy Ryan
+1978,Neill Armstrong,16,7,9,0,0.438,0,0,0,,Ken Meyer,Buddy Ryan
+1977,Jack Pardee,14,9,5,0,0.643,1,0,1,Lost Div,Sid Gillman,
+1976,Jack Pardee,14,7,7,0,0.5,0,0,0,,,
+1975,Jack Pardee,14,4,10,0,0.286,0,0,0,,,
+1974,Abe Gibron,14,4,10,0,0.286,0,0,0,,,
+1973,Abe Gibron,14,3,11,0,0.214,0,0,0,,,
+1972,Abe Gibron,14,4,9,1,0.321,0,0,0,,,
+1971,Jim Dooley,14,6,8,0,0.429,0,0,0,,Perry Moss,
+1970,Jim Dooley,14,6,8,0,0.429,0,0,0,,Perry Moss,
+1969,Jim Dooley,14,1,13,0,0.071,0,0,0,,,
+1968,Jim Dooley,14,7,7,0,0.5,0,0,0,,,
+1967,George Halas,14,7,6,1,0.538,0,0,0,,,Jim Dooley
+1966,George Halas,14,5,7,2,0.417,0,0,0,,,Jim Dooley
+1965,George Halas,14,9,5,0,0.643,0,0,0,,,George Allen
+1964,George Halas,14,5,9,0,0.357,0,0,0,,,George Allen
+1963,George Halas,14,11,1,2,0.917,1,1,0,Won Champ,,
+1962,George Halas,14,9,5,0,0.643,0,0,0,,,Clark Shaughnessy
+1961,George Halas,14,8,6,0,0.571,0,0,0,,,Clark Shaughnessy
+1960,George Halas,12,5,6,1,0.455,0,0,0,,,Clark Shaughnessy
+1959,George Halas,12,8,4,0,0.667,0,0,0,,,Clark Shaughnessy
+1958,George Halas,12,8,4,0,0.667,0,0,0,,,
+1957,Paddy Driscoll,12,5,7,0,0.417,0,0,0,,,
+1956,Paddy Driscoll,12,9,2,1,0.818,1,0,1,Lost Champ,,
+1955,George Halas,12,8,4,0,0.667,0,0,0,,,
+1954,George Halas,12,8,4,0,0.667,0,0,0,,,
+1953,George Halas,12,3,8,1,0.273,0,0,0,,,
+1952,George Halas,12,5,7,0,0.417,0,0,0,,,
+1951,George Halas,12,7,5,0,0.583,0,0,0,,,
+1950,George Halas,12,9,3,0,0.75,1,0,1,Lost Div,,
+1949,George Halas,12,9,3,0,0.75,0,0,0,,,
+1948,George Halas,12,10,2,0,0.833,0,0,0,,,
+1947,George Halas,12,8,4,0,0.667,0,0,0,,,
+1946,George Halas,11,8,2,1,0.8,1,1,0,Won Champ,,
+1945,Hunk Anderson,10,3,7,0,0.3,0,0,0,,,
+,Luke Johnsos,10,3,7,0,0.3,0,0,0,,,
+1944,Hunk Anderson,10,6,3,1,0.667,0,0,0,,,
+,Luke Johnsos,10,6,3,1,0.667,0,0,0,,,
+1943,Hunk Anderson,10,8,1,1,0.889,1,1,0,Won Champ,,
+,Luke Johnsos,10,8,1,1,0.889,1,1,0,Won Champ,,
+1942,Hunk Anderson,6,6,0,0,1,1,0,1,Lost Champ,,
+,Luke Johnsos,6,6,0,0,1,1,0,1,Lost Champ,,
+,George Halas,5,5,0,0,1,0,0,0,Lost Champ,,
+1941,George Halas,11,10,1,0,0.909,2,2,0,Won Champ,,
+1940,George Halas,11,8,3,0,0.727,1,1,0,Won Champ,,
+1939,George Halas,11,8,3,0,0.727,0,0,0,,,
+1938,George Halas,11,6,5,0,0.545,0,0,0,,,
+1937,George Halas,11,9,1,1,0.9,1,0,1,Lost Champ,,
+1936,George Halas,12,9,3,0,0.75,0,0,0,,,
+1935,George Halas,12,6,4,2,0.6,0,0,0,,,
+1934,George Halas,13,13,0,0,1,1,0,1,Lost Champ,,
+1933,George Halas,13,10,2,1,0.833,1,1,0,Won Champ,,
+1932,Ralph Jones,14,7,1,6,0.875,0,0,0,Won Champ,,
+1931,Ralph Jones,13,8,5,0,0.615,0,0,0,,,
+1930,Ralph Jones,14,9,4,1,0.692,0,0,0,,,
+1929,George Halas,15,4,9,2,0.308,0,0,0,,,
+1928,George Halas,13,7,5,1,0.583,0,0,0,,,
+1927,George Halas,14,9,3,2,0.75,0,0,0,,,
+1926,George Halas,16,12,1,3,0.923,0,0,0,,,
+1925,George Halas,17,9,5,3,0.643,0,0,0,,,
+1924,George Halas,11,6,1,4,0.857,0,0,0,,,
+1923,George Halas,12,9,2,1,0.818,0,0,0,,,
+1922,George Halas,12,9,3,0,0.75,0,0,0,,,
+1921,George Halas,11,9,1,1,0.9,0,0,0,Won Champ,,
+1920,George Halas,13,10,1,2,0.909,0,0,0,,,
