@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,San Francisco,3.6,3.6,3.6,0,3.6,5.1,2022-09-13,/nfl/stat/opponent-yards-per-play
+1,2,Buffalo,3.7,3.7,3.7,0,3.7,4.8,2022-09-13,/nfl/stat/opponent-yards-per-play
+2,3,Tampa Bay,3.8,3.8,3.8,0,3.8,5.2,2022-09-13,/nfl/stat/opponent-yards-per-play
+3,4,Cincinnati,4.4,4.4,4.4,4.4,0,5.6,2022-09-13,/nfl/stat/opponent-yards-per-play
+4,5,Indianapolis,4.4,4.4,4.4,0,4.4,5.6,2022-09-13,/nfl/stat/opponent-yards-per-play
+5,6,Kansas City,4.5,4.5,4.5,0,4.5,5.8,2022-09-13,/nfl/stat/opponent-yards-per-play
+6,7,Pittsburgh,4.6,4.6,4.6,0,4.6,5.6,2022-09-13,/nfl/stat/opponent-yards-per-play
+7,8,Baltimore,4.8,4.8,4.8,0,4.8,6.0,2022-09-13,/nfl/stat/opponent-yards-per-play
+8,9,Carolina,4.8,4.8,4.8,4.8,0,5.1,2022-09-13,/nfl/stat/opponent-yards-per-play
+9,10,Chicago,4.9,4.9,4.9,4.9,0,5.3,2022-09-13,/nfl/stat/opponent-yards-per-play
+10,11,Miami,5.0,5.0,5.0,5.0,0,5.3,2022-09-13,/nfl/stat/opponent-yards-per-play
+11,12,Denver,5.2,5.2,5.2,0,5.2,5.3,2022-09-13,/nfl/stat/opponent-yards-per-play
+12,13,NY Jets,5.2,5.2,5.2,5.2,0,5.9,2022-09-13,/nfl/stat/opponent-yards-per-play
+13,14,New England,5.2,5.2,5.2,0,5.2,5.3,2022-09-13,/nfl/stat/opponent-yards-per-play
+14,15,Cleveland,5.2,5.2,5.2,0,5.2,5.0,2022-09-13,/nfl/stat/opponent-yards-per-play
+15,16,Las Vegas,5.5,5.5,5.5,0,5.5,5.2,2022-09-13,/nfl/stat/opponent-yards-per-play
+16,17,Minnesota,5.5,5.5,5.5,5.5,0,5.7,2022-09-13,/nfl/stat/opponent-yards-per-play
+17,18,Jacksonville,5.6,5.6,5.6,0,5.6,5.6,2022-09-13,/nfl/stat/opponent-yards-per-play
+18,19,Dallas,5.6,5.6,5.6,5.6,0,5.5,2022-09-13,/nfl/stat/opponent-yards-per-play
+19,20,LA Chargers,5.7,5.7,5.7,5.7,0,5.6,2022-09-13,/nfl/stat/opponent-yards-per-play
+20,21,Houston,5.7,5.7,5.7,5.7,0,5.9,2022-09-13,/nfl/stat/opponent-yards-per-play
+21,22,Philadelphia,5.8,5.8,5.8,0,5.8,5.2,2022-09-13,/nfl/stat/opponent-yards-per-play
+22,23,New Orleans,5.9,5.9,5.9,0,5.9,5.1,2022-09-13,/nfl/stat/opponent-yards-per-play
+23,24,NY Giants,6.0,6.0,6.0,0,6.0,5.3,2022-09-13,/nfl/stat/opponent-yards-per-play
+24,25,Washington,6.2,6.2,6.2,6.2,0,5.7,2022-09-13,/nfl/stat/opponent-yards-per-play
+25,26,Detroit,6.3,6.3,6.3,6.3,0,5.9,2022-09-13,/nfl/stat/opponent-yards-per-play
+26,27,Green Bay,6.5,6.5,6.5,0,6.5,5.3,2022-09-13,/nfl/stat/opponent-yards-per-play
+27,28,Atlanta,6.8,6.8,6.8,6.8,0,5.6,2022-09-13,/nfl/stat/opponent-yards-per-play
+28,29,Seattle,6.8,6.8,6.8,6.8,0,5.4,2022-09-13,/nfl/stat/opponent-yards-per-play
+29,30,Tennessee,6.8,6.8,6.8,6.8,0,5.4,2022-09-13,/nfl/stat/opponent-yards-per-play
+30,31,LA Rams,7.1,7.1,7.1,7.1,0,5.2,2022-09-13,/nfl/stat/opponent-yards-per-play
+31,32,Arizona,7.4,7.4,7.4,7.4,0,5.5,2022-09-13,/nfl/stat/opponent-yards-per-play
