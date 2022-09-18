@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Pittsburgh,8.0,8.0,8.0,0,8.0,4.7,2022-09-13,/nfl/stat/punt-attempts-per-game
+1,2,Houston,7.0,7.0,7.0,7.0,0,5.2,2022-09-13,/nfl/stat/punt-attempts-per-game
+2,3,Chicago,6.0,6.0,6.0,6.0,0,3.6,2022-09-13,/nfl/stat/punt-attempts-per-game
+3,3,NY Jets,6.0,6.0,6.0,6.0,0,4.2,2022-09-13,/nfl/stat/punt-attempts-per-game
+4,3,Tennessee,6.0,6.0,6.0,6.0,0,3.4,2022-09-13,/nfl/stat/punt-attempts-per-game
+5,3,NY Giants,6.0,6.0,6.0,0,6.0,4.4,2022-09-13,/nfl/stat/punt-attempts-per-game
+6,3,Baltimore,6.0,6.0,6.0,0,6.0,4.2,2022-09-13,/nfl/stat/punt-attempts-per-game
+7,8,Dallas,5.0,5.0,5.0,5.0,0,3.9,2022-09-13,/nfl/stat/punt-attempts-per-game
+8,8,New Orleans,5.0,5.0,5.0,0,5.0,4.9,2022-09-13,/nfl/stat/punt-attempts-per-game
+9,8,Arizona,5.0,5.0,5.0,5.0,0,3.2,2022-09-13,/nfl/stat/punt-attempts-per-game
+10,8,Carolina,5.0,5.0,5.0,5.0,0,4.4,2022-09-13,/nfl/stat/punt-attempts-per-game
+11,8,Minnesota,5.0,5.0,5.0,5.0,0,4.6,2022-09-13,/nfl/stat/punt-attempts-per-game
+12,13,Atlanta,4.0,4.0,4.0,4.0,0,3.9,2022-09-13,/nfl/stat/punt-attempts-per-game
+13,13,Detroit,4.0,4.0,4.0,4.0,0,3.8,2022-09-13,/nfl/stat/punt-attempts-per-game
+14,13,San Francisco,4.0,4.0,4.0,0,4.0,3.7,2022-09-13,/nfl/stat/punt-attempts-per-game
+15,13,Miami,4.0,4.0,4.0,4.0,0,4.6,2022-09-13,/nfl/stat/punt-attempts-per-game
+16,13,Cleveland,4.0,4.0,4.0,0,4.0,3.9,2022-09-13,/nfl/stat/punt-attempts-per-game
+17,13,LA Chargers,4.0,4.0,4.0,4.0,0,2.8,2022-09-13,/nfl/stat/punt-attempts-per-game
+18,13,LA Rams,4.0,4.0,4.0,4.0,0,3.2,2022-09-13,/nfl/stat/punt-attempts-per-game
+19,13,Green Bay,4.0,4.0,4.0,0,4.0,3.3,2022-09-13,/nfl/stat/punt-attempts-per-game
+20,13,Indianapolis,4.0,4.0,4.0,0,4.0,3.5,2022-09-13,/nfl/stat/punt-attempts-per-game
+21,22,Washington,3.0,3.0,3.0,3.0,0,3.7,2022-09-13,/nfl/stat/punt-attempts-per-game
+22,22,Jacksonville,3.0,3.0,3.0,0,3.0,4.2,2022-09-13,/nfl/stat/punt-attempts-per-game
+23,22,Tampa Bay,3.0,3.0,3.0,0,3.0,3.8,2022-09-13,/nfl/stat/punt-attempts-per-game
+24,22,New England,3.0,3.0,3.0,0,3.0,3.1,2022-09-13,/nfl/stat/punt-attempts-per-game
+25,22,Cincinnati,3.0,3.0,3.0,3.0,0,3.9,2022-09-13,/nfl/stat/punt-attempts-per-game
+26,22,Philadelphia,3.0,3.0,3.0,0,3.0,3.4,2022-09-13,/nfl/stat/punt-attempts-per-game
+27,28,Las Vegas,2.0,2.0,2.0,0,2.0,3.7,2022-09-13,/nfl/stat/punt-attempts-per-game
+28,28,Kansas City,2.0,2.0,2.0,0,2.0,2.5,2022-09-13,/nfl/stat/punt-attempts-per-game
+29,28,Seattle,2.0,2.0,2.0,2.0,0,4.9,2022-09-13,/nfl/stat/punt-attempts-per-game
+30,31,Denver,1.0,1.0,1.0,0,1.0,3.9,2022-09-13,/nfl/stat/punt-attempts-per-game
+31,32,Buffalo,0.0,0.0,0.0,0,0.0,3.0,2022-09-13,/nfl/stat/punt-attempts-per-game
