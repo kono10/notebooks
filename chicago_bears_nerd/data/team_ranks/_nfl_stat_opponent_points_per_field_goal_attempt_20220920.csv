@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Las Vegas,1.5,1.5,0,0,1.5,2.5,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+1,1,Baltimore,1.5,1.5,0,0,1.5,2.3,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+2,1,Minnesota,1.5,1.5,1.5,0,1.5,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+3,4,Pittsburgh,1.8,1.8,1.5,1.5,2.0,2.7,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+4,5,LA Rams,2.0,2.0,1.5,2.0,0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+5,6,Seattle,2.1,2.1,2.0,2.3,2.0,2.5,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+6,7,Atlanta,2.3,2.3,3.0,2.0,3.0,2.8,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+7,8,Washington,2.5,2.5,3.0,2.3,3.0,2.8,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+8,8,Houston,2.5,2.5,3.0,2.0,3.0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+9,8,NY Giants,2.5,2.5,3.0,3.0,2.0,2.7,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+10,8,Cincinnati,2.5,2.5,3.0,2.3,3.0,2.4,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+11,12,New Orleans,2.6,2.6,3.0,3.0,2.4,2.4,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+12,13,Dallas,2.6,2.6,3.0,2.6,0,2.5,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+13,14,Detroit,3.0,3.0,0,3.0,0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+14,14,Chicago,3.0,3.0,3.0,3.0,3.0,2.7,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+15,14,NY Jets,3.0,3.0,3.0,3.0,3.0,2.8,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+16,14,Miami,3.0,3.0,3.0,0,3.0,2.5,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+17,14,Tennessee,3.0,3.0,3.0,0,3.0,2.5,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+18,14,Cleveland,3.0,3.0,3.0,3.0,3.0,2.9,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+19,14,Tampa Bay,3.0,3.0,3.0,0,3.0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+20,14,Arizona,3.0,3.0,3.0,3.0,3.0,2.5,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+21,14,New England,3.0,3.0,3.0,0,3.0,2.0,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+22,14,Kansas City,3.0,3.0,3.0,3.0,0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+23,14,Denver,3.0,3.0,3.0,3.0,3.0,2.3,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+24,14,Buffalo,3.0,3.0,0,0,3.0,2.7,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+25,14,Carolina,3.0,3.0,3.0,3.0,3.0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+26,14,LA Chargers,3.0,3.0,3.0,3.0,3.0,2.7,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+27,14,Green Bay,3.0,3.0,3.0,3.0,3.0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+28,14,Indianapolis,3.0,3.0,3.0,0,3.0,2.4,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+29,1,Jacksonville,0,0,0,0,0,2.7,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+30,1,San Francisco,0,0,0,0,0,2.3,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt
+31,1,Philadelphia,0,0,0,0,0,2.6,2022-09-20,/nfl/stat/opponent-points-per-field-goal-attempt

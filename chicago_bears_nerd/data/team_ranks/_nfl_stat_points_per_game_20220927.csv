@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Baltimore,33.0,33.0,37.0,38.0,30.5,22.8,2022-09-27,/nfl/stat/points-per-game
+1,2,Detroit,31.7,31.7,24.0,35.5,24.0,19.1,2022-09-27,/nfl/stat/points-per-game
+2,3,Buffalo,30.3,30.3,19.0,41.0,25.0,29.8,2022-09-27,/nfl/stat/points-per-game
+3,4,Kansas City,29.3,29.3,17.0,27.0,30.5,29.4,2022-09-27,/nfl/stat/points-per-game
+4,5,Philadelphia,28.7,28.7,24.0,24.0,31.0,25.5,2022-09-27,/nfl/stat/points-per-game
+5,6,Cleveland,28.3,28.3,29.0,29.5,26.0,20.5,2022-09-27,/nfl/stat/points-per-game
+6,7,Jacksonville,28.0,28.0,38.0,24.0,30.0,14.9,2022-09-27,/nfl/stat/points-per-game
+7,8,Miami,27.7,27.7,21.0,20.5,42.0,20.1,2022-09-27,/nfl/stat/points-per-game
+8,9,Atlanta,26.7,26.7,27.0,26.0,27.0,18.4,2022-09-27,/nfl/stat/points-per-game
+9,10,Las Vegas,21.3,21.3,22.0,23.0,20.5,21.8,2022-09-27,/nfl/stat/points-per-game
+10,10,Cincinnati,21.3,21.3,27.0,20.0,22.0,26.3,2022-09-27,/nfl/stat/points-per-game
+11,12,Washington,21.0,21.0,8.0,18.0,27.0,19.7,2022-09-27,/nfl/stat/points-per-game
+12,13,Arizona,20.7,20.7,12.0,16.5,29.0,25.6,2022-09-27,/nfl/stat/points-per-game
+13,13,Carolina,20.7,20.7,22.0,23.0,16.0,17.9,2022-09-27,/nfl/stat/points-per-game
+14,15,LA Rams,20.3,20.3,20.0,20.5,20.0,27.0,2022-09-27,/nfl/stat/points-per-game
+15,16,LA Chargers,19.3,19.3,10.0,17.0,24.0,27.9,2022-09-27,/nfl/stat/points-per-game
+16,16,Minnesota,19.3,19.3,28.0,25.5,7.0,25.0,2022-09-27,/nfl/stat/points-per-game
+17,18,NY Giants,18.7,18.7,16.0,17.5,21.0,15.2,2022-09-27,/nfl/stat/points-per-game
+18,19,Pittsburgh,18.0,18.0,17.0,14.0,20.0,20.2,2022-09-27,/nfl/stat/points-per-game
+19,20,Chicago,17.3,17.3,23.0,21.0,10.0,18.3,2022-09-27,/nfl/stat/points-per-game
+20,20,NY Jets,17.3,17.3,12.0,10.5,31.0,18.2,2022-09-27,/nfl/stat/points-per-game
+21,22,New Orleans,17.0,17.0,14.0,10.0,20.5,21.4,2022-09-27,/nfl/stat/points-per-game
+22,22,Tennessee,17.0,17.0,24.0,22.0,7.0,24.2,2022-09-27,/nfl/stat/points-per-game
+23,22,Tampa Bay,17.0,17.0,12.0,12.0,19.5,29.9,2022-09-27,/nfl/stat/points-per-game
+24,25,New England,16.7,16.7,26.0,26.0,12.0,26.6,2022-09-27,/nfl/stat/points-per-game
+25,26,Houston,16.3,16.3,20.0,20.0,14.5,16.5,2022-09-27,/nfl/stat/points-per-game
+26,27,Green Bay,16.0,16.0,14.0,27.0,10.5,25.6,2022-09-27,/nfl/stat/points-per-game
+27,28,San Francisco,15.7,15.7,10.0,27.0,10.0,24.0,2022-09-27,/nfl/stat/points-per-game
+28,28,Seattle,15.7,15.7,23.0,20.0,7.0,23.2,2022-09-27,/nfl/stat/points-per-game
+29,30,Dallas,15.3,15.3,23.0,11.5,23.0,30.4,2022-09-27,/nfl/stat/points-per-game
+30,31,Denver,14.3,14.3,11.0,13.5,16.0,19.7,2022-09-27,/nfl/stat/points-per-game
+31,32,Indianapolis,13.3,13.3,20.0,20.0,10.0,26.5,2022-09-27,/nfl/stat/points-per-game
