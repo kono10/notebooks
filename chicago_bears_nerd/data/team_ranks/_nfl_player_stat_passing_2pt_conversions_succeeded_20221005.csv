@@ -1,0 +1,101 @@
+,Rank,Player,Team,Pos,Value,asof,url
+0,1,Joe Burrow,Cincinnati Bengals,QB,2,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+1,1,Kyler Murray,Arizona Cardinals,QB,2,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+2,1,Carson Wentz,Washington Commanders,QB,2,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+3,4,Jameis Winston,New Orleans Saints,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+4,4,Mitch Trubisky,Pittsburgh Steelers,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+5,4,Patrick Mahomes,Kansas City Chiefs,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+6,4,Trevor Lawrence,Jacksonville Jaguars,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+7,4,Andy Dalton,New Orleans Saints,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+8,4,Jared Goff,Detroit Lions,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+9,4,Marcus Mariota,Atlanta Falcons,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+10,4,Daniel Jones,New York Giants,QB,1,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+11,12,Eric Rowe,Miami Dolphins,S,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+12,12,Mike Edwards,Tampa Bay Buccaneers,S,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+13,12,Ben Skowronek,Los Angeles Rams,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+14,12,Paulson Adebo,New Orleans Saints,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+15,12,Michael Bandy,Los Angeles Chargers,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+16,12,Germaine Pratt,Cincinnati Bengals,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+17,12,C.J. Mosley,New York Jets,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+18,12,Josh Woods,Detroit Lions,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+19,12,Riley Patterson,Jacksonville Jaguars,K,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+20,12,Tyrion Davis-Price,San Francisco 49ers,RB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+21,12,Oren Burks,San Francisco 49ers,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+22,12,A.J. Green,Arizona Cardinals,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+23,12,Khari Blasingame,Chicago Bears,FB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+24,12,Mike Danna,Kansas City Chiefs,DE,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+25,12,C.J. Brewer,Buffalo Bills,DT,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+26,12,Daniel Bellinger,New York Giants,TE,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+27,12,Zay Jones,Jacksonville Jaguars,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+28,12,Andrus Peat,New Orleans Saints,G,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+29,12,Jamaal Williams,Detroit Lions,RB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+30,12,Matt Nelson,Detroit Lions,T,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+31,12,Antonio Williams,New York Giants,RB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+32,12,Akeem Davis-Gaither,Cincinnati Bengals,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+33,12,Nick Kwiatkoski,Atlanta Falcons,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+34,12,Charlie Heck,Houston Texans,OL,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+35,12,Tommy Kraemer,Detroit Lions,G,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+36,12,Joshua Palmer,Los Angeles Chargers,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+37,12,Rodney Thomas II,Indianapolis Colts,S,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+38,12,Dalton Risner,Denver Broncos,G,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+39,12,Jake Kumerow,Buffalo Bills,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+40,12,Blake Hance,San Francisco 49ers,G,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+41,12,Travis Homer,Seattle Seahawks,RB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+42,12,Greg Little,Miami Dolphins,T,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+43,12,Martin Emerson Jr.,Cleveland Browns,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+44,12,Dion Dawkins,Buffalo Bills,T,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+45,12,Blaine Gabbert,Tampa Bay Buccaneers,QB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+46,12,Mark Andrews,Baltimore Ravens,TE,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+47,12,Rashad Fenton,Kansas City Chiefs,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+48,12,Nate Landman,Atlanta Falcons,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+49,12,Jaycee Horn,Carolina Panthers,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+50,12,Duke Riley,Miami Dolphins,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+51,12,Dare Ogunbowale,Houston Texans,RB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+52,12,Marcus Maye,New Orleans Saints,S,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+53,12,David Sills V,New York Giants,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+54,12,Damarcus Fields,New Orleans Saints,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+55,12,Ja'Marr Chase,Cincinnati Bengals,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+56,12,Jeff Driskel,Houston Texans,QB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+57,12,Justin Jones,Chicago Bears,DL,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+58,12,Kendric Pryor,Jacksonville Jaguars,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+59,12,Kellen Mond,Cleveland Browns,QB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+60,12,Zyon McCollum,Tampa Bay Buccaneers,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+61,12,Brian Allen,Los Angeles Rams,C,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+62,12,Tyrann Mathieu,New Orleans Saints,S,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+63,12,C.J. Goodwin,Dallas Cowboys,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+64,12,Kayvon Thibodeaux,New York Giants,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+65,12,Michael Davis,Los Angeles Chargers,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+66,12,Johnny Hekker,Carolina Panthers,P,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+67,12,Kaleb McGary,Atlanta Falcons,T,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+68,12,Anfernee Jennings,New England Patriots,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+69,12,Michael Carter II,New York Jets,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+70,12,Trey Hill,Cincinnati Bengals,C,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+71,12,Artie Burns,Seattle Seahawks,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+72,12,Haason Reddick,Philadelphia Eagles,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+73,12,La'el Collins,Cincinnati Bengals,T,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+74,12,William Jackson III,Washington Commanders,CB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+75,12,Tyrel Dodson,Buffalo Bills,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+76,12,Marcus Jones,New England Patriots,DB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+77,12,Prince Emili,Buffalo Bills,DT,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+78,12,Trevor Siemian,Chicago Bears,QB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+79,12,Tarvarius Moore,San Francisco 49ers,DB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+80,12,Lewis Cine,Minnesota Vikings,S,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+81,12,Demarcus Robinson,Baltimore Ravens,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+82,12,Randy Bullock,Tennessee Titans,K,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+83,12,Jihad Ward,New York Giants,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+84,12,Josh Jacobs,Las Vegas Raiders,RB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+85,12,Kadarius Toney,New York Giants,WR,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+86,12,Otito Ogbonnia,Los Angeles Chargers,DL,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+87,12,De'Vondre Campbell,Green Bay Packers,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+88,12,Tom Brady,Tampa Bay Buccaneers,QB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+89,12,Corliss Waitman,Denver Broncos,P,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+90,12,Josh Sweat,Philadelphia Eagles,DE,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+91,12,Erik Harris,Atlanta Falcons,S,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+92,12,Kyle Pitts,Atlanta Falcons,TE,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+93,12,Sam Martin,Buffalo Bills,P,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+94,12,Nick Martin,Washington Commanders,C,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+95,12,Davon Hamilton,Jacksonville Jaguars,DT,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+96,12,Teven Jenkins,Chicago Bears,OL,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+97,12,Elijah Mitchell,San Francisco 49ers,RB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+98,12,DaQuan Jones,Buffalo Bills,DT,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
+99,12,Ben Niemann,Arizona Cardinals,LB,0,2022-10-05 16:57:19.568447,/nfl/player-stat/passing-2pt-conversions-succeeded
