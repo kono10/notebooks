@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Buffalo,440.8,440.3,443.0,483.0,419.8,389.3,2022-10-18,/nfl/stat/yards-per-game
+1,2,Detroit,411.8,416.0,312.0,443.7,364.0,322.6,2022-10-18,/nfl/stat/yards-per-game
+2,3,Philadelphia,394.5,342.0,268.0,385.0,404.0,358.8,2022-10-18,/nfl/stat/yards-per-game
+3,4,Cleveland,385.0,391.3,328.0,388.0,379.0,340.6,2022-10-18,/nfl/stat/yards-per-game
+4,5,New Orleans,382.3,391.7,399.0,381.7,383.0,304.5,2022-10-18,/nfl/stat/yards-per-game
+5,5,Kansas City,382.3,390.7,387.0,358.0,406.7,407.6,2022-10-18,/nfl/stat/yards-per-game
+6,7,LA Chargers,374.8,393.7,297.0,321.3,428.3,390.2,2022-10-18,/nfl/stat/yards-per-game
+7,8,Miami,366.2,377.0,458.0,325.7,406.7,307.0,2022-10-18,/nfl/stat/yards-per-game
+8,9,Baltimore,361.3,342.3,406.0,364.7,358.0,378.8,2022-10-18,/nfl/stat/yards-per-game
+9,10,Las Vegas,360.6,386.3,378.0,354.5,364.7,364.9,2022-10-18,/nfl/stat/yards-per-game
+10,11,Jacksonville,357.8,340.0,379.0,376.5,348.5,305.4,2022-10-18,/nfl/stat/yards-per-game
+11,12,Seattle,356.0,415.7,296.0,323.0,389.0,323.9,2022-10-18,/nfl/stat/yards-per-game
+12,13,New England,354.7,344.7,399.0,405.5,329.3,350.7,2022-10-18,/nfl/stat/yards-per-game
+13,14,Indianapolis,349.8,368.3,434.0,352.7,347.0,347.1,2022-10-18,/nfl/stat/yards-per-game
+14,15,Green Bay,348.2,340.7,278.0,378.3,318.0,359.9,2022-10-18,/nfl/stat/yards-per-game
+15,16,Arizona,346.0,338.7,315.0,336.7,355.3,363.1,2022-10-18,/nfl/stat/yards-per-game
+16,17,NY Jets,343.0,316.0,278.0,343.3,342.7,306.4,2022-10-18,/nfl/stat/yards-per-game
+17,18,San Francisco,340.2,356.7,346.0,350.0,335.3,361.1,2022-10-18,/nfl/stat/yards-per-game
+18,19,Minnesota,339.8,335.7,234.0,399.0,280.7,362.8,2022-10-18,/nfl/stat/yards-per-game
+19,20,Cincinnati,337.7,336.7,348.0,401.5,305.8,355.3,2022-10-18,/nfl/stat/yards-per-game
+20,21,Tampa Bay,332.0,366.7,304.0,360.3,303.7,400.5,2022-10-18,/nfl/stat/yards-per-game
+21,22,Denver,329.3,310.7,258.0,328.7,330.0,330.5,2022-10-18,/nfl/stat/yards-per-game
+22,23,Atlanta,324.3,294.3,289.0,346.0,302.7,303.8,2022-10-18,/nfl/stat/yards-per-game
+23,24,Washington,320.3,298.7,214.0,338.3,302.3,323.6,2022-10-18,/nfl/stat/yards-per-game
+24,25,NY Giants,317.3,303.0,238.0,293.0,366.0,287.3,2022-10-18,/nfl/stat/yards-per-game
+25,26,LA Rams,309.8,313.3,360.0,315.8,298.0,373.2,2022-10-18,/nfl/stat/yards-per-game
+26,27,Dallas,300.8,277.7,315.0,286.7,315.0,401.4,2022-10-18,/nfl/stat/yards-per-game
+27,28,Chicago,293.7,322.3,392.0,319.7,267.7,307.4,2022-10-18,/nfl/stat/yards-per-game
+28,29,Pittsburgh,291.5,310.3,270.0,270.0,313.0,312.1,2022-10-18,/nfl/stat/yards-per-game
+29,30,Houston,291.2,307.7,248.0,322.5,270.3,278.1,2022-10-18,/nfl/stat/yards-per-game
+30,31,Tennessee,278.2,281.7,241.0,360.0,223.7,343.1,2022-10-18,/nfl/stat/yards-per-game
+31,32,Carolina,260.0,243.7,203.0,270.5,239.0,298.9,2022-10-18,/nfl/stat/yards-per-game

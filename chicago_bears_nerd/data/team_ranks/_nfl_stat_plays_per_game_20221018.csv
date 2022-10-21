@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Arizona,72.0,70.0,71.0,71.0,73.0,65.6,2022-10-18,/nfl/stat/plays-per-game
+1,2,Philadelphia,70.7,72.0,68.0,71.0,70.3,63.2,2022-10-18,/nfl/stat/plays-per-game
+2,3,Indianapolis,69.5,70.0,74.0,68.7,70.3,61.9,2022-10-18,/nfl/stat/plays-per-game
+3,4,LA Chargers,69.3,73.0,83.0,68.7,70.0,66.4,2022-10-18,/nfl/stat/plays-per-game
+4,5,Cleveland,68.8,67.7,67.0,67.0,72.5,62.0,2022-10-18,/nfl/stat/plays-per-game
+5,6,Cincinnati,67.2,58.7,54.0,78.5,61.5,61.8,2022-10-18,/nfl/stat/plays-per-game
+6,7,Buffalo,66.8,62.7,72.0,59.5,70.5,66.3,2022-10-18,/nfl/stat/plays-per-game
+7,8,Detroit,66.6,68.7,64.0,64.3,70.0,62.1,2022-10-18,/nfl/stat/plays-per-game
+8,9,Washington,66.3,60.7,53.0,67.3,65.3,62.9,2022-10-18,/nfl/stat/plays-per-game
+9,9,NY Jets,66.3,58.7,53.0,70.3,62.3,60.9,2022-10-18,/nfl/stat/plays-per-game
+10,11,New Orleans,64.8,67.3,71.0,70.3,59.3,61.8,2022-10-18,/nfl/stat/plays-per-game
+11,11,Green Bay,64.8,67.0,69.0,68.7,61.0,62.6,2022-10-18,/nfl/stat/plays-per-game
+12,13,Tampa Bay,64.7,67.3,68.0,64.3,65.0,67.5,2022-10-18,/nfl/stat/plays-per-game
+13,14,Kansas City,64.5,69.0,61.0,61.3,67.7,67.0,2022-10-18,/nfl/stat/plays-per-game
+14,15,Jacksonville,63.7,59.3,59.0,70.0,60.5,60.5,2022-10-18,/nfl/stat/plays-per-game
+15,16,Minnesota,63.0,63.7,50.0,67.3,58.7,63.7,2022-10-18,/nfl/stat/plays-per-game
+16,17,NY Giants,62.8,60.7,62.0,65.0,58.5,61.8,2022-10-18,/nfl/stat/plays-per-game
+17,18,LA Rams,62.5,66.7,63.0,64.0,59.5,63.2,2022-10-18,/nfl/stat/plays-per-game
+18,19,Las Vegas,62.4,65.0,56.0,67.5,59.0,64.1,2022-10-18,/nfl/stat/plays-per-game
+19,20,Denver,62.2,58.0,55.0,68.7,55.7,60.9,2022-10-18,/nfl/stat/plays-per-game
+20,21,Pittsburgh,61.2,64.3,61.0,59.7,62.7,65.5,2022-10-18,/nfl/stat/plays-per-game
+21,22,Miami,60.3,65.0,73.0,57.0,63.7,64.5,2022-10-18,/nfl/stat/plays-per-game
+22,22,New England,60.3,59.7,65.0,59.5,60.8,61.8,2022-10-18,/nfl/stat/plays-per-game
+23,24,Dallas,59.7,58.0,64.0,60.0,59.3,67.9,2022-10-18,/nfl/stat/plays-per-game
+24,25,San Francisco,59.3,55.7,57.0,59.5,59.3,60.6,2022-10-18,/nfl/stat/plays-per-game
+25,26,Atlanta,58.8,57.3,56.0,60.7,57.0,59.2,2022-10-18,/nfl/stat/plays-per-game
+26,27,Houston,58.6,55.3,56.0,60.5,57.3,59.4,2022-10-18,/nfl/stat/plays-per-game
+27,28,Baltimore,58.2,61.0,58.0,59.7,56.7,69.7,2022-10-18,/nfl/stat/plays-per-game
+28,29,Seattle,57.2,59.3,66.0,61.3,53.0,56.1,2022-10-18,/nfl/stat/plays-per-game
+29,30,Tennessee,56.4,56.3,62.0,57.5,55.7,65.8,2022-10-18,/nfl/stat/plays-per-game
+30,31,Chicago,55.8,58.7,69.0,62.3,49.3,63.2,2022-10-18,/nfl/stat/plays-per-game
+31,32,Carolina,53.8,53.3,44.0,56.3,49.0,65.1,2022-10-18,/nfl/stat/plays-per-game
