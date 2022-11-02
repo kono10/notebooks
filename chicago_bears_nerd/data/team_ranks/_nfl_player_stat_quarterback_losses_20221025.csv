@@ -1,0 +1,101 @@
+,Rank,Player,Team,Pos,Value,asof,url
+0,1,Jacoby Brissett,Cleveland Browns,QB,5,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+1,1,Trevor Lawrence,Jacksonville Jaguars,QB,5,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+2,1,Jared Goff,Detroit Lions,QB,5,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+3,4,Russell Wilson,Denver Broncos,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+4,4,Carson Wentz,Washington Commanders,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+5,4,Tom Brady,Tampa Bay Buccaneers,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+6,4,Justin Fields,Chicago Bears,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+7,4,Aaron Rodgers,Green Bay Packers,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+8,4,Kyler Murray,Arizona Cardinals,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+9,4,Marcus Mariota,Atlanta Falcons,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+10,4,Davis Mills,Houston Texans,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+11,4,Derek Carr,Las Vegas Raiders,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+12,4,Baker Mayfield,Carolina Panthers,QB,4,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+13,14,Jimmy Garoppolo,San Francisco 49ers,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+14,14,Justin Herbert,Los Angeles Chargers,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+15,14,Matthew Stafford,Los Angeles Rams,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+16,14,Andy Dalton,New Orleans Saints,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+17,14,Mac Jones,New England Patriots,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+18,14,Mitch Trubisky,Pittsburgh Steelers,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+19,14,Lamar Jackson,Baltimore Ravens,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+20,14,Geno Smith,Seattle Seahawks,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+21,14,Joe Burrow,Cincinnati Bengals,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+22,14,Matt Ryan,Indianapolis Colts,QB,3,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+23,24,Ryan Tannehill,Tennessee Titans,QB,2,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+24,24,Patrick Mahomes,Kansas City Chiefs,QB,2,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+25,24,Jameis Winston,New Orleans Saints,QB,2,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+26,24,Joe Flacco,New York Jets,QB,2,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+27,24,Kenny Pickett,Pittsburgh Steelers,QB,2,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+28,29,Cooper Rush,Dallas Cowboys,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+29,29,Tua Tagovailoa,Miami Dolphins,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+30,29,Brett Rypien,Denver Broncos,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+31,29,Dak Prescott,Dallas Cowboys,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+32,29,Teddy Bridgewater,Miami Dolphins,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+33,29,Kirk Cousins,Minnesota Vikings,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+34,29,Brian Hoyer,New England Patriots,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+35,29,Josh Allen,Buffalo Bills,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+36,29,Daniel Jones,New York Giants,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+37,29,Trey Lance,San Francisco 49ers,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+38,29,Skylar Thompson,Miami Dolphins,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+39,29,PJ Walker,Carolina Panthers,QB,1,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+40,41,Patrick Scales,Chicago Bears,LS,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+41,41,Elgton Jenkins,Green Bay Packers,G,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+42,41,Brandon Copeland,Baltimore Ravens,LB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+43,41,Emmanuel Ogbah,Miami Dolphins,DE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+44,41,Chris Jackson,Tennessee Titans,DB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+45,41,K'Lavon Chaisson,Jacksonville Jaguars,LB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+46,41,Darian Kinnard,Kansas City Chiefs,T,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+47,41,Anfernee Jennings,New England Patriots,LB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+48,41,Quintin Morris,Buffalo Bills,TE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+49,41,Josh Sweat,Philadelphia Eagles,DE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+50,41,Noah Fant,Seattle Seahawks,TE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+51,41,Sam Webb,Las Vegas Raiders,CB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+52,41,Shaquil Barrett,Tampa Bay Buccaneers,LB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+53,41,Tony Pollard,Dallas Cowboys,RB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+54,41,Neville Gallimore,Dallas Cowboys,DT,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+55,41,Ian Book,Philadelphia Eagles,QB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+56,41,Jeff Okudah,Detroit Lions,CB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+57,41,Breece Hall,New York Jets,RB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+58,41,Dalvin Cook,Minnesota Vikings,RB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+59,41,Alvin Kamara,New Orleans Saints,RB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+60,41,Chris Boswell,Pittsburgh Steelers,K,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+61,41,Sidney Jones IV,Seattle Seahawks,CB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+62,41,Mike Williams,Los Angeles Chargers,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+63,41,Marvin Jones Jr.,Jacksonville Jaguars,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+64,41,Braxton Berrios,New York Jets,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+65,41,Kyle Juszczyk,San Francisco 49ers,FB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+66,41,Austin Johnson,Los Angeles Chargers,DL,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+67,41,Feleipe Franks,Atlanta Falcons,TE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+68,41,Patrick Queen,Baltimore Ravens,LB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+69,41,Cole Turner,Washington Commanders,TE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+70,41,Josh Jacobs,Las Vegas Raiders,RB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+71,41,Darrick Forrest,Washington Commanders,S,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+72,41,Zach Sieler,Miami Dolphins,DT,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+73,41,Robert Hunt,Miami Dolphins,G,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+74,41,Jonathon Cooper,Denver Broncos,LB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+75,41,Dan Arnold,Jacksonville Jaguars,TE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+76,41,Damiere Byrd,Atlanta Falcons,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+77,41,AJ Cole,Las Vegas Raiders,P,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+78,41,Denzel Ward,Cleveland Browns,CB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+79,41,Tommy Kraemer,Detroit Lions,G,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+80,41,Dennis Daley,Tennessee Titans,G,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+81,41,Alex Wright,Cleveland Browns,DE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+82,41,Bobby Hart,Buffalo Bills,T,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+83,41,Jacob Hollister,Minnesota Vikings,TE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+84,41,Robbie Anderson,Arizona Cardinals,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+85,41,Dustin Hopkins,Los Angeles Chargers,K,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+86,41,Malik Turner,San Francisco 49ers,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+87,41,Jake Elliott,Philadelphia Eagles,K,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+88,41,James Ferentz,New England Patriots,OL,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+89,41,Chase Winovich,Cleveland Browns,DE,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+90,41,Nick Williams,New York Giants,DL,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+91,41,David Mayo,Washington Commanders,LB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+92,41,Roy Lopez,Houston Texans,DL,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+93,41,Jonathan Ford,Green Bay Packers,DL,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+94,41,Luke Tenuta,Green Bay Packers,T,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+95,41,Bravvion Roy,Carolina Panthers,DT,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+96,41,Tee Higgins,Cincinnati Bengals,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+97,41,Jalyn Armour-Davis,Baltimore Ravens,CB,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+98,41,D.J. Jones,Denver Broncos,DT,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
+99,41,Nico Collins,Houston Texans,WR,0,2022-10-25 10:50:31.982483,/nfl/player-stat/quarterback-losses
