@@ -5,6 +5,13 @@ python:
 services:
   - docker
 
+before_install:
+  - echo "======== before install ========"
+
+
+script:
+
+
 after_success:
   - docker build -t novskytech/jupyterenv . --no-cache
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
