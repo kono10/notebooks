@@ -1,0 +1,14 @@
+sudo: required
+language: python
+python:
+  - "3.6"
+services:
+  - docker
+
+after_success:
+  - docker build -t novskytech/jupyterenv . --no-cache
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
+  - docker push novskytech/jupyterenv
+
+after_deploy:
+  - echo "======== done deploying !!!! ========"

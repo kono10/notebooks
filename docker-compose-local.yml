@@ -1,7 +1,9 @@
 version: '3'
 services:
   notebooks:
-    image: "novskytech/jupyterenv"
+    build:
+      context: .
+      dockerfile: Dockerfile
     volumes:
       - ./chicago_bears_nerd:/notebooks/chicago_bears_nerd
     ports:
