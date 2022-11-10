@@ -4,3 +4,6 @@ altair
 pandas
 numpy
 tqdm
+beautifulsoup4
+lxml
+html5lib
