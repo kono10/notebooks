@@ -1,0 +1,101 @@
+,Rank,Player,Team,Pos,Value,asof,url
+0,1,Patrick Mahomes,Kansas City Chiefs,QB,2825,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+1,2,Tom Brady,Tampa Bay Buccaneers,QB,2698,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+2,3,Josh Allen,Buffalo Bills,QB,2640,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+3,4,Justin Herbert,Los Angeles Chargers,QB,2389,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+4,5,Joe Burrow,Cincinnati Bengals,QB,2334,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+5,6,Geno Smith,Seattle Seahawks,QB,2278,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+6,7,Trevor Lawrence,Jacksonville Jaguars,QB,2226,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+7,8,Kirk Cousins,Minnesota Vikings,QB,2206,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+8,9,Tua Tagovailoa,Miami Dolphins,QB,2199,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+9,10,Jared Goff,Detroit Lions,QB,2167,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+10,11,Aaron Rodgers,Green Bay Packers,QB,2157,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+11,12,Jalen Hurts,Philadelphia Eagles,QB,2085,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+12,13,Matt Ryan,Indianapolis Colts,QB,2032,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+13,14,Derek Carr,Las Vegas Raiders,QB,1999,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+14,15,Kyler Murray,Arizona Cardinals,QB,1982,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+15,16,Jacoby Brissett,Cleveland Browns,QB,1954,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+16,17,Jimmy Garoppolo,San Francisco 49ers,QB,1842,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+17,18,Davis Mills,Houston Texans,QB,1795,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+18,19,Russell Wilson,Denver Broncos,QB,1793,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+19,20,Matthew Stafford,Los Angeles Rams,QB,1729,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+20,21,Lamar Jackson,Baltimore Ravens,QB,1681,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+21,22,Marcus Mariota,Atlanta Falcons,QB,1568,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+22,23,Andy Dalton,New Orleans Saints,QB,1492,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+23,24,Daniel Jones,New York Giants,QB,1438,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+24,25,Carson Wentz,Washington Commanders,QB,1349,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+25,26,Justin Fields,Chicago Bears,QB,1276,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+26,27,Ryan Tannehill,Tennessee Titans,QB,1231,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+27,28,Zach Wilson,New York Jets,QB,1111,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+28,29,Mac Jones,New England Patriots,QB,1054,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+29,30,Kenny Pickett,Pittsburgh Steelers,QB,1046,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+30,31,Baker Mayfield,Carolina Panthers,QB,1018,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+31,32,Cooper Rush,Dallas Cowboys,QB,971,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+32,33,Joe Flacco,New York Jets,QB,841,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+33,34,Dak Prescott,Dallas Cowboys,QB,816,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+34,35,Jameis Winston,New Orleans Saints,QB,784,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+35,36,Taylor Heinicke,Washington Commanders,QB,768,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+36,37,Mitch Trubisky,Pittsburgh Steelers,QB,744,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+37,38,Bailey Zappe,New England Patriots,QB,741,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+38,39,PJ Walker,Carolina Panthers,QB,685,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+39,40,Teddy Bridgewater,Miami Dolphins,QB,489,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+40,41,Skylar Thompson,Miami Dolphins,QB,256,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+41,42,Sam Ehlinger,Indianapolis Colts,QB,232,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+42,43,Colt McCoy,Arizona Cardinals,QB,220,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+43,44,Brett Rypien,Denver Broncos,QB,219,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+44,45,John Wolford,Los Angeles Rams,QB,193,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+45,46,Trey Lance,San Francisco 49ers,QB,185,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+46,47,Malik Willis,Tennessee Titans,QB,103,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+47,48,Taysom Hill,New Orleans Saints,TE,101,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+48,49,Jordan Love,Green Bay Packers,QB,73,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+49,50,Brock Purdy,San Francisco 49ers,QB,66,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+50,51,Jarrett Stidham,Las Vegas Raiders,QB,64,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+51,52,Jacob Eason,Carolina Panthers,QB,59,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+52,53,Christian McCaffrey,San Francisco 49ers,RB,34,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+53,54,Brian Hoyer,New England Patriots,QB,29,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+54,55,Gardner Minshew,Philadelphia Eagles,QB,23,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+55,55,Justin Jefferson,Minnesota Vikings,WR,23,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+56,57,Brandon Allen,Cincinnati Bengals,QB,22,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+57,58,Braden Mann,New York Jets,P,17,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+58,59,Ryan Wright,Minnesota Vikings,P,13,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+59,60,Riley Dixon,Los Angeles Rams,P,12,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+60,61,Tyler Boyd,Cincinnati Bengals,WR,11,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+61,61,Tyrod Taylor,New York Giants,QB,11,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+62,63,Case Keenum,Buffalo Bills,QB,8,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+63,64,Jack Fox,Detroit Lions,P,6,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+64,65,Trevor Siemian,Chicago Bears,QB,5,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+65,66,Najee Harris,Pittsburgh Steelers,RB,4,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+66,66,Trace McSorley,Arizona Cardinals,QB,4,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+67,66,Mack Hollins,Las Vegas Raiders,WR,4,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+68,69,Braxton Berrios,New York Jets,WR,2,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+69,70,Chase Claypool,Chicago Bears,WR,1,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+70,71,Damien Harris,New England Patriots,RB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+71,71,Ed Oliver,Buffalo Bills,DT,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+72,71,Patrick Ricard,Baltimore Ravens,FB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+73,71,Hamsah Nasirildeen,New York Jets,LB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+74,71,Markus Golden,Arizona Cardinals,LB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+75,71,Christian Benford,Buffalo Bills,CB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+76,71,Trent McDuffie,Kansas City Chiefs,CB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+77,71,Raheem Mostert,Miami Dolphins,RB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+78,71,Mitchell Fraboni,Denver Broncos,LS,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+79,71,Darrynton Evans,Chicago Bears,RB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+80,71,Jedrick Wills Jr.,Cleveland Browns,T,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+81,71,Lynn Bowden Jr.,New England Patriots,WR,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+82,71,Myjai Sanders,Arizona Cardinals,LB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+83,71,Bobby Hart,Buffalo Bills,T,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+84,71,Mason Rudolph,Pittsburgh Steelers,QB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+85,71,Ross Matiscik,Jacksonville Jaguars,LS,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+86,71,Dan Moore Jr.,Pittsburgh Steelers,T,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+87,71,Cody Davis,New England Patriots,DB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+88,71,Jason Cabinda,Detroit Lions,FB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+89,71,Sam Darnold,Carolina Panthers,QB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+90,71,Connor McGovern,Dallas Cowboys,G,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+91,71,Al-Quadin Muhammad,Chicago Bears,DL,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+92,71,Creed Humphrey,Kansas City Chiefs,C,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+93,71,Robert Quinn,Philadelphia Eagles,DE,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+94,71,Drue Tranquill,Los Angeles Chargers,LB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+95,71,Carlton Davis III,Tampa Bay Buccaneers,CB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+96,71,Isaiah Simmons,Arizona Cardinals,LB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+97,71,Brandon Copeland,Baltimore Ravens,LB,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+98,71,Jack Coco,Green Bay Packers,LS,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
+99,71,Jared Bernhardt,Atlanta Falcons,WR,0,2022-11-17 04:04:33.079190,/nfl/player-stat/passing-net-yards
