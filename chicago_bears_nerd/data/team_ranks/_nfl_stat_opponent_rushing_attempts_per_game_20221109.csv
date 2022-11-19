@@ -1,23 +1,23 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Tennessee,21.1,18.0,19.0,22.7,20.2,21.4,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-1,2,Baltimore,22.4,23.3,15.0,22.0,22.8,22.2,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+1,2,Baltimore,21.6,18.0,15.0,22.0,21.2,22.2,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 2,3,Kansas City,23.0,27.0,29.0,27.0,19.0,24.5,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 3,4,Philadelphia,23.5,27.3,32.0,20.0,27.0,27.2,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 4,5,LA Rams,24.1,21.3,20.0,26.0,21.0,24.5,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 5,6,Buffalo,24.4,27.7,34.0,25.0,24.0,25.7,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 6,7,Atlanta,24.8,27.0,24.0,26.0,23.3,30.5,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 7,8,Denver,25.0,26.7,32.0,21.8,28.3,25.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-8,9,New Orleans,25.1,18.7,13.0,19.5,30.8,25.1,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-9,9,San Francisco,25.1,27.3,21.0,17.7,29.6,25.5,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-10,9,NY Giants,25.1,23.3,25.0,27.3,23.0,28.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-11,12,Arizona,25.4,28.3,34.0,27.2,23.3,25.8,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-12,13,LA Chargers,25.5,30.7,35.0,26.5,24.5,29.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-13,14,Miami,25.8,27.3,40.0,21.3,29.4,25.0,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-14,15,Washington,25.9,21.0,22.0,22.8,29.8,25.3,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-15,15,New England,25.9,27.3,22.0,30.0,22.6,27.4,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-16,17,Jacksonville,26.2,28.7,19.0,25.5,26.8,29.0,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-17,18,Minnesota,26.3,24.0,30.0,24.8,27.8,27.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
-18,19,Cleveland,26.6,27.7,10.0,23.0,32.7,25.7,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+8,9,San Francisco,25.1,27.3,21.0,17.7,29.6,25.5,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+9,9,NY Giants,25.1,23.3,25.0,27.3,23.0,28.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+10,11,Arizona,25.4,28.3,34.0,27.2,23.3,25.8,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+11,12,LA Chargers,25.5,30.7,35.0,26.5,24.5,29.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+12,13,Miami,25.8,27.3,40.0,21.3,29.4,25.0,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+13,14,Washington,25.9,21.0,22.0,22.8,29.8,25.3,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+14,14,New England,25.9,27.3,22.0,30.0,22.6,27.4,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+15,16,Jacksonville,26.2,28.7,19.0,25.5,26.8,29.0,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+16,17,Minnesota,26.3,24.0,30.0,24.8,27.8,27.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+17,18,Cleveland,26.6,27.7,10.0,23.0,32.7,25.7,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
+18,19,New Orleans,26.8,27.3,40.0,23.6,30.8,25.1,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 19,20,Tampa Bay,27.1,28.0,24.0,30.0,23.5,21.7,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 20,20,Cincinnati,27.1,30.3,18.0,22.8,30.6,23.6,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game
 21,22,NY Jets,27.4,28.0,22.0,26.2,29.0,30.9,2022-11-09,/nfl/stat/opponent-rushing-attempts-per-game

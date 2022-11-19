@@ -6,8 +6,8 @@
 4,5,Dallas,56.8,55.7,52.0,53.4,62.3,64.1,2022-11-09,/nfl/stat/opponent-tackles-per-game
 5,5,Tennessee,56.8,58.3,47.0,59.0,55.4,65.1,2022-11-09,/nfl/stat/opponent-tackles-per-game
 6,7,Houston,57.1,56.7,62.0,54.8,59.5,59.6,2022-11-09,/nfl/stat/opponent-tackles-per-game
-7,8,Baltimore,57.6,61.7,72.0,60.3,55.0,66.2,2022-11-09,/nfl/stat/opponent-tackles-per-game
-8,9,NY Jets,57.9,57.3,70.0,61.0,54.0,54.0,2022-11-09,/nfl/stat/opponent-tackles-per-game
+7,8,NY Jets,57.9,57.3,70.0,61.0,54.0,54.0,2022-11-09,/nfl/stat/opponent-tackles-per-game
+8,9,Baltimore,58.0,65.7,61.0,60.3,56.2,66.2,2022-11-09,/nfl/stat/opponent-tackles-per-game
 9,10,LA Rams,58.6,56.7,47.0,62.8,51.7,60.8,2022-11-09,/nfl/stat/opponent-tackles-per-game
 10,11,Seattle,59.0,63.3,72.0,61.0,57.4,54.3,2022-11-09,/nfl/stat/opponent-tackles-per-game
 11,12,Minnesota,59.1,56.0,60.0,64.0,54.3,60.7,2022-11-09,/nfl/stat/opponent-tackles-per-game
@@ -17,11 +17,11 @@
 15,16,San Francisco,60.0,64.0,63.0,63.7,57.8,62.9,2022-11-09,/nfl/stat/opponent-tackles-per-game
 16,17,Atlanta,60.2,61.0,61.0,63.6,56.0,58.5,2022-11-09,/nfl/stat/opponent-tackles-per-game
 17,18,Detroit,60.4,57.3,56.0,56.4,67.0,60.9,2022-11-09,/nfl/stat/opponent-tackles-per-game
-18,19,Jacksonville,60.7,62.7,73.0,63.3,58.6,56.9,2022-11-09,/nfl/stat/opponent-tackles-per-game
-19,20,Denver,60.9,59.3,63.0,65.8,56.0,62.0,2022-11-09,/nfl/stat/opponent-tackles-per-game
-20,21,Chicago,61.8,73.7,67.0,60.8,62.6,59.9,2022-11-09,/nfl/stat/opponent-tackles-per-game
-21,22,Cincinnati,62.2,63.7,75.0,71.8,54.6,61.3,2022-11-09,/nfl/stat/opponent-tackles-per-game
-22,23,New Orleans,62.8,66.0,67.0,68.5,57.0,59.7,2022-11-09,/nfl/stat/opponent-tackles-per-game
+18,19,New Orleans,60.7,56.7,44.0,63.6,57.0,59.7,2022-11-09,/nfl/stat/opponent-tackles-per-game
+19,19,Jacksonville,60.7,62.7,73.0,63.3,58.6,56.9,2022-11-09,/nfl/stat/opponent-tackles-per-game
+20,21,Denver,60.9,59.3,63.0,65.8,56.0,62.0,2022-11-09,/nfl/stat/opponent-tackles-per-game
+21,22,Chicago,61.8,73.7,67.0,60.8,62.6,59.9,2022-11-09,/nfl/stat/opponent-tackles-per-game
+22,23,Cincinnati,62.2,63.7,75.0,71.8,54.6,61.3,2022-11-09,/nfl/stat/opponent-tackles-per-game
 23,24,Washington,63.1,68.3,56.0,63.0,63.3,60.9,2022-11-09,/nfl/stat/opponent-tackles-per-game
 24,25,Pittsburgh,63.4,68.3,70.0,63.0,63.6,63.4,2022-11-09,/nfl/stat/opponent-tackles-per-game
 25,26,Arizona,63.4,57.3,54.0,59.0,69.0,63.1,2022-11-09,/nfl/stat/opponent-tackles-per-game

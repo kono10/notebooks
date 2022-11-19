@@ -1,6 +1,6 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Miami,43.1,45.1,41.5,42.1,44.6,44.7,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
-1,2,New Orleans,44.1,44.8,45.8,43.3,44.9,45.6,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
+1,2,New Orleans,44.5,46.1,48.3,44.1,44.9,45.6,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 2,3,Tennessee,44.7,43.8,47.2,44.9,44.6,44.3,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 3,4,New England,44.9,44.1,43.5,43.3,46.0,46.9,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 4,5,Pittsburgh,45.3,44.6,45.8,45.1,45.5,45.1,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
@@ -8,7 +8,7 @@
 6,7,Cleveland,46.0,44.7,36.8,41.6,53.1,48.2,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 7,8,Jacksonville,46.3,48.5,49.0,46.8,45.9,45.0,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 8,9,Green Bay,46.4,44.6,45.3,45.9,46.8,46.5,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
-9,10,Baltimore,46.6,52.1,53.4,45.4,47.4,45.6,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
+9,10,Baltimore,46.5,51.7,46.4,45.4,47.1,45.6,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 10,11,Houston,46.8,48.4,49.7,47.2,46.3,44.1,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 11,12,Kansas City,46.9,47.9,48.8,46.9,46.9,47.7,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt
 12,13,Dallas,47.0,48.5,50.8,47.9,45.4,45.9,2022-11-09,/nfl/stat/opponent-gross-yards-per-successful-punt

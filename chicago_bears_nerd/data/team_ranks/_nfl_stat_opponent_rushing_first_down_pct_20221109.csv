@@ -1,27 +1,27 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Washington,26.25%,20.83%,17.65%,22.58%,31.34%,29.19%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-1,2,San Francisco,27.74%,29.31%,18.75%,16.95%,35.90%,30.24%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-2,3,Tennessee,28.13%,25.00%,17.24%,38.33%,22.00%,27.01%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-3,4,Kansas City,28.22%,31.67%,66.67%,36.49%,21.35%,33.10%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-4,5,Baltimore,28.66%,30.36%,20.00%,31.03%,26.19%,23.82%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+1,2,Baltimore,27.72%,27.45%,15.38%,31.03%,24.74%,23.82%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+2,3,San Francisco,27.74%,29.31%,18.75%,16.95%,35.90%,30.24%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+3,4,Tennessee,28.13%,25.00%,17.24%,38.33%,22.00%,27.01%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+4,5,Kansas City,28.22%,31.67%,66.67%,36.49%,21.35%,33.10%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 5,6,Pittsburgh,29.59%,31.58%,30.00%,35.09%,26.79%,39.47%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 6,7,Atlanta,29.76%,25.35%,15.79%,33.98%,25.49%,37.34%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 7,8,NY Giants,30.54%,30.43%,21.05%,41.25%,20.69%,34.52%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 8,9,LA Rams,30.60%,25.00%,5.56%,35.00%,24.07%,31.07%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 9,10,Minnesota,30.95%,24.24%,33.33%,27.71%,34.12%,33.50%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 10,11,LA Chargers,31.21%,44.64%,63.16%,27.50%,35.06%,37.60%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-11,12,New Orleans,31.94%,32.73%,15.38%,22.58%,39.02%,27.63%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-12,13,Seattle,32.62%,24.00%,33.33%,30.14%,34.21%,31.00%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-13,14,New England,32.70%,36.73%,50.00%,45.59%,23.08%,37.09%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-14,15,Miami,32.79%,40.63%,65.22%,25.64%,38.10%,31.45%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-15,16,Arizona,33.17%,36.36%,37.04%,33.06%,33.33%,32.10%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-16,17,Philadelphia,34.16%,45.16%,50.00%,32.00%,36.05%,32.28%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-17,18,Tampa Bay,34.19%,38.00%,33.33%,36.46%,30.51%,26.70%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-18,19,Jacksonville,34.25%,40.98%,31.25%,41.79%,29.82%,35.33%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-19,20,Buffalo,34.62%,41.54%,52.38%,33.93%,35.00%,35.82%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-20,21,Cleveland,35.53%,32.69%,20.00%,26.73%,52.94%,33.03%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-21,22,Detroit,35.57%,32.84%,31.58%,37.19%,32.88%,36.29%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
-22,23,Indianapolis,35.88%,42.55%,45.45%,38.10%,33.72%,30.24%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+11,12,Seattle,32.62%,24.00%,33.33%,30.14%,34.21%,31.00%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+12,13,New England,32.70%,36.73%,50.00%,45.59%,23.08%,37.09%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+13,14,Miami,32.79%,40.63%,65.22%,25.64%,38.10%,31.45%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+14,15,Arizona,33.17%,36.36%,37.04%,33.06%,33.33%,32.10%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+15,16,Philadelphia,34.16%,45.16%,50.00%,32.00%,36.05%,32.28%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+16,17,Tampa Bay,34.19%,38.00%,33.33%,36.46%,30.51%,26.70%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+17,18,Jacksonville,34.25%,40.98%,31.25%,41.79%,29.82%,35.33%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+18,19,Buffalo,34.62%,41.54%,52.38%,33.93%,35.00%,35.82%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+19,20,Cleveland,35.53%,32.69%,20.00%,26.73%,52.94%,33.03%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+20,21,Detroit,35.57%,32.84%,31.58%,37.19%,32.88%,36.29%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+21,22,Indianapolis,35.88%,42.55%,45.45%,38.10%,33.72%,30.24%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
+22,23,New Orleans,35.93%,43.86%,60.87%,32.94%,39.02%,27.63%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 23,24,Denver,36.24%,39.66%,50.00%,31.58%,39.13%,31.73%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 24,25,Las Vegas,36.26%,43.08%,45.45%,40.98%,33.64%,30.79%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct
 25,26,NY Jets,36.57%,40.68%,47.37%,38.89%,34.12%,32.17%,2022-11-09,/nfl/stat/opponent-rushing-first-down-pct

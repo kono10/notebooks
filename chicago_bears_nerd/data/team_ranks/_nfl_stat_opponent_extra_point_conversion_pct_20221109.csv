@@ -1,5 +1,5 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
-0,1,New Orleans,81.25%,83.33%,0,87.50%,75.00%,96.77%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
+0,1,New Orleans,84.21%,83.33%,100.00%,90.91%,75.00%,96.77%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 1,2,Seattle,86.96%,100.00%,100.00%,83.33%,88.24%,86.11%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 2,3,San Francisco,87.50%,100.00%,100.00%,100.00%,77.78%,95.35%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 3,4,NY Jets,89.47%,75.00%,100.00%,100.00%,75.00%,94.34%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
@@ -12,8 +12,8 @@
 10,11,Jacksonville,93.75%,100.00%,100.00%,100.00%,90.91%,94.00%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 11,11,Cincinnati,93.75%,100.00%,100.00%,87.50%,100.00%,95.65%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 12,13,Indianapolis,94.12%,100.00%,100.00%,88.89%,100.00%,91.18%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
-13,14,Baltimore,94.74%,100.00%,100.00%,100.00%,85.71%,92.86%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
-14,15,Washington,95.00%,100.00%,100.00%,100.00%,87.50%,93.48%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
+13,14,Washington,95.00%,100.00%,100.00%,100.00%,87.50%,93.48%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
+14,14,Baltimore,95.00%,100.00%,100.00%,100.00%,87.50%,92.86%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 15,16,Las Vegas,95.24%,100.00%,100.00%,83.33%,100.00%,95.83%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 16,17,Atlanta,95.45%,90.00%,100.00%,90.00%,100.00%,86.67%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct
 17,18,Cleveland,95.65%,88.89%,50.00%,93.75%,100.00%,94.29%,2022-11-09,/nfl/stat/opponent-extra-point-conversion-pct

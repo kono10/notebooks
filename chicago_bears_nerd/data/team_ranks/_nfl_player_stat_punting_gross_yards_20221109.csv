@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Tress Way,Washington Commanders,P,2401,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-1,2,Ryan Stonehouse,Tennessee Titans,P,2279,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-2,3,Johnny Hekker,Carolina Panthers,P,2239,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-3,4,Jake Camarda,Tampa Bay Buccaneers,P,2133,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-4,5,Corliss Waitman,Denver Broncos,P,2065,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-5,6,Braden Mann,New York Jets,P,2049,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-6,7,Cameron Johnston,Houston Texans,P,1914,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-7,8,Matt Haack,Indianapolis Colts,P,1798,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-8,9,Pressley Harvin III,Pittsburgh Steelers,P,1779,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-9,10,Ryan Wright,Minnesota Vikings,P,1759,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-10,11,Riley Dixon,Los Angeles Rams,P,1737,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-11,12,Bryan Anger,Dallas Cowboys,P,1697,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-12,13,Andy Lee,Arizona Cardinals,P,1683,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-13,14,Jamie Gillan,New York Giants,P,1657,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-14,15,Bradley Pinion,Atlanta Falcons,P,1651,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-15,16,Trenton Gill,Chicago Bears,P,1585,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-16,17,Jake Bailey,New England Patriots,P,1557,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-17,18,Pat O'Donnell,Green Bay Packers,P,1546,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-18,19,Blake Gillikin,New Orleans Saints,P,1481,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-19,20,Michael Dickson,Seattle Seahawks,P,1477,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-20,21,Logan Cooke,Jacksonville Jaguars,P,1460,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-21,22,Arryn Siposs,Philadelphia Eagles,P,1434,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-22,23,Thomas Morstead,Miami Dolphins,P,1416,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-23,24,JK Scott,Los Angeles Chargers,P,1408,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-24,25,Kevin Huber,Cincinnati Bengals,P,1340,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-25,26,Tommy Townsend,Kansas City Chiefs,P,1288,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-26,27,AJ Cole,Las Vegas Raiders,P,1248,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-27,28,Jordan Stout,Baltimore Ravens,P,1222,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-28,29,Mitch Wishnowsky,San Francisco 49ers,P,1198,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-29,30,Corey Bojorquez,Cleveland Browns,P,1182,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-30,31,Jack Fox,Detroit Lions,P,1178,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-31,32,Sam Martin,Buffalo Bills,P,714,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-32,33,A'Shawn Robinson,Los Angeles Rams,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-33,33,Geron Christian,Kansas City Chiefs,T,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-34,33,Aaron Brewer,Tennessee Titans,G,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-35,33,Ed Ingram,Minnesota Vikings,G,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-36,33,Patrick Scales,Chicago Bears,LS,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-37,33,Cory Littleton,Carolina Panthers,LB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-38,33,Rayshawn Jenkins,Jacksonville Jaguars,S,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-39,33,Nahshon Wright,Dallas Cowboys,CB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-40,33,Luke Tenuta,Green Bay Packers,T,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-41,33,Kenny Young,Tampa Bay Buccaneers,LB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-42,33,Amari Rodgers,Green Bay Packers,WR,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-43,33,Cameron Dicker,Los Angeles Chargers,P,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-44,33,Vita Vea,Tampa Bay Buccaneers,DL,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-45,33,Myles Adams,Seattle Seahawks,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-46,33,Austin Ekeler,Los Angeles Chargers,RB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-47,33,Taiwan Jones,Buffalo Bills,RB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-48,33,Daryl Worley,Baltimore Ravens,CB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-49,33,Bryan Mone,Seattle Seahawks,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-50,33,Bryce Perkins,Los Angeles Rams,QB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-51,33,A.J. Green,Cleveland Browns,CB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-52,33,Keisean Nixon,Green Bay Packers,CB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-53,33,David Quessenberry,Buffalo Bills,T,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-54,33,Montravius Adams,Pittsburgh Steelers,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-55,33,Eddie Jackson,Chicago Bears,DB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-56,33,Blake Ferguson,Miami Dolphins,LS,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-57,33,Quincy Roche,New York Giants,LB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-58,33,Marvin Jones Jr.,Jacksonville Jaguars,WR,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-59,33,Patrick Ricard,Baltimore Ravens,FB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-60,33,Mike Hilton,Cincinnati Bengals,CB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-61,33,Kevin Harris,New England Patriots,RB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-62,33,Chad Muma,Jacksonville Jaguars,LB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-63,33,Dalvin Cook,Minnesota Vikings,RB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-64,33,Josh Blackwell,Chicago Bears,DB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-65,33,Tre'von Moehrig,Las Vegas Raiders,S,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-66,33,Darius Phillips,Denver Broncos,CB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-67,33,Lawrence Cager,New York Jets,TE,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-68,33,Erik Harris,Atlanta Falcons,S,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-69,33,Troy Andersen,Atlanta Falcons,LB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-70,33,Ryan Kelly,Indianapolis Colts,C,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-71,33,Larry Ogunjobi,Pittsburgh Steelers,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-72,33,Harrison Phillips,Minnesota Vikings,DL,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-73,33,Trevis Gipson,Chicago Bears,DL,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-74,33,Jordan Elliott,Cleveland Browns,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-75,33,Marlon Tuipulotu,Philadelphia Eagles,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-76,33,Tyler Shatley,Jacksonville Jaguars,OL,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-77,33,Bradley Bozeman,Carolina Panthers,C,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-78,33,Mike Edwards,Tampa Bay Buccaneers,S,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-79,33,Ben Bredeson,New York Giants,G,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-80,33,James Ferentz,New England Patriots,OL,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-81,33,Brandon Copeland,Baltimore Ravens,LB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-82,33,Pharaoh Brown,Cleveland Browns,TE,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-83,33,Tershawn Wharton,Kansas City Chiefs,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-84,33,Jacob Hollister,Las Vegas Raiders,TE,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-85,33,Ben Cleveland,Baltimore Ravens,G,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-86,33,Zach Carter,Cincinnati Bengals,DT,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-87,33,Jordan Mailata,Philadelphia Eagles,T,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-88,33,Tyler Higbee,Los Angeles Rams,TE,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-89,33,Jordan Wilkins,Indianapolis Colts,RB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-90,33,Ryan Ramczyk,New Orleans Saints,T,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-91,33,Mike Ford,Atlanta Falcons,CB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-92,33,Donovan Peoples-Jones,Cleveland Browns,WR,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-93,33,Wes Schweitzer,Washington Commanders,G,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-94,33,Keanu Neal,Tampa Bay Buccaneers,S,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-95,33,Sony Michel,Los Angeles Chargers,RB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-96,33,Brandon Walton,Tampa Bay Buccaneers,T,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-97,33,Davis Mills,Houston Texans,QB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-98,33,Kyle Van Noy,Los Angeles Chargers,LB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
-99,33,Mitch Trubisky,Pittsburgh Steelers,QB,0,2022-11-07 11:24:13.102954,/nfl/player-stat/punting-gross-yards
+0,1,Tress Way,Washington Commanders,P,2401,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+1,2,Ryan Stonehouse,Tennessee Titans,P,2279,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+2,3,Johnny Hekker,Carolina Panthers,P,2239,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+3,4,Jake Camarda,Tampa Bay Buccaneers,P,2133,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+4,5,Corliss Waitman,Denver Broncos,P,2065,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+5,6,Braden Mann,New York Jets,P,2049,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+6,7,Cameron Johnston,Houston Texans,P,1914,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+7,8,Matt Haack,Indianapolis Colts,P,1798,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+8,9,Pressley Harvin III,Pittsburgh Steelers,P,1779,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+9,10,Ryan Wright,Minnesota Vikings,P,1759,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+10,11,Riley Dixon,Los Angeles Rams,P,1737,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+11,12,Blake Gillikin,New Orleans Saints,P,1713,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+12,13,Bryan Anger,Dallas Cowboys,P,1697,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+13,14,Andy Lee,Arizona Cardinals,P,1683,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+14,15,Jamie Gillan,New York Giants,P,1657,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+15,16,Bradley Pinion,Atlanta Falcons,P,1651,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+16,17,Trenton Gill,Chicago Bears,P,1585,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+17,18,Jake Bailey,New England Patriots,P,1557,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+18,19,Pat O'Donnell,Green Bay Packers,P,1546,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+19,20,Michael Dickson,Seattle Seahawks,P,1477,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+20,21,Logan Cooke,Jacksonville Jaguars,P,1460,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+21,22,Arryn Siposs,Philadelphia Eagles,P,1434,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+22,23,Thomas Morstead,Miami Dolphins,P,1416,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+23,24,Jordan Stout,Baltimore Ravens,P,1415,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+24,25,JK Scott,Los Angeles Chargers,P,1408,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+25,26,Kevin Huber,Cincinnati Bengals,P,1340,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+26,27,Tommy Townsend,Kansas City Chiefs,P,1288,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+27,28,AJ Cole,Las Vegas Raiders,P,1248,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+28,29,Mitch Wishnowsky,San Francisco 49ers,P,1198,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+29,30,Corey Bojorquez,Cleveland Browns,P,1182,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+30,31,Jack Fox,Detroit Lions,P,1178,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+31,32,Sam Martin,Buffalo Bills,P,714,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+32,33,Matt Skura,Los Angeles Rams,C,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+33,33,Cedrick Wilson Jr.,Miami Dolphins,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+34,33,D'Andre Swift,Detroit Lions,RB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+35,33,Jahan Dotson,Washington Commanders,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+36,33,Lamarcus Joyner,New York Jets,S,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+37,33,Curtis Bolton,Las Vegas Raiders,LB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+38,33,Drew Lock,Seattle Seahawks,QB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+39,33,Cethan Carter,Miami Dolphins,TE,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+40,33,Tua Tagovailoa,Miami Dolphins,QB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+41,33,Troy Hairston,Houston Texans,FB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+42,33,Michael Badgley,Detroit Lions,K,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+43,33,Kris Boyd,Minnesota Vikings,CB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+44,33,Tanoh Kpassagnon,New Orleans Saints,DE,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+45,33,Cameron Dantzler Sr.,Minnesota Vikings,CB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+46,33,Chris Williams,Indianapolis Colts,DT,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+47,33,Tom Brady,Tampa Bay Buccaneers,QB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+48,33,Adam Thielen,Minnesota Vikings,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+49,33,Jaylinn Hawkins,Atlanta Falcons,S,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+50,33,Conor McDermott,New York Jets,OL,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+51,33,Luke Wattenberg,Denver Broncos,C,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+52,33,Chuba Hubbard,Carolina Panthers,RB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+53,33,Zach Wood,New Orleans Saints,LS,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+54,33,Matt Dickerson,Atlanta Falcons,DE,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+55,33,Jonathan Ward,Arizona Cardinals,RB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+56,33,Kendrick Green,Pittsburgh Steelers,OL,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+57,33,Isiah Pacheco,Kansas City Chiefs,RB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+58,33,Sidney Jones IV,Seattle Seahawks,CB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+59,33,Noah Togiai,Philadelphia Eagles,TE,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+60,33,Jake Elliott,Philadelphia Eagles,K,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+61,33,Demetrius Taylor,Detroit Lions,DL,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+62,33,Jackson Carman,Cincinnati Bengals,G,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+63,33,Randy Bullock,Tennessee Titans,K,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+64,33,Jeremy Reaves,Washington Commanders,S,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+65,33,Darrell Taylor,Seattle Seahawks,LB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+66,33,Billy Turner,Denver Broncos,OL,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+67,33,Naquan Jones,Tennessee Titans,DT,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+68,33,Spencer Brown,Carolina Panthers,RB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+69,33,Jacob Bobenmoyer,Denver Broncos,LS,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+70,33,Mason Crosby,Green Bay Packers,K,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+71,33,DJ Moore,Carolina Panthers,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+72,33,Josh Tupou,Cincinnati Bengals,DT,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+73,33,Dee Eskridge,Seattle Seahawks,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+74,33,Isaiah Hodgins,New York Giants,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+75,33,Gunner Olszewski,Pittsburgh Steelers,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+76,33,Jason Verrett,San Francisco 49ers,CB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+77,33,Kayode Awosika,Detroit Lions,G,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+78,33,Ihmir Smith-Marsette,Minnesota Vikings,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+79,33,Jevon Holland,Miami Dolphins,S,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+80,33,Max Garcia,Arizona Cardinals,OL,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+81,33,Malik Turner,Las Vegas Raiders,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+82,33,Cameron Sutton,Pittsburgh Steelers,CB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+83,33,Malik Willis,Tennessee Titans,QB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+84,33,Terrace Marshall Jr.,Carolina Panthers,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+85,33,David Bakhtiari,Green Bay Packers,T,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+86,33,Ryan Neal,Seattle Seahawks,S,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+87,33,Christian Kirk,Jacksonville Jaguars,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+88,33,O.J. Howard,Houston Texans,TE,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+89,33,Roderick Perry II,Cleveland Browns,DT,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+90,33,Matthew Slater,New England Patriots,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+91,33,Darious Williams,Jacksonville Jaguars,CB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+92,33,Arden Key,Jacksonville Jaguars,DE,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+93,33,Michael Thomas,New Orleans Saints,WR,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+94,33,Jamir Jones,Pittsburgh Steelers,LB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+95,33,Kurt Hinish,Houston Texans,DL,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+96,33,Craig Reynolds,Detroit Lions,RB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+97,33,Jeff Driskel,Houston Texans,QB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+98,33,C.J. Goodwin,Dallas Cowboys,CB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards
+99,33,Kindle Vildor,Chicago Bears,DB,0,2022-11-08 07:24:08.660842,/nfl/player-stat/punting-gross-yards

@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Joe Burrow,Cincinnati Bengals,QB,201,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-1,2,Matthew Stafford,Los Angeles Rams,QB,199,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-2,3,Justin Fields,Chicago Bears,QB,196,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-3,4,Kyler Murray,Arizona Cardinals,QB,186,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-4,5,Matt Ryan,Indianapolis Colts,QB,184,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-5,6,Geno Smith,Seattle Seahawks,QB,165,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-6,7,Russell Wilson,Denver Broncos,QB,149,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-7,8,Davis Mills,Houston Texans,QB,147,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-8,9,Marcus Mariota,Atlanta Falcons,QB,146,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-9,10,Aaron Rodgers,Green Bay Packers,QB,142,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-10,11,Carson Wentz,Washington Commanders,QB,140,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-11,12,Daniel Jones,New York Giants,QB,137,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-12,13,Kirk Cousins,Minnesota Vikings,QB,127,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-13,13,Jalen Hurts,Philadelphia Eagles,QB,127,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-14,15,Derek Carr,Las Vegas Raiders,QB,113,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-15,16,Patrick Mahomes,Kansas City Chiefs,QB,111,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-16,17,Ryan Tannehill,Tennessee Titans,QB,110,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-17,18,Tom Brady,Tampa Bay Buccaneers,QB,107,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-18,19,Jared Goff,Detroit Lions,QB,102,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-19,20,Baker Mayfield,Carolina Panthers,QB,99,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-20,21,Jacoby Brissett,Cleveland Browns,QB,93,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-21,22,Zach Wilson,New York Jets,QB,91,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-22,23,Trevor Lawrence,Jacksonville Jaguars,QB,89,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-23,24,Mac Jones,New England Patriots,QB,86,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-24,25,Lamar Jackson,Baltimore Ravens,QB,85,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-25,26,Jimmy Garoppolo,San Francisco 49ers,QB,79,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-26,27,Kenny Pickett,Pittsburgh Steelers,QB,78,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-27,28,Josh Allen,Buffalo Bills,QB,74,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-28,28,Jameis Winston,New Orleans Saints,QB,74,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-29,30,Sam Ehlinger,Indianapolis Colts,QB,72,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-30,31,Tua Tagovailoa,Miami Dolphins,QB,66,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-31,32,Joe Flacco,New York Jets,QB,60,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-32,33,Mitch Trubisky,Pittsburgh Steelers,QB,53,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-33,33,Justin Herbert,Los Angeles Chargers,QB,53,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-34,35,Cooper Rush,Dallas Cowboys,QB,49,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-35,36,Bailey Zappe,New England Patriots,QB,40,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-36,37,PJ Walker,Carolina Panthers,QB,39,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-37,37,Taylor Heinicke,Washington Commanders,QB,39,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-38,39,Malik Willis,Tennessee Titans,QB,38,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-39,40,Dak Prescott,Dallas Cowboys,QB,37,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-40,41,Teddy Bridgewater,Miami Dolphins,QB,33,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-41,42,Andy Dalton,New Orleans Saints,QB,22,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-42,43,Skylar Thompson,Miami Dolphins,QB,16,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-43,44,Tyler Boyd,Cincinnati Bengals,WR,12,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-44,45,Davante Adams,Las Vegas Raiders,WR,10,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-45,46,Trey Lance,San Francisco 49ers,QB,9,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-46,47,Jarrett Stidham,Las Vegas Raiders,QB,8,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-47,47,Brian Hoyer,New England Patriots,QB,8,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-48,47,Trace McSorley,Arizona Cardinals,QB,8,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-49,50,Brett Rypien,Denver Broncos,QB,6,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-50,51,Brandon Copeland,Baltimore Ravens,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-51,51,Pharaoh Brown,Cleveland Browns,TE,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-52,51,Ronnie Rivers,Los Angeles Rams,RB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-53,51,Khalil Shakir,Buffalo Bills,WR,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-54,51,Tyler Higbee,Los Angeles Rams,TE,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-55,51,Isaiah Buggs,Detroit Lions,DL,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-56,51,Dane Cruikshank,Chicago Bears,DB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-57,51,Michael Pittman Jr.,Indianapolis Colts,WR,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-58,51,Wes Schweitzer,Washington Commanders,G,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-59,51,Devin White,Tampa Bay Buccaneers,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-60,51,Micheal Clemons,New York Jets,DL,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-61,51,Kevin Harris,New England Patriots,RB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-62,51,L.J. Collier,Seattle Seahawks,DE,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-63,51,John Bates,Washington Commanders,TE,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-64,51,Keanu Neal,Tampa Bay Buccaneers,S,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-65,51,Kyle Van Noy,Los Angeles Chargers,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-66,51,Kemon Hall,Los Angeles Chargers,CB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-67,51,Chad Muma,Jacksonville Jaguars,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-68,51,Frankie Luvu,Carolina Panthers,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-69,51,Jonathan Ledbetter,Arizona Cardinals,DE,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-70,51,Brian Allen,Los Angeles Rams,C,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-71,51,Jake Bailey,New England Patriots,P,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-72,51,Kyle Juszczyk,San Francisco 49ers,FB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-73,51,Jordan Roos,Tennessee Titans,G,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-74,51,Richard LeCounte III,Cleveland Browns,S,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-75,51,Tyquan Thornton,New England Patriots,WR,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-76,51,Xavier McKinney,New York Giants,S,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-77,51,Phil Hoskins,Carolina Panthers,DT,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-78,51,Shaq Mason,Tampa Bay Buccaneers,G,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-79,51,Bryan Edwards,Atlanta Falcons,WR,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-80,51,Chris Paul,Washington Commanders,G,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-81,51,Tershawn Wharton,Kansas City Chiefs,DT,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-82,51,Matthew Wright,Jacksonville Jaguars,K,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-83,51,Jordan Kunaszyk,Cleveland Browns,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-84,51,Jeremiah Attaochu,Los Angeles Chargers,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-85,51,Brenden Schooler,New England Patriots,DB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-86,51,Trey Sermon,Philadelphia Eagles,RB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-87,51,Samaje Perine,Cincinnati Bengals,HB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-88,51,Giovanni Ricci,Carolina Panthers,TE,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-89,51,Jourdan Lewis,Dallas Cowboys,CB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-90,51,Dennis Kelly,Indianapolis Colts,T,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-91,51,KC McDermott,Houston Texans,OL,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-92,51,Charles Omenihu,San Francisco 49ers,DL,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-93,51,Nick Williams,New York Giants,DL,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-94,51,A'Shawn Robinson,Los Angeles Rams,DT,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-95,51,Geron Christian,Kansas City Chiefs,T,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-96,51,Fabian Moreau,New York Giants,DB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-97,51,Sam Eguavoen,Miami Dolphins,LB,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-98,51,Rasheed Walker,Green Bay Packers,T,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
-99,51,Kamren Curl,Washington Commanders,S,0,2022-11-07 11:23:23.719653,/nfl/player-stat/passing-sacked-yards
+0,1,Joe Burrow,Cincinnati Bengals,QB,201,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+1,2,Matthew Stafford,Los Angeles Rams,QB,199,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+2,3,Justin Fields,Chicago Bears,QB,196,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+3,4,Kyler Murray,Arizona Cardinals,QB,186,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+4,5,Matt Ryan,Indianapolis Colts,QB,184,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+5,6,Geno Smith,Seattle Seahawks,QB,165,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+6,7,Russell Wilson,Denver Broncos,QB,149,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+7,8,Davis Mills,Houston Texans,QB,147,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+8,9,Marcus Mariota,Atlanta Falcons,QB,146,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+9,10,Aaron Rodgers,Green Bay Packers,QB,142,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+10,11,Carson Wentz,Washington Commanders,QB,140,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+11,12,Daniel Jones,New York Giants,QB,137,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+12,13,Kirk Cousins,Minnesota Vikings,QB,127,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+13,13,Jalen Hurts,Philadelphia Eagles,QB,127,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+14,15,Derek Carr,Las Vegas Raiders,QB,113,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+15,16,Patrick Mahomes,Kansas City Chiefs,QB,111,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+16,17,Ryan Tannehill,Tennessee Titans,QB,110,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+17,18,Tom Brady,Tampa Bay Buccaneers,QB,107,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+18,19,Jared Goff,Detroit Lions,QB,102,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+19,20,Baker Mayfield,Carolina Panthers,QB,99,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+20,21,Jacoby Brissett,Cleveland Browns,QB,93,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+21,22,Zach Wilson,New York Jets,QB,91,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+22,23,Trevor Lawrence,Jacksonville Jaguars,QB,89,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+23,24,Lamar Jackson,Baltimore Ravens,QB,87,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+24,25,Mac Jones,New England Patriots,QB,86,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+25,26,Jimmy Garoppolo,San Francisco 49ers,QB,79,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+26,27,Kenny Pickett,Pittsburgh Steelers,QB,78,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+27,28,Jameis Winston,New Orleans Saints,QB,74,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+28,28,Josh Allen,Buffalo Bills,QB,74,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+29,30,Sam Ehlinger,Indianapolis Colts,QB,72,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+30,31,Tua Tagovailoa,Miami Dolphins,QB,66,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+31,32,Joe Flacco,New York Jets,QB,60,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+32,33,Mitch Trubisky,Pittsburgh Steelers,QB,53,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+33,33,Justin Herbert,Los Angeles Chargers,QB,53,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+34,35,Andy Dalton,New Orleans Saints,QB,50,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+35,36,Cooper Rush,Dallas Cowboys,QB,49,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+36,37,Bailey Zappe,New England Patriots,QB,40,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+37,38,PJ Walker,Carolina Panthers,QB,39,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+38,38,Taylor Heinicke,Washington Commanders,QB,39,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+39,40,Malik Willis,Tennessee Titans,QB,38,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+40,41,Dak Prescott,Dallas Cowboys,QB,37,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+41,42,Teddy Bridgewater,Miami Dolphins,QB,33,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+42,43,Skylar Thompson,Miami Dolphins,QB,16,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+43,44,Tyler Boyd,Cincinnati Bengals,WR,12,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+44,45,Davante Adams,Las Vegas Raiders,WR,10,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+45,46,Trey Lance,San Francisco 49ers,QB,9,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+46,47,Trace McSorley,Arizona Cardinals,QB,8,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+47,47,Brian Hoyer,New England Patriots,QB,8,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+48,47,Jarrett Stidham,Las Vegas Raiders,QB,8,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+49,50,Brett Rypien,Denver Broncos,QB,6,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+50,51,Jason Verrett,San Francisco 49ers,CB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+51,51,Nate Landman,Atlanta Falcons,LB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+52,51,Cole Strange,New England Patriots,OL,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+53,51,Cedrick Wilson Jr.,Miami Dolphins,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+54,51,Max Garcia,Arizona Cardinals,OL,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+55,51,Dan Arnold,Jacksonville Jaguars,TE,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+56,51,Cameron Sutton,Pittsburgh Steelers,CB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+57,51,Tutu Atwell,Los Angeles Rams,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+58,51,Curtis Bolton,Las Vegas Raiders,LB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+59,51,Drew Lock,Seattle Seahawks,QB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+60,51,David Bakhtiari,Green Bay Packers,T,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+61,51,Amen Ogbongbemiga,Los Angeles Chargers,LB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+62,51,Tim Jones,Jacksonville Jaguars,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+63,51,O.J. Howard,Houston Texans,TE,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+64,51,Michael Badgley,Detroit Lions,K,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+65,51,Kris Boyd,Minnesota Vikings,CB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+66,51,Matthew Slater,New England Patriots,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+67,51,Jonathan Ford,Green Bay Packers,DL,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+68,51,Michael Thomas,New Orleans Saints,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+69,51,Adam Thielen,Minnesota Vikings,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+70,51,Jaylinn Hawkins,Atlanta Falcons,S,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+71,51,Jeff Driskel,Houston Texans,QB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+72,51,Michael Carter II,New York Jets,CB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+73,51,Dennis Gardeck,Arizona Cardinals,LB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+74,51,Chris Williams,Indianapolis Colts,DT,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+75,51,Matt Dickerson,Atlanta Falcons,DE,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+76,51,Jonathan Ward,Arizona Cardinals,RB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+77,51,Jimmie Ward,San Francisco 49ers,DB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+78,51,James Robinson,New York Jets,RB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+79,51,Nico Collins,Houston Texans,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+80,51,Billy Price,Arizona Cardinals,OL,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+81,51,Sidney Jones IV,Seattle Seahawks,CB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+82,51,Noah Togiai,Philadelphia Eagles,TE,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+83,51,Brandon Jones,Miami Dolphins,S,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+84,51,Jeremy Reaves,Washington Commanders,S,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+85,51,Darrell Taylor,Seattle Seahawks,LB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+86,51,Graham Gano,New York Giants,K,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+87,51,Chris Evans,Cincinnati Bengals,HB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+88,51,Connor Heyward,Pittsburgh Steelers,TE,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+89,51,Tevin Coleman,San Francisco 49ers,RB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+90,51,DJ Moore,Carolina Panthers,WR,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+91,51,La'el Collins,Cincinnati Bengals,T,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+92,51,T.J. Slaton,Green Bay Packers,DL,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+93,51,Dakoda Shepley,Seattle Seahawks,C,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+94,51,Jacob Bobenmoyer,Denver Broncos,LS,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+95,51,Kayode Awosika,Detroit Lions,G,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+96,51,Terrance Mitchell,Tennessee Titans,DB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+97,51,Joshua Kelley,Los Angeles Chargers,RB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+98,51,Benjamin St-Juste,Washington Commanders,CB,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
+99,51,Will Hernandez,Arizona Cardinals,OL,0,2022-11-08 07:23:13.458390,/nfl/player-stat/passing-sacked-yards
