@@ -7,8 +7,8 @@
 5,6,Tampa Bay,91.67%,87.50%,75.00%,91.67%,91.67%,80.00%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 6,6,LA Rams,91.67%,100.00%,100.00%,80.00%,100.00%,90.91%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 7,8,New England,90.48%,100.00%,100.00%,100.00%,80.00%,92.50%,2022-11-09,/nfl/stat/field-goal-conversion-pct
-8,9,NY Giants,89.47%,100.00%,100.00%,83.33%,100.00%,87.88%,2022-11-09,/nfl/stat/field-goal-conversion-pct
-9,10,Baltimore,88.89%,77.78%,66.67%,100.00%,75.00%,94.59%,2022-11-09,/nfl/stat/field-goal-conversion-pct
+8,9,Baltimore,90.00%,87.50%,100.00%,100.00%,80.00%,94.59%,2022-11-09,/nfl/stat/field-goal-conversion-pct
+9,10,NY Giants,89.47%,100.00%,100.00%,83.33%,100.00%,87.88%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 10,11,Dallas,88.24%,66.67%,0,100.00%,77.78%,83.33%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 11,12,Houston,87.50%,80.00%,100.00%,83.33%,90.00%,77.78%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 12,12,Carolina,87.50%,66.67%,0,88.89%,85.71%,89.66%,2022-11-09,/nfl/stat/field-goal-conversion-pct
@@ -26,8 +26,8 @@
 24,25,Pittsburgh,77.78%,100.00%,100.00%,100.00%,66.67%,90.00%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 25,25,Cleveland,77.78%,75.00%,50.00%,66.67%,88.89%,72.73%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 26,27,San Francisco,76.92%,100.00%,100.00%,75.00%,80.00%,86.84%,2022-11-09,/nfl/stat/field-goal-conversion-pct
-27,28,Miami,73.33%,80.00%,0.00%,85.71%,62.50%,74.19%,2022-11-09,/nfl/stat/field-goal-conversion-pct
-28,28,Cincinnati,73.33%,0.00%,0.00%,66.67%,77.78%,89.58%,2022-11-09,/nfl/stat/field-goal-conversion-pct
-29,30,New Orleans,70.59%,87.50%,50.00%,87.50%,55.56%,83.33%,2022-11-09,/nfl/stat/field-goal-conversion-pct
+27,28,New Orleans,73.68%,83.33%,100.00%,90.00%,55.56%,83.33%,2022-11-09,/nfl/stat/field-goal-conversion-pct
+28,29,Miami,73.33%,80.00%,0.00%,85.71%,62.50%,74.19%,2022-11-09,/nfl/stat/field-goal-conversion-pct
+29,29,Cincinnati,73.33%,0.00%,0.00%,66.67%,77.78%,89.58%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 30,31,Kansas City,68.75%,57.14%,66.67%,70.00%,66.67%,86.49%,2022-11-09,/nfl/stat/field-goal-conversion-pct
 31,31,Minnesota,68.75%,75.00%,100.00%,37.50%,100.00%,86.84%,2022-11-09,/nfl/stat/field-goal-conversion-pct

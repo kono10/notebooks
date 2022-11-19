@@ -1,8 +1,8 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Philadelphia,1.9,2.0,1.0,2.8,1.0,-0.2,2022-11-09,/nfl/stat/turnover-margin-per-game
-1,2,Dallas,0.8,0.3,0.0,1.0,0.3,0.8,2022-11-09,/nfl/stat/turnover-margin-per-game
-2,2,Baltimore,0.8,0.3,1.0,0.8,0.8,-0.6,2022-11-09,/nfl/stat/turnover-margin-per-game
-3,2,Minnesota,0.8,1.7,0.0,1.0,0.5,0.6,2022-11-09,/nfl/stat/turnover-margin-per-game
+1,2,Baltimore,0.8,1.0,1.0,0.8,0.8,-0.6,2022-11-09,/nfl/stat/turnover-margin-per-game
+2,3,Dallas,0.8,0.3,0.0,1.0,0.3,0.8,2022-11-09,/nfl/stat/turnover-margin-per-game
+3,3,Minnesota,0.8,1.7,0.0,1.0,0.5,0.6,2022-11-09,/nfl/stat/turnover-margin-per-game
 4,5,Tennessee,0.4,0.7,1.0,1.0,0.0,-0.3,2022-11-09,/nfl/stat/turnover-margin-per-game
 5,6,Arizona,0.3,0.3,0.0,0.8,-0.3,0.6,2022-11-09,/nfl/stat/turnover-margin-per-game
 6,6,Cincinnati,0.3,1.0,3.0,0.0,0.6,0.3,2022-11-09,/nfl/stat/turnover-margin-per-game
@@ -30,4 +30,4 @@
 28,29,Green Bay,-0.6,-0.3,-2.0,-0.7,-0.5,0.7,2022-11-09,/nfl/stat/turnover-margin-per-game
 29,30,LA Rams,-0.6,0.0,0.0,-0.4,-1.0,0.0,2022-11-09,/nfl/stat/turnover-margin-per-game
 30,31,Indianapolis,-0.9,-1.0,0.0,-0.5,-1.2,0.8,2022-11-09,/nfl/stat/turnover-margin-per-game
-31,32,New Orleans,-1.1,-0.3,1.0,-0.8,-1.5,0.4,2022-11-09,/nfl/stat/turnover-margin-per-game
+31,32,New Orleans,-1.1,-1.0,-1.0,-0.8,-1.5,0.4,2022-11-09,/nfl/stat/turnover-margin-per-game

@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Stefon Diggs,Buffalo Bills,WR,7,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-1,1,Travis Kelce,Kansas City Chiefs,TE,7,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-2,1,Davante Adams,Las Vegas Raiders,WR,7,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-3,4,Ja'Marr Chase,Cincinnati Bengals,WR,6,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-4,4,A.J. Brown,Philadelphia Eagles,WR,6,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-5,4,Jaylen Waddle,Miami Dolphins,WR,6,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-6,4,Cooper Kupp,Los Angeles Rams,WR,6,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-7,8,Amari Cooper,Cleveland Browns,WR,5,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-8,8,Christian Kirk,Jacksonville Jaguars,WR,5,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-9,8,Mark Andrews,Baltimore Ravens,TE,5,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-10,8,Allen Lazard,Green Bay Packers,WR,5,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-11,12,Mike Gesicki,Miami Dolphins,TE,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-12,12,Austin Ekeler,Los Angeles Chargers,RB,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-13,12,Brandon Aiyuk,San Francisco 49ers,WR,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-14,12,Zach Ertz,Arizona Cardinals,TE,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-15,12,DK Metcalf,Seattle Seahawks,WR,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-16,12,Gabe Davis,Buffalo Bills,WR,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-17,12,Jahan Dotson,Washington Commanders,WR,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-18,12,Tyler Lockett,Seattle Seahawks,WR,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-19,12,Mecole Hardman,Kansas City Chiefs,WR,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-20,12,Tyler Boyd,Cincinnati Bengals,WR,4,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-21,22,T.J. Hockenson,Minnesota Vikings,TE,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-22,22,Michael Thomas,New Orleans Saints,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-23,22,Isaiah McKenzie,Buffalo Bills,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-24,22,Tee Higgins,Cincinnati Bengals,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-25,22,Devin Duvernay,Baltimore Ravens,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-26,22,Romeo Doubs,Green Bay Packers,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-27,22,Jelani Woods,Indianapolis Colts,TE,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-28,22,Dontrell Hilliard,Tennessee Titans,RB,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-29,22,CeeDee Lamb,Dallas Cowboys,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-30,22,Aaron Jones,Green Bay Packers,RB,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-31,22,Clyde Edwards-Helaire,Kansas City Chiefs,RB,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-32,22,DJ Moore,Carolina Panthers,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-33,22,Cole Kmet,Chicago Bears,TE,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-34,22,Amon-Ra St. Brown,Detroit Lions,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-35,22,Jakobi Meyers,New England Patriots,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-36,22,Mike Evans,Tampa Bay Buccaneers,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-37,22,Leonard Fournette,Tampa Bay Buccaneers,RB,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-38,22,Tyreek Hill,Miami Dolphins,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-39,22,Curtis Samuel,Washington Commanders,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-40,22,Mike Williams,Los Angeles Chargers,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-41,22,Jerry Jeudy,Denver Broncos,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-42,22,Justin Jefferson,Minnesota Vikings,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-43,22,Tyler Conklin,New York Jets,TE,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-44,22,Will Dissly,Seattle Seahawks,TE,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-45,22,Marquise Brown,Arizona Cardinals,WR,3,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-46,47,Marquise Goodwin,Seattle Seahawks,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-47,47,K.J. Osborn,Minnesota Vikings,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-48,47,Chris Olave,New Orleans Saints,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-49,47,Drake London,Atlanta Falcons,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-50,47,Hayden Hurst,Cincinnati Bengals,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-51,47,O.J. Howard,Houston Texans,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-52,47,Mack Hollins,Las Vegas Raiders,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-53,47,Joe Mixon,Cincinnati Bengals,HB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-54,47,Dante Pettis,Chicago Bears,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-55,47,Mo Alie-Cox,Indianapolis Colts,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-56,47,Daniel Bellinger,New York Giants,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-57,47,Kyle Pitts,Atlanta Falcons,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-58,47,Allen Robinson II,Los Angeles Rams,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-59,47,Garrett Wilson,New York Jets,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-60,47,Corey Davis,New York Jets,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-61,47,Juwan Johnson,New Orleans Saints,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-62,47,Chris Moore,Houston Texans,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-63,47,Christian McCaffrey,San Francisco 49ers,RB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-64,47,Zander Horvath,Los Angeles Chargers,FB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-65,47,Josh Reynolds,Detroit Lions,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-66,47,Alvin Kamara,New Orleans Saints,RB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-67,47,Justin Watson,Kansas City Chiefs,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-68,47,Jake Ferguson,Dallas Cowboys,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-69,47,Parris Campbell,Indianapolis Colts,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-70,47,Irv Smith Jr.,Minnesota Vikings,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-71,47,Antonio Gibson,Washington Commanders,RB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-72,47,DeAndre Hopkins,Arizona Cardinals,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-73,47,D'Andre Swift,Detroit Lions,RB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-74,47,Dallas Goedert,Philadelphia Eagles,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-75,47,Gerald Everett,Los Angeles Chargers,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-76,47,Deebo Samuel,San Francisco 49ers,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-77,47,River Cracraft,Miami Dolphins,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-78,47,Dawson Knox,Buffalo Bills,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-79,47,James Robinson,New York Jets,RB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-80,47,Greg Dortch,Arizona Cardinals,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-81,47,Adam Thielen,Minnesota Vikings,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-82,47,DeVonta Smith,Philadelphia Eagles,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-83,47,Jamal Agnew,Jacksonville Jaguars,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-84,47,Olamide Zaccheaus,Atlanta Falcons,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-85,47,Jody Fortson,Kansas City Chiefs,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-86,47,George Kittle,San Francisco 49ers,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-87,47,Tommy Tremble,Carolina Panthers,TE,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-88,47,JuJu Smith-Schuster,Kansas City Chiefs,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-89,47,Terry McLaurin,Washington Commanders,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-90,47,Dyami Brown,Washington Commanders,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-91,47,Damiere Byrd,Atlanta Falcons,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-92,47,Rashod Bateman,Baltimore Ravens,WR,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-93,47,Najee Harris,Pittsburgh Steelers,RB,2,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-94,95,Tyquan Thornton,New England Patriots,WR,1,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-95,95,Dalvin Cook,Minnesota Vikings,RB,1,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-96,95,Peyton Hendershot,Dallas Cowboys,TE,1,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-97,95,Robert Woods,Tennessee Titans,WR,1,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-98,95,Chris Myarick,New York Giants,FB,1,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
-99,95,Greg Dulcich,Denver Broncos,TE,1,2022-11-07 11:23:36.957829,/nfl/player-stat/receiving-touchdowns
+0,1,Stefon Diggs,Buffalo Bills,WR,7,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+1,1,Travis Kelce,Kansas City Chiefs,TE,7,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+2,1,Davante Adams,Las Vegas Raiders,WR,7,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+3,4,Jaylen Waddle,Miami Dolphins,WR,6,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+4,4,Ja'Marr Chase,Cincinnati Bengals,WR,6,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+5,4,Cooper Kupp,Los Angeles Rams,WR,6,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+6,4,A.J. Brown,Philadelphia Eagles,WR,6,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+7,8,Christian Kirk,Jacksonville Jaguars,WR,5,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+8,8,Mark Andrews,Baltimore Ravens,TE,5,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+9,8,Amari Cooper,Cleveland Browns,WR,5,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+10,8,Allen Lazard,Green Bay Packers,WR,5,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+11,12,Jahan Dotson,Washington Commanders,WR,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+12,12,Tyler Boyd,Cincinnati Bengals,WR,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+13,12,Mecole Hardman,Kansas City Chiefs,WR,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+14,12,Zach Ertz,Arizona Cardinals,TE,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+15,12,Austin Ekeler,Los Angeles Chargers,RB,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+16,12,Mike Gesicki,Miami Dolphins,TE,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+17,12,Tyler Lockett,Seattle Seahawks,WR,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+18,12,Brandon Aiyuk,San Francisco 49ers,WR,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+19,12,DK Metcalf,Seattle Seahawks,WR,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+20,12,Gabe Davis,Buffalo Bills,WR,4,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+21,22,Jakobi Meyers,New England Patriots,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+22,22,Leonard Fournette,Tampa Bay Buccaneers,RB,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+23,22,DJ Moore,Carolina Panthers,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+24,22,Michael Thomas,New Orleans Saints,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+25,22,Jerry Jeudy,Denver Broncos,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+26,22,Justin Jefferson,Minnesota Vikings,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+27,22,Tyreek Hill,Miami Dolphins,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+28,22,Curtis Samuel,Washington Commanders,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+29,22,Mike Williams,Los Angeles Chargers,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+30,22,Tyler Conklin,New York Jets,TE,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+31,22,Marquise Brown,Arizona Cardinals,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+32,22,Will Dissly,Seattle Seahawks,TE,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+33,22,Mike Evans,Tampa Bay Buccaneers,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+34,22,T.J. Hockenson,Minnesota Vikings,TE,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+35,22,Tee Higgins,Cincinnati Bengals,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+36,22,Romeo Doubs,Green Bay Packers,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+37,22,Jelani Woods,Indianapolis Colts,TE,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+38,22,Clyde Edwards-Helaire,Kansas City Chiefs,RB,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+39,22,Devin Duvernay,Baltimore Ravens,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+40,22,Isaiah McKenzie,Buffalo Bills,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+41,22,CeeDee Lamb,Dallas Cowboys,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+42,22,Dontrell Hilliard,Tennessee Titans,RB,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+43,22,Juwan Johnson,New Orleans Saints,TE,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+44,22,Aaron Jones,Green Bay Packers,RB,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+45,22,Cole Kmet,Chicago Bears,TE,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+46,22,Amon-Ra St. Brown,Detroit Lions,WR,3,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+47,48,Justin Watson,Kansas City Chiefs,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+48,48,D'Andre Swift,Detroit Lions,RB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+49,48,Parris Campbell,Indianapolis Colts,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+50,48,Irv Smith Jr.,Minnesota Vikings,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+51,48,Adam Thielen,Minnesota Vikings,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+52,48,O.J. Howard,Houston Texans,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+53,48,James Robinson,New York Jets,RB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+54,48,Deebo Samuel,San Francisco 49ers,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+55,48,Allen Robinson II,Los Angeles Rams,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+56,48,DeVonta Smith,Philadelphia Eagles,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+57,48,Jody Fortson,Kansas City Chiefs,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+58,48,River Cracraft,Miami Dolphins,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+59,48,Dawson Knox,Buffalo Bills,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+60,48,Chris Moore,Houston Texans,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+61,48,Dallas Goedert,Philadelphia Eagles,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+62,48,Gerald Everett,Los Angeles Chargers,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+63,48,Greg Dortch,Arizona Cardinals,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+64,48,Rashod Bateman,Baltimore Ravens,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+65,48,Najee Harris,Pittsburgh Steelers,RB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+66,48,Isaiah Likely,Baltimore Ravens,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+67,48,Tommy Tremble,Carolina Panthers,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+68,48,Drake London,Atlanta Falcons,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+69,48,Jamal Agnew,Jacksonville Jaguars,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+70,48,Olamide Zaccheaus,Atlanta Falcons,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+71,48,Dyami Brown,Washington Commanders,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+72,48,George Kittle,San Francisco 49ers,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+73,48,JuJu Smith-Schuster,Kansas City Chiefs,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+74,48,Terry McLaurin,Washington Commanders,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+75,48,DeAndre Hopkins,Arizona Cardinals,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+76,48,Chris Olave,New Orleans Saints,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+77,48,K.J. Osborn,Minnesota Vikings,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+78,48,Hayden Hurst,Cincinnati Bengals,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+79,48,Garrett Wilson,New York Jets,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+80,48,Mo Alie-Cox,Indianapolis Colts,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+81,48,Daniel Bellinger,New York Giants,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+82,48,Kyle Pitts,Atlanta Falcons,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+83,48,Mack Hollins,Las Vegas Raiders,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+84,48,Joe Mixon,Cincinnati Bengals,HB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+85,48,Corey Davis,New York Jets,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+86,48,Zander Horvath,Los Angeles Chargers,FB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+87,48,Damiere Byrd,Atlanta Falcons,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+88,48,Alvin Kamara,New Orleans Saints,RB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+89,48,Dante Pettis,Chicago Bears,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+90,48,Josh Reynolds,Detroit Lions,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+91,48,Jake Ferguson,Dallas Cowboys,TE,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+92,48,Christian McCaffrey,San Francisco 49ers,RB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+93,48,Antonio Gibson,Washington Commanders,RB,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+94,48,Marquise Goodwin,Seattle Seahawks,WR,2,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+95,96,Terrace Marshall Jr.,Carolina Panthers,WR,1,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+96,96,N'Keal Harry,Chicago Bears,WR,1,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+97,96,Ray-Ray McCloud III,San Francisco 49ers,WR,1,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+98,96,Quez Watkins,Philadelphia Eagles,WR,1,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns
+99,96,Darnell Mooney,Chicago Bears,WR,1,2022-11-08 07:23:32.133052,/nfl/player-stat/receiving-touchdowns

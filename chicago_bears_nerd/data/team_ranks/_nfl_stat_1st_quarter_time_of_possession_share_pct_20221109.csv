@@ -1,7 +1,7 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Cincinnati,59.67%,71.04%,78.33%,67.58%,53.33%,50.30%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
-1,2,Atlanta,57.94%,58.67%,84.67%,65.33%,48.69%,50.35%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
-2,3,Baltimore,57.33%,48.93%,41.33%,59.19%,55.47%,54.13%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
+1,2,Baltimore,57.96%,46.41%,63.00%,59.19%,56.98%,54.13%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
+2,3,Atlanta,57.94%,58.67%,84.67%,65.33%,48.69%,50.35%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 3,4,Philadelphia,56.79%,52.70%,53.78%,60.00%,53.58%,47.37%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 4,5,New England,56.20%,54.52%,54.00%,49.72%,61.38%,48.19%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 5,6,Buffalo,56.04%,56.41%,60.22%,54.26%,57.11%,52.54%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
@@ -15,8 +15,8 @@
 13,14,Tampa Bay,51.11%,62.74%,57.44%,52.00%,50.00%,49.45%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 14,15,Chicago,51.07%,59.48%,76.67%,64.53%,40.31%,51.47%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 15,16,Minnesota,51.07%,46.52%,64.56%,57.53%,44.61%,49.75%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
-16,17,New Orleans,50.64%,53.19%,55.00%,53.19%,48.08%,51.01%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
-17,18,San Francisco,49.63%,39.11%,25.56%,54.78%,46.53%,49.83%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
+16,17,San Francisco,49.63%,39.11%,25.56%,54.78%,46.53%,49.83%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
+17,18,New Orleans,49.12%,54.93%,37.00%,49.96%,48.08%,51.01%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 18,19,Dallas,49.01%,45.04%,52.67%,54.53%,39.81%,58.03%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 19,20,Seattle,48.64%,60.52%,58.00%,48.47%,48.78%,42.63%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct
 20,21,Pittsburgh,47.49%,48.15%,61.89%,49.44%,46.31%,49.07%,2022-11-09,/nfl/stat/1st-quarter-time-of-possession-share-pct

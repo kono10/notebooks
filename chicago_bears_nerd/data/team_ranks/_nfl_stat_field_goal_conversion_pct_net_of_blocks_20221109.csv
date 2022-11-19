@@ -2,9 +2,9 @@
 0,1,Las Vegas,100.00%,100.00%,100.00%,100.00%,100.00%,93.62%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 1,1,Chicago,100.00%,100.00%,100.00%,100.00%,100.00%,89.66%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 2,3,Tampa Bay,95.65%,100.00%,100.00%,100.00%,91.67%,80.00%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
-3,4,Seattle,94.74%,100.00%,100.00%,100.00%,88.89%,73.91%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
-4,5,NY Giants,94.44%,100.00%,100.00%,90.91%,100.00%,87.88%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
-5,6,Baltimore,94.12%,87.50%,100.00%,100.00%,85.71%,94.59%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
+3,4,Baltimore,94.74%,100.00%,100.00%,100.00%,88.89%,94.59%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
+4,4,Seattle,94.74%,100.00%,100.00%,100.00%,88.89%,73.91%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
+5,6,NY Giants,94.44%,100.00%,100.00%,90.91%,100.00%,87.88%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 6,7,LA Chargers,93.33%,100.00%,100.00%,85.71%,100.00%,88.89%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 7,8,Arizona,92.31%,100.00%,0,87.50%,100.00%,81.58%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 8,8,Buffalo,92.31%,80.00%,50.00%,100.00%,87.50%,87.50%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
@@ -28,6 +28,6 @@
 26,27,Miami,78.57%,80.00%,0.00%,85.71%,71.43%,82.14%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 27,27,Minnesota,78.57%,100.00%,100.00%,50.00%,100.00%,86.84%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 28,29,Pittsburgh,77.78%,100.00%,100.00%,100.00%,66.67%,90.00%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
-29,30,New Orleans,75.00%,87.50%,50.00%,87.50%,62.50%,83.33%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
+29,29,New Orleans,77.78%,83.33%,100.00%,90.00%,62.50%,83.33%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 30,31,Cincinnati,73.33%,0.00%,0.00%,66.67%,77.78%,89.58%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
 31,32,Kansas City,68.75%,57.14%,66.67%,70.00%,66.67%,86.49%,2022-11-09,/nfl/stat/field-goal-conversion-pct-net-of-blocks
