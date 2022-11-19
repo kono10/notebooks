@@ -1,14 +1,14 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Chicago,10.0,14.3,15.0,10.5,9.6,7.0,2022-11-09,/nfl/stat/rushing-first-downs-per-game
-1,2,Cleveland,9.9,7.3,12.0,9.4,10.7,8.1,2022-11-09,/nfl/stat/rushing-first-downs-per-game
-2,3,Baltimore,9.5,10.7,11.0,10.8,8.3,9.4,2022-11-09,/nfl/stat/rushing-first-downs-per-game
-3,3,Philadelphia,9.5,8.0,9.0,9.8,9.3,9.2,2022-11-09,/nfl/stat/rushing-first-downs-per-game
+1,1,Baltimore,10.0,12.0,14.0,10.8,9.4,9.4,2022-11-09,/nfl/stat/rushing-first-downs-per-game
+2,3,Cleveland,9.9,7.3,12.0,9.4,10.7,8.1,2022-11-09,/nfl/stat/rushing-first-downs-per-game
+3,4,Philadelphia,9.5,8.0,9.0,9.8,9.3,9.2,2022-11-09,/nfl/stat/rushing-first-downs-per-game
 4,5,NY Giants,9.1,7.3,4.0,9.3,9.0,5.3,2022-11-09,/nfl/stat/rushing-first-downs-per-game
 5,6,Atlanta,9.1,8.7,12.0,10.6,7.3,4.4,2022-11-09,/nfl/stat/rushing-first-downs-per-game
 6,7,Jacksonville,7.9,9.7,10.0,7.3,8.4,5.4,2022-11-09,/nfl/stat/rushing-first-downs-per-game
-7,8,New Orleans,7.8,8.3,9.0,9.5,6.0,6.6,2022-11-09,/nfl/stat/rushing-first-downs-per-game
-8,9,Buffalo,7.3,8.3,9.0,6.3,7.8,8.3,2022-11-09,/nfl/stat/rushing-first-downs-per-game
-9,10,Arizona,7.1,6.3,5.0,7.0,7.3,7.4,2022-11-09,/nfl/stat/rushing-first-downs-per-game
+7,8,Buffalo,7.3,8.3,9.0,6.3,7.8,8.3,2022-11-09,/nfl/stat/rushing-first-downs-per-game
+8,9,New Orleans,7.1,6.0,2.0,8.0,6.0,6.6,2022-11-09,/nfl/stat/rushing-first-downs-per-game
+9,9,Arizona,7.1,6.3,5.0,7.0,7.3,7.4,2022-11-09,/nfl/stat/rushing-first-downs-per-game
 10,11,San Francisco,7.0,6.0,8.0,7.0,7.0,7.2,2022-11-09,/nfl/stat/rushing-first-downs-per-game
 11,12,Green Bay,6.9,6.7,6.0,8.7,6.0,6.3,2022-11-09,/nfl/stat/rushing-first-downs-per-game
 12,13,Seattle,6.8,8.0,10.0,5.5,7.8,6.2,2022-11-09,/nfl/stat/rushing-first-downs-per-game

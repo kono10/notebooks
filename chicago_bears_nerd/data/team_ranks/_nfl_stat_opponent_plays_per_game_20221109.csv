@@ -4,22 +4,22 @@
 2,3,Cleveland,59.3,59.3,50.0,61.2,56.0,62.1,2022-11-09,/nfl/stat/opponent-plays-per-game
 3,4,Chicago,59.6,52.7,53.0,57.5,61.2,59.4,2022-11-09,/nfl/stat/opponent-plays-per-game
 4,5,Buffalo,59.9,61.7,61.0,62.7,58.2,60.4,2022-11-09,/nfl/stat/opponent-plays-per-game
-5,6,New Orleans,60.1,56.7,56.0,56.0,64.3,62.6,2022-11-09,/nfl/stat/opponent-plays-per-game
-6,6,San Francisco,60.1,56.7,56.0,59.3,60.6,61.6,2022-11-09,/nfl/stat/opponent-plays-per-game
-7,6,LA Chargers,60.1,59.3,60.0,62.3,58.0,64.9,2022-11-09,/nfl/stat/opponent-plays-per-game
-8,6,NY Giants,60.1,61.7,62.0,58.3,62.0,66.9,2022-11-09,/nfl/stat/opponent-plays-per-game
-9,10,Washington,60.6,55.3,65.0,60.8,60.3,62.6,2022-11-09,/nfl/stat/opponent-plays-per-game
+5,6,San Francisco,60.1,56.7,56.0,59.3,60.6,61.6,2022-11-09,/nfl/stat/opponent-plays-per-game
+6,6,LA Chargers,60.1,59.3,60.0,62.3,58.0,64.9,2022-11-09,/nfl/stat/opponent-plays-per-game
+7,6,NY Giants,60.1,61.7,62.0,58.3,62.0,66.9,2022-11-09,/nfl/stat/opponent-plays-per-game
+8,9,Washington,60.6,55.3,65.0,60.8,60.3,62.6,2022-11-09,/nfl/stat/opponent-plays-per-game
+9,10,New Orleans,60.7,60.3,65.0,57.8,64.3,62.6,2022-11-09,/nfl/stat/opponent-plays-per-game
 10,11,Cincinnati,61.1,54.0,48.0,53.5,67.2,63.4,2022-11-09,/nfl/stat/opponent-plays-per-game
 11,12,Indianapolis,61.9,60.0,62.0,58.0,65.0,61.8,2022-11-09,/nfl/stat/opponent-plays-per-game
-12,13,Miami,62.6,65.3,70.0,65.8,60.0,63.6,2022-11-09,/nfl/stat/opponent-plays-per-game
-13,14,New England,62.9,62.7,60.0,63.3,62.6,60.7,2022-11-09,/nfl/stat/opponent-plays-per-game
-14,15,Philadelphia,63.1,63.7,57.0,59.8,66.5,63.8,2022-11-09,/nfl/stat/opponent-plays-per-game
-15,16,Tampa Bay,63.2,59.7,55.0,65.6,60.3,64.5,2022-11-09,/nfl/stat/opponent-plays-per-game
-16,17,Arizona,63.3,69.7,70.0,64.8,61.5,60.3,2022-11-09,/nfl/stat/opponent-plays-per-game
-17,18,Jacksonville,63.4,62.7,57.0,57.8,68.0,62.8,2022-11-09,/nfl/stat/opponent-plays-per-game
-18,19,Denver,63.5,67.0,65.0,59.3,67.8,61.1,2022-11-09,/nfl/stat/opponent-plays-per-game
-19,20,Las Vegas,63.9,65.3,68.0,63.7,64.0,64.7,2022-11-09,/nfl/stat/opponent-plays-per-game
-20,21,Baltimore,64.0,60.0,62.0,61.5,66.5,60.8,2022-11-09,/nfl/stat/opponent-plays-per-game
+12,13,Baltimore,62.3,55.7,49.0,61.5,63.0,60.8,2022-11-09,/nfl/stat/opponent-plays-per-game
+13,14,Miami,62.6,65.3,70.0,65.8,60.0,63.6,2022-11-09,/nfl/stat/opponent-plays-per-game
+14,15,New England,62.9,62.7,60.0,63.3,62.6,60.7,2022-11-09,/nfl/stat/opponent-plays-per-game
+15,16,Philadelphia,63.1,63.7,57.0,59.8,66.5,63.8,2022-11-09,/nfl/stat/opponent-plays-per-game
+16,17,Tampa Bay,63.2,59.7,55.0,65.6,60.3,64.5,2022-11-09,/nfl/stat/opponent-plays-per-game
+17,18,Arizona,63.3,69.7,70.0,64.8,61.5,60.3,2022-11-09,/nfl/stat/opponent-plays-per-game
+18,19,Jacksonville,63.4,62.7,57.0,57.8,68.0,62.8,2022-11-09,/nfl/stat/opponent-plays-per-game
+19,20,Denver,63.5,67.0,65.0,59.3,67.8,61.1,2022-11-09,/nfl/stat/opponent-plays-per-game
+20,21,Las Vegas,63.9,65.3,68.0,63.7,64.0,64.7,2022-11-09,/nfl/stat/opponent-plays-per-game
 21,22,Kansas City,64.1,64.0,48.0,62.5,65.8,62.8,2022-11-09,/nfl/stat/opponent-plays-per-game
 22,22,Minnesota,64.1,68.0,61.0,63.5,64.8,67.8,2022-11-09,/nfl/stat/opponent-plays-per-game
 23,24,Tennessee,64.4,68.7,91.0,62.3,65.6,61.3,2022-11-09,/nfl/stat/opponent-plays-per-game

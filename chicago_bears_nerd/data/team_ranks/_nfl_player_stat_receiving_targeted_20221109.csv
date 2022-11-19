@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Tyreek Hill,Miami Dolphins,WR,100,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-1,2,Cooper Kupp,Los Angeles Rams,WR,93,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-2,3,Davante Adams,Las Vegas Raiders,WR,85,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-3,4,Justin Jefferson,Minnesota Vikings,WR,84,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-4,5,Stefon Diggs,Buffalo Bills,WR,83,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-5,6,Travis Kelce,Kansas City Chiefs,TE,77,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-6,7,Michael Pittman Jr.,Indianapolis Colts,WR,76,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-7,7,Diontae Johnson,Pittsburgh Steelers,WR,76,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-8,9,Ja'Marr Chase,Cincinnati Bengals,WR,74,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-9,10,CeeDee Lamb,Dallas Cowboys,WR,73,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-10,11,DJ Moore,Carolina Panthers,WR,71,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-11,12,Austin Ekeler,Los Angeles Chargers,RB,70,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-12,12,Mike Evans,Tampa Bay Buccaneers,WR,70,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-13,12,Christian Kirk,Jacksonville Jaguars,WR,70,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-14,12,Jaylen Waddle,Miami Dolphins,WR,70,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-15,16,A.J. Brown,Philadelphia Eagles,WR,69,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-16,17,Garrett Wilson,New York Jets,WR,68,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-17,17,Zach Ertz,Arizona Cardinals,TE,68,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-18,17,DK Metcalf,Seattle Seahawks,WR,68,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-19,20,Amari Cooper,Cleveland Browns,WR,66,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-20,20,Tyler Lockett,Seattle Seahawks,WR,66,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-21,20,Curtis Samuel,Washington Commanders,WR,66,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-22,23,Chris Godwin,Tampa Bay Buccaneers,WR,65,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-23,24,Mark Andrews,Baltimore Ravens,TE,64,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-24,24,Marquise Brown,Arizona Cardinals,WR,64,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-25,26,Chris Olave,New Orleans Saints,WR,63,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-26,27,Courtland Sutton,Denver Broncos,WR,62,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-27,27,Terry McLaurin,Washington Commanders,WR,62,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-28,29,JuJu Smith-Schuster,Kansas City Chiefs,WR,60,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-29,30,Amon-Ra St. Brown,Detroit Lions,WR,59,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-30,30,Mike Williams,Los Angeles Chargers,WR,59,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-31,32,Tee Higgins,Cincinnati Bengals,WR,58,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-32,33,Tyler Higbee,Los Angeles Rams,TE,57,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-33,33,Adam Thielen,Minnesota Vikings,WR,57,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-34,35,Drake London,Atlanta Falcons,WR,56,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-35,35,Chase Claypool,Chicago Bears,WR,56,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-36,37,Zay Jones,Jacksonville Jaguars,WR,55,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-37,37,Brandon Aiyuk,San Francisco 49ers,WR,55,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-38,39,Christian McCaffrey,San Francisco 49ers,RB,54,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-39,39,Deebo Samuel,San Francisco 49ers,WR,54,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-40,39,Jerry Jeudy,Denver Broncos,WR,54,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-41,42,Gerald Everett,Los Angeles Chargers,TE,53,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-42,42,DeVonta Smith,Philadelphia Eagles,WR,53,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-43,42,Brandin Cooks,Houston Texans,WR,53,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-44,45,T.J. Hockenson,Minnesota Vikings,TE,52,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-45,45,Darnell Mooney,Chicago Bears,WR,52,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-46,45,Jakobi Meyers,New England Patriots,WR,52,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-47,48,Allen Lazard,Green Bay Packers,WR,51,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-48,49,Joe Mixon,Cincinnati Bengals,HB,50,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-49,49,Romeo Doubs,Green Bay Packers,WR,50,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-50,49,Joshua Palmer,Los Angeles Chargers,WR,50,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-51,49,Dallas Goedert,Philadelphia Eagles,TE,50,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-52,49,Tyler Conklin,New York Jets,TE,50,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-53,54,Leonard Fournette,Tampa Bay Buccaneers,RB,49,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-54,54,Tyler Boyd,Cincinnati Bengals,WR,49,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-55,56,Hayden Hurst,Cincinnati Bengals,TE,48,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-56,56,Pat Freiermuth,Pittsburgh Steelers,TE,48,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-57,58,Marvin Jones Jr.,Jacksonville Jaguars,WR,47,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-58,58,Evan Engram,Jacksonville Jaguars,TE,47,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-59,60,Donovan Peoples-Jones,Cleveland Browns,WR,46,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-60,60,Kyle Pitts,Atlanta Falcons,TE,46,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-61,60,Robert Tonyan,Green Bay Packers,TE,46,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-62,63,Alvin Kamara,New Orleans Saints,RB,45,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-63,63,Parris Campbell,Indianapolis Colts,WR,45,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-64,65,Mack Hollins,Las Vegas Raiders,WR,44,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-65,66,George Pickens,Pittsburgh Steelers,WR,43,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-66,66,Rhamondre Stevenson,New England Patriots,RB,43,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-67,66,Rondale Moore,Arizona Cardinals,WR,43,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-68,69,Josh Reynolds,Detroit Lions,WR,42,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-69,69,David Njoku,Cleveland Browns,TE,42,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-70,71,Allen Robinson II,Los Angeles Rams,WR,41,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-71,72,J.D. McKissic,Washington Commanders,RB,40,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-72,72,Russell Gage,Tampa Bay Buccaneers,WR,40,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-73,72,Alec Pierce,Indianapolis Colts,WR,40,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-74,72,Aaron Jones,Green Bay Packers,RB,40,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-75,76,Noah Brown,Dallas Cowboys,WR,39,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-76,76,George Kittle,San Francisco 49ers,TE,39,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-77,76,Marquez Valdes-Scantling,Kansas City Chiefs,WR,39,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-78,79,Gabe Davis,Buffalo Bills,WR,38,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-79,79,Antonio Gibson,Washington Commanders,RB,38,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-80,81,Robert Woods,Tennessee Titans,WR,36,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-81,82,Devin Singletary,Buffalo Bills,RB,35,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-82,82,Saquon Barkley,New York Giants,RB,35,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-83,84,Noah Fant,Seattle Seahawks,TE,34,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-84,84,Corey Davis,New York Jets,WR,34,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-85,84,Robbie Anderson,Arizona Cardinals,WR,34,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-86,84,Juwan Johnson,New Orleans Saints,TE,34,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-87,84,Mecole Hardman,Kansas City Chiefs,WR,34,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-88,84,DeAndre Carter,Los Angeles Chargers,WR,34,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-89,90,K.J. Osborn,Minnesota Vikings,WR,33,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-90,90,Eno Benjamin,Arizona Cardinals,RB,33,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-91,90,Irv Smith Jr.,Minnesota Vikings,TE,33,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-92,90,Rex Burkhead,Houston Texans,RB,33,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-93,94,Mike Gesicki,Miami Dolphins,TE,32,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-94,94,Scotty Miller,Tampa Bay Buccaneers,WR,32,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-95,94,Devin Duvernay,Baltimore Ravens,WR,32,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-96,94,Michael Carter,New York Jets,RB,32,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-97,94,Ben Skowronek,Los Angeles Rams,WR,32,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-98,94,DeAndre Hopkins,Arizona Cardinals,WR,32,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
-99,94,Cade Otton,Tampa Bay Buccaneers,TE,32,2022-11-07 11:23:38.564467,/nfl/player-stat/receiving-targeted
+0,1,Tyreek Hill,Miami Dolphins,WR,100,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+1,2,Cooper Kupp,Los Angeles Rams,WR,93,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+2,3,Davante Adams,Las Vegas Raiders,WR,85,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+3,4,Justin Jefferson,Minnesota Vikings,WR,84,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+4,5,Stefon Diggs,Buffalo Bills,WR,83,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+5,6,Travis Kelce,Kansas City Chiefs,TE,77,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+6,7,Michael Pittman Jr.,Indianapolis Colts,WR,76,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+7,7,Diontae Johnson,Pittsburgh Steelers,WR,76,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+8,9,Ja'Marr Chase,Cincinnati Bengals,WR,74,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+9,10,CeeDee Lamb,Dallas Cowboys,WR,73,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+10,11,Chris Olave,New Orleans Saints,WR,72,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+11,12,DJ Moore,Carolina Panthers,WR,71,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+12,13,Christian Kirk,Jacksonville Jaguars,WR,70,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+13,13,Jaylen Waddle,Miami Dolphins,WR,70,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+14,13,Austin Ekeler,Los Angeles Chargers,RB,70,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+15,13,Mike Evans,Tampa Bay Buccaneers,WR,70,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+16,17,A.J. Brown,Philadelphia Eagles,WR,69,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+17,18,Zach Ertz,Arizona Cardinals,TE,68,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+18,18,Garrett Wilson,New York Jets,WR,68,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+19,18,DK Metcalf,Seattle Seahawks,WR,68,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+20,21,Curtis Samuel,Washington Commanders,WR,66,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+21,21,Amari Cooper,Cleveland Browns,WR,66,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+22,21,Tyler Lockett,Seattle Seahawks,WR,66,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+23,24,Chris Godwin,Tampa Bay Buccaneers,WR,65,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+24,25,Mark Andrews,Baltimore Ravens,TE,64,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+25,25,Marquise Brown,Arizona Cardinals,WR,64,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+26,27,Courtland Sutton,Denver Broncos,WR,62,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+27,27,Terry McLaurin,Washington Commanders,WR,62,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+28,29,JuJu Smith-Schuster,Kansas City Chiefs,WR,60,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+29,30,Mike Williams,Los Angeles Chargers,WR,59,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+30,30,Amon-Ra St. Brown,Detroit Lions,WR,59,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+31,32,Tee Higgins,Cincinnati Bengals,WR,58,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+32,33,Adam Thielen,Minnesota Vikings,WR,57,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+33,33,Tyler Higbee,Los Angeles Rams,TE,57,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+34,35,Drake London,Atlanta Falcons,WR,56,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+35,35,Chase Claypool,Chicago Bears,WR,56,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+36,37,Brandon Aiyuk,San Francisco 49ers,WR,55,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+37,37,Zay Jones,Jacksonville Jaguars,WR,55,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+38,39,Deebo Samuel,San Francisco 49ers,WR,54,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+39,39,Jerry Jeudy,Denver Broncos,WR,54,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+40,39,Christian McCaffrey,San Francisco 49ers,RB,54,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+41,42,Gerald Everett,Los Angeles Chargers,TE,53,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+42,42,DeVonta Smith,Philadelphia Eagles,WR,53,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+43,42,Brandin Cooks,Houston Texans,WR,53,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+44,45,Darnell Mooney,Chicago Bears,WR,52,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+45,45,Jakobi Meyers,New England Patriots,WR,52,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+46,45,T.J. Hockenson,Minnesota Vikings,TE,52,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+47,48,Allen Lazard,Green Bay Packers,WR,51,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+48,49,Dallas Goedert,Philadelphia Eagles,TE,50,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+49,49,Tyler Conklin,New York Jets,TE,50,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+50,49,Romeo Doubs,Green Bay Packers,WR,50,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+51,49,Joshua Palmer,Los Angeles Chargers,WR,50,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+52,49,Joe Mixon,Cincinnati Bengals,HB,50,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+53,54,Leonard Fournette,Tampa Bay Buccaneers,RB,49,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+54,54,Tyler Boyd,Cincinnati Bengals,WR,49,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+55,54,Alvin Kamara,New Orleans Saints,RB,49,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+56,57,Hayden Hurst,Cincinnati Bengals,TE,48,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+57,57,Pat Freiermuth,Pittsburgh Steelers,TE,48,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+58,59,Evan Engram,Jacksonville Jaguars,TE,47,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+59,59,Marvin Jones Jr.,Jacksonville Jaguars,WR,47,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+60,61,Donovan Peoples-Jones,Cleveland Browns,WR,46,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+61,61,Robert Tonyan,Green Bay Packers,TE,46,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+62,61,Kyle Pitts,Atlanta Falcons,TE,46,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+63,64,Parris Campbell,Indianapolis Colts,WR,45,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+64,65,Mack Hollins,Las Vegas Raiders,WR,44,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+65,66,George Pickens,Pittsburgh Steelers,WR,43,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+66,66,Rhamondre Stevenson,New England Patriots,RB,43,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+67,66,Rondale Moore,Arizona Cardinals,WR,43,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+68,69,David Njoku,Cleveland Browns,TE,42,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+69,69,Josh Reynolds,Detroit Lions,WR,42,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+70,71,Allen Robinson II,Los Angeles Rams,WR,41,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+71,72,Alec Pierce,Indianapolis Colts,WR,40,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+72,72,J.D. McKissic,Washington Commanders,RB,40,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+73,72,Russell Gage,Tampa Bay Buccaneers,WR,40,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+74,72,Aaron Jones,Green Bay Packers,RB,40,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+75,76,Noah Brown,Dallas Cowboys,WR,39,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+76,76,Marquez Valdes-Scantling,Kansas City Chiefs,WR,39,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+77,76,George Kittle,San Francisco 49ers,TE,39,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+78,79,Gabe Davis,Buffalo Bills,WR,38,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+79,79,Antonio Gibson,Washington Commanders,RB,38,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+80,81,Juwan Johnson,New Orleans Saints,TE,36,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+81,81,Robert Woods,Tennessee Titans,WR,36,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+82,83,Saquon Barkley,New York Giants,RB,35,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+83,83,Devin Singletary,Buffalo Bills,RB,35,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+84,85,Mecole Hardman,Kansas City Chiefs,WR,34,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+85,85,Corey Davis,New York Jets,WR,34,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+86,85,Noah Fant,Seattle Seahawks,TE,34,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+87,85,DeAndre Carter,Los Angeles Chargers,WR,34,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+88,85,Robbie Anderson,Arizona Cardinals,WR,34,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+89,90,Irv Smith Jr.,Minnesota Vikings,TE,33,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+90,90,K.J. Osborn,Minnesota Vikings,WR,33,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+91,90,Rex Burkhead,Houston Texans,RB,33,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+92,90,Devin Duvernay,Baltimore Ravens,WR,33,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+93,90,Eno Benjamin,Arizona Cardinals,RB,33,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+94,95,Cade Otton,Tampa Bay Buccaneers,TE,32,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+95,95,DeAndre Hopkins,Arizona Cardinals,WR,32,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+96,95,Mike Gesicki,Miami Dolphins,TE,32,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+97,95,Scotty Miller,Tampa Bay Buccaneers,WR,32,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+98,95,Michael Carter,New York Jets,RB,32,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted
+99,95,Ben Skowronek,Los Angeles Rams,WR,32,2022-11-08 07:23:33.756286,/nfl/player-stat/receiving-targeted

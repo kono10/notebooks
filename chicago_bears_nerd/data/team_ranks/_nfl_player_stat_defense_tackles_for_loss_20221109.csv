@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Za'Darius Smith,Minnesota Vikings,LB,13,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-1,1,Maxx Crosby,Las Vegas Raiders,DE,13,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-2,3,Jonathan Allen,Washington Commanders,DT,11,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-3,4,Matthew Judon,New England Patriots,LB,10,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-4,4,Daron Payne,Washington Commanders,DT,10,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-5,6,Micah Parsons,Dallas Cowboys,LB,9,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-6,6,Von Miller,Buffalo Bills,LB,9,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-7,6,Danielle Hunter,Minnesota Vikings,LB,9,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-8,6,Brian Burns,Carolina Panthers,DE,9,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-9,6,Grady Jarrett,Atlanta Falcons,DL,9,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-10,11,Uchenna Nwosu,Seattle Seahawks,LB,8,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-11,11,Dre'Mont Jones,Denver Broncos,DE,8,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-12,11,Christian Wilkins,Miami Dolphins,DT,8,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-13,11,Nick Bosa,San Francisco 49ers,DL,8,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-14,11,Cameron Jordan,New Orleans Saints,DE,8,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-15,11,Myles Garrett,Cleveland Browns,DE,8,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-16,11,Aaron Donald,Los Angeles Rams,DL,8,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-17,18,Devin White,Tampa Bay Buccaneers,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-18,18,Frankie Luvu,Carolina Panthers,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-19,18,Alex Highsmith,Pittsburgh Steelers,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-20,18,Greg Rousseau,Buffalo Bills,DE,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-21,18,Denzel Perryman,Las Vegas Raiders,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-22,18,Sam Hubbard,Cincinnati Bengals,DE,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-23,18,Foyesade Oluokun,Jacksonville Jaguars,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-24,18,Rashan Gary,Green Bay Packers,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-25,18,Zaire Franklin,Indianapolis Colts,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-26,18,Nick Bolton,Kansas City Chiefs,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-27,18,Josh Sweat,Philadelphia Eagles,DE,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-28,18,Khalil Mack,Los Angeles Chargers,LB,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-29,18,Jerry Hughes,Houston Texans,DL,7,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-30,31,Vita Vea,Tampa Bay Buccaneers,DL,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-31,31,Dante Fowler Jr.,Dallas Cowboys,DE,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-32,31,Jeffery Simmons,Tennessee Titans,DT,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-33,31,Kwity Paye,Indianapolis Colts,DE,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-34,31,Demario Davis,New Orleans Saints,LB,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-35,31,Jihad Ward,New York Giants,LB,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-36,31,Grover Stewart,Indianapolis Colts,DT,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-37,31,De'Vondre Campbell,Green Bay Packers,LB,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-38,31,Demarcus Lawrence,Dallas Cowboys,DE,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-39,31,Jamin Davis,Washington Commanders,LB,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-40,31,J.J. Watt,Arizona Cardinals,DE,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-41,31,Montez Sweat,Washington Commanders,DE,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-42,31,Justin Jones,Chicago Bears,DL,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-43,31,Justin Madubuike,Baltimore Ravens,DT,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-44,31,Zach Allen,Arizona Cardinals,DE,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-45,31,Denico Autry,Tennessee Titans,DL,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-46,31,Chris Jones,Kansas City Chiefs,DT,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-47,31,Shaquil Barrett,Tampa Bay Buccaneers,LB,6,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-48,49,Kamren Curl,Washington Commanders,S,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-49,49,Josey Jewell,Denver Broncos,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-50,49,Josh Allen,Jacksonville Jaguars,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-51,49,Preston Smith,Green Bay Packers,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-52,49,Sebastian Joseph-Day,Los Angeles Chargers,DL,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-53,49,Zaven Collins,Arizona Cardinals,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-54,49,E.J. Speed,Indianapolis Colts,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-55,49,Justin Houston,Baltimore Ravens,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-56,49,Baron Browning,Denver Broncos,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-57,49,T.J. Edwards,Philadelphia Eagles,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-58,49,Quinnen Williams,New York Jets,DL,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-59,49,Jeremiah Owusu-Koramoah,Cleveland Browns,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-60,49,Haason Reddick,Philadelphia Eagles,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-61,49,Quincy Williams,New York Jets,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-62,49,Kevin Givens,San Francisco 49ers,DL,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-63,49,Osa Odighizuwa,Dallas Cowboys,DT,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-64,49,Melvin Ingram III,Miami Dolphins,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-65,49,Malcolm Rodriguez,Detroit Lions,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-66,49,Antoine Winfield Jr.,Tampa Bay Buccaneers,S,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-67,49,Javon Hargrave,Philadelphia Eagles,DT,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-68,49,Cameron Heyward,Pittsburgh Steelers,DT,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-69,49,Talanoa Hufanga,San Francisco 49ers,S,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-70,49,Drue Tranquill,Los Angeles Chargers,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-71,49,Matt Milano,Buffalo Bills,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-72,49,Jalen Pitre,Houston Texans,DB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-73,49,Patrick Queen,Baltimore Ravens,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-74,49,DeForest Buckner,Indianapolis Colts,DT,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-75,49,Jonathan Greenard,Houston Texans,DL,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-76,49,Desmond King II,Houston Texans,DB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-77,49,Roy Robertson-Harris,Jacksonville Jaguars,DL,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-78,49,Markus Golden,Arizona Cardinals,LB,5,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-79,80,Frank Clark,Kansas City Chiefs,DE,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-80,80,Vonn Bell,Cincinnati Bengals,S,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-81,80,Bobby Okereke,Indianapolis Colts,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-82,80,Jaquan Brisker,Chicago Bears,DB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-83,80,Alex Singleton,Denver Broncos,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-84,80,Jalen Ramsey,Los Angeles Rams,DB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-85,80,Logan Hall,Tampa Bay Buccaneers,DL,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-86,80,Eric Kendricks,Minnesota Vikings,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-87,80,DeShon Elliott,Detroit Lions,S,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-88,80,Kingsley Enagbare,Green Bay Packers,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-89,80,Jarran Reed,Green Bay Packers,DL,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-90,80,Anthony Walker Jr.,Cleveland Browns,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-91,80,Donovan Wilson,Dallas Cowboys,S,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-92,80,Tremaine Edmunds,Buffalo Bills,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-93,80,Elandon Roberts,Miami Dolphins,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-94,80,Brandon Graham,Philadelphia Eagles,DE,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-95,80,Shelby Harris,Seattle Seahawks,DE,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-96,80,Bradley Chubb,Miami Dolphins,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-97,80,Deatrich Wise Jr.,New England Patriots,DL,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-98,80,Joe Tryon-Shoyinka,Tampa Bay Buccaneers,LB,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
-99,80,Sam Williams,Dallas Cowboys,DE,4,2022-11-07 11:24:22.828914,/nfl/player-stat/defense-tackles-for-loss
+0,1,Za'Darius Smith,Minnesota Vikings,LB,13,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+1,1,Maxx Crosby,Las Vegas Raiders,DE,13,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+2,3,Jonathan Allen,Washington Commanders,DT,11,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+3,4,Daron Payne,Washington Commanders,DT,10,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+4,4,Matthew Judon,New England Patriots,LB,10,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+5,6,Von Miller,Buffalo Bills,LB,9,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+6,6,Brian Burns,Carolina Panthers,DE,9,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+7,6,Micah Parsons,Dallas Cowboys,LB,9,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+8,6,Danielle Hunter,Minnesota Vikings,LB,9,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+9,6,Grady Jarrett,Atlanta Falcons,DL,9,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+10,11,Demario Davis,New Orleans Saints,LB,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+11,11,Myles Garrett,Cleveland Browns,DE,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+12,11,Cameron Jordan,New Orleans Saints,DE,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+13,11,Uchenna Nwosu,Seattle Seahawks,LB,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+14,11,Dre'Mont Jones,Denver Broncos,DE,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+15,11,Aaron Donald,Los Angeles Rams,DL,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+16,11,Christian Wilkins,Miami Dolphins,DT,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+17,11,Nick Bosa,San Francisco 49ers,DL,8,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+18,19,Zaire Franklin,Indianapolis Colts,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+19,19,Nick Bolton,Kansas City Chiefs,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+20,19,Justin Houston,Baltimore Ravens,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+21,19,Denzel Perryman,Las Vegas Raiders,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+22,19,Josh Sweat,Philadelphia Eagles,DE,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+23,19,Devin White,Tampa Bay Buccaneers,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+24,19,Frankie Luvu,Carolina Panthers,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+25,19,Alex Highsmith,Pittsburgh Steelers,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+26,19,Greg Rousseau,Buffalo Bills,DE,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+27,19,Khalil Mack,Los Angeles Chargers,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+28,19,Sam Hubbard,Cincinnati Bengals,DE,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+29,19,Jerry Hughes,Houston Texans,DL,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+30,19,Foyesade Oluokun,Jacksonville Jaguars,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+31,19,Rashan Gary,Green Bay Packers,LB,7,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+32,33,Justin Madubuike,Baltimore Ravens,DT,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+33,33,Justin Jones,Chicago Bears,DL,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+34,33,Montez Sweat,Washington Commanders,DE,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+35,33,Zach Allen,Arizona Cardinals,DE,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+36,33,Demarcus Lawrence,Dallas Cowboys,DE,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+37,33,J.J. Watt,Arizona Cardinals,DE,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+38,33,Chris Jones,Kansas City Chiefs,DT,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+39,33,Kwity Paye,Indianapolis Colts,DE,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+40,33,Vita Vea,Tampa Bay Buccaneers,DL,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+41,33,Grover Stewart,Indianapolis Colts,DT,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+42,33,Denico Autry,Tennessee Titans,DL,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+43,33,Jeffery Simmons,Tennessee Titans,DT,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+44,33,Shaquil Barrett,Tampa Bay Buccaneers,LB,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+45,33,Jihad Ward,New York Giants,LB,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+46,33,Dante Fowler Jr.,Dallas Cowboys,DE,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+47,33,De'Vondre Campbell,Green Bay Packers,LB,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+48,33,Jamin Davis,Washington Commanders,LB,6,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+49,50,Preston Smith,Green Bay Packers,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+50,50,Antoine Winfield Jr.,Tampa Bay Buccaneers,S,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+51,50,Osa Odighizuwa,Dallas Cowboys,DT,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+52,50,Talanoa Hufanga,San Francisco 49ers,S,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+53,50,Patrick Queen,Baltimore Ravens,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+54,50,Drue Tranquill,Los Angeles Chargers,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+55,50,Jalen Pitre,Houston Texans,DB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+56,50,Haason Reddick,Philadelphia Eagles,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+57,50,Matt Milano,Buffalo Bills,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+58,50,Javon Hargrave,Philadelphia Eagles,DT,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+59,50,Kamren Curl,Washington Commanders,S,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+60,50,Jonathan Greenard,Houston Texans,DL,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+61,50,Melvin Ingram III,Miami Dolphins,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+62,50,Desmond King II,Houston Texans,DB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+63,50,Cameron Heyward,Pittsburgh Steelers,DT,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+64,50,Josh Allen,Jacksonville Jaguars,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+65,50,Josey Jewell,Denver Broncos,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+66,50,Sebastian Joseph-Day,Los Angeles Chargers,DL,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+67,50,Zaven Collins,Arizona Cardinals,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+68,50,DeForest Buckner,Indianapolis Colts,DT,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+69,50,E.J. Speed,Indianapolis Colts,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+70,50,Baron Browning,Denver Broncos,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+71,50,T.J. Edwards,Philadelphia Eagles,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+72,50,Roy Robertson-Harris,Jacksonville Jaguars,DL,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+73,50,Markus Golden,Arizona Cardinals,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+74,50,Quinnen Williams,New York Jets,DL,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+75,50,Jeremiah Owusu-Koramoah,Cleveland Browns,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+76,50,Quincy Williams,New York Jets,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+77,50,Kevin Givens,San Francisco 49ers,DL,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+78,50,Malcolm Rodriguez,Detroit Lions,LB,5,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+79,80,Alex Singleton,Denver Broncos,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+80,80,Frank Clark,Kansas City Chiefs,DE,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+81,80,Rashad Weaver,Tennessee Titans,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+82,80,Josh Uche,New England Patriots,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+83,80,Poona Ford,Seattle Seahawks,DT,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+84,80,Carl Lawson,New York Jets,DL,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+85,80,D.J. Wonnum,Minnesota Vikings,DE,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+86,80,Eric Kendricks,Minnesota Vikings,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+87,80,Patrick Jones II,Minnesota Vikings,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+88,80,Payton Turner,New Orleans Saints,DE,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+89,80,Jaelan Phillips,Miami Dolphins,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+90,80,Roquan Smith,Baltimore Ravens,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+91,80,Elandon Roberts,Miami Dolphins,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+92,80,Brandon Graham,Philadelphia Eagles,DE,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+93,80,Shelby Harris,Seattle Seahawks,DE,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+94,80,Dorance Armstrong,Dallas Cowboys,DE,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+95,80,Samson Ebukam,San Francisco 49ers,DL,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+96,80,David Long Jr.,Tennessee Titans,LB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+97,80,Jaquan Brisker,Chicago Bears,DB,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+98,80,Derwin James Jr.,Los Angeles Chargers,S,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss
+99,80,Rasheem Green,Houston Texans,DL,4,2022-11-08 07:24:18.385340,/nfl/player-stat/defense-tackles-for-loss

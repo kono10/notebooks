@@ -1,13 +1,13 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Carolina,1.2,1.0,1.0,1.0,1.5,1.8,2022-11-09,/nfl/stat/penalty-first-downs-per-game
 1,2,Pittsburgh,1.3,1.3,2.0,1.0,1.4,1.9,2022-11-09,/nfl/stat/penalty-first-downs-per-game
-2,3,New England,1.3,0.7,0.0,1.0,1.6,2.1,2022-11-09,/nfl/stat/penalty-first-downs-per-game
-3,3,Indianapolis,1.3,1.0,1.0,2.0,0.8,1.9,2022-11-09,/nfl/stat/penalty-first-downs-per-game
-4,5,Dallas,1.4,1.3,0.0,1.6,1.0,1.8,2022-11-09,/nfl/stat/penalty-first-downs-per-game
-5,5,New Orleans,1.4,1.0,1.0,2.0,0.8,1.7,2022-11-09,/nfl/stat/penalty-first-downs-per-game
-6,5,Las Vegas,1.4,1.0,0.0,1.0,1.6,2.3,2022-11-09,/nfl/stat/penalty-first-downs-per-game
-7,5,LA Rams,1.4,1.0,0.0,1.8,0.7,1.5,2022-11-09,/nfl/stat/penalty-first-downs-per-game
-8,5,Baltimore,1.4,0.7,1.0,2.3,0.5,1.5,2022-11-09,/nfl/stat/penalty-first-downs-per-game
+2,3,New Orleans,1.3,1.0,1.0,1.8,0.8,1.7,2022-11-09,/nfl/stat/penalty-first-downs-per-game
+3,3,New England,1.3,0.7,0.0,1.0,1.6,2.1,2022-11-09,/nfl/stat/penalty-first-downs-per-game
+4,3,Indianapolis,1.3,1.0,1.0,2.0,0.8,1.9,2022-11-09,/nfl/stat/penalty-first-downs-per-game
+5,6,Dallas,1.4,1.3,0.0,1.6,1.0,1.8,2022-11-09,/nfl/stat/penalty-first-downs-per-game
+6,6,Las Vegas,1.4,1.0,0.0,1.0,1.6,2.3,2022-11-09,/nfl/stat/penalty-first-downs-per-game
+7,6,LA Rams,1.4,1.0,0.0,1.8,0.7,1.5,2022-11-09,/nfl/stat/penalty-first-downs-per-game
+8,9,Baltimore,1.4,1.3,2.0,2.3,0.8,1.5,2022-11-09,/nfl/stat/penalty-first-downs-per-game
 9,10,Cleveland,1.5,1.3,0.0,1.0,2.3,1.6,2022-11-09,/nfl/stat/penalty-first-downs-per-game
 10,11,Arizona,1.6,2.7,2.0,1.0,2.3,1.5,2022-11-09,/nfl/stat/penalty-first-downs-per-game
 11,12,Tennessee,1.6,0.7,0.0,2.0,1.4,1.9,2022-11-09,/nfl/stat/penalty-first-downs-per-game

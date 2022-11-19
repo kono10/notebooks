@@ -4,17 +4,17 @@
 2,3,Pittsburgh,0.4,0.3,0.0,0.7,0.2,0.8,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
 3,4,Green Bay,0.4,0.3,0.0,0.3,0.5,0.6,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
 4,4,Cincinnati,0.4,0.3,0.0,0.5,0.4,0.8,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-5,6,New Orleans,0.5,0.7,0.0,0.3,0.8,0.5,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-6,6,Buffalo,0.5,0.7,1.0,0.3,0.6,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-7,8,Washington,0.6,0.7,0.0,0.8,0.3,0.6,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-8,8,Jacksonville,0.6,0.0,0.0,0.5,0.6,0.6,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-9,8,Miami,0.6,0.0,0.0,1.0,0.2,0.5,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-10,8,Indianapolis,0.6,0.3,1.0,0.5,0.6,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-11,12,Dallas,0.6,1.0,0.0,0.8,0.3,0.3,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-12,12,Kansas City,0.6,0.0,0.0,0.3,1.0,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-13,12,Baltimore,0.6,0.3,0.0,0.5,0.8,0.4,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-14,12,Philadelphia,0.6,0.3,0.0,0.8,0.5,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
-15,12,Minnesota,0.6,0.7,0.0,0.8,0.5,0.4,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+5,6,Buffalo,0.5,0.7,1.0,0.3,0.6,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+6,7,Washington,0.6,0.7,0.0,0.8,0.3,0.6,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+7,7,New Orleans,0.6,1.0,1.0,0.4,0.8,0.5,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+8,7,Jacksonville,0.6,0.0,0.0,0.5,0.6,0.6,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+9,7,Miami,0.6,0.0,0.0,1.0,0.2,0.5,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+10,7,Baltimore,0.6,0.3,0.0,0.5,0.6,0.4,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+11,7,Indianapolis,0.6,0.3,1.0,0.5,0.6,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+12,13,Dallas,0.6,1.0,0.0,0.8,0.3,0.3,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+13,13,Kansas City,0.6,0.0,0.0,0.3,1.0,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+14,13,Philadelphia,0.6,0.3,0.0,0.8,0.5,0.7,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
+15,13,Minnesota,0.6,0.7,0.0,0.8,0.5,0.4,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
 16,17,Detroit,0.8,1.0,2.0,0.6,1.0,0.5,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
 17,17,San Francisco,0.8,0.7,0.0,0.3,1.0,1.2,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game
 18,17,Tennessee,0.8,0.0,0.0,0.7,0.8,0.8,2022-11-09,/nfl/stat/opponent-fumbles-not-lost-per-game

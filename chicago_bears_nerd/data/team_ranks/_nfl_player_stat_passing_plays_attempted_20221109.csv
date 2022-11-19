@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Tom Brady,Tampa Bay Buccaneers,QB,398,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-1,2,Kyler Murray,Arizona Cardinals,QB,360,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-2,3,Justin Herbert,Los Angeles Chargers,QB,351,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-3,4,Joe Burrow,Cincinnati Bengals,QB,333,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-4,5,Patrick Mahomes,Kansas City Chiefs,QB,331,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-5,6,Aaron Rodgers,Green Bay Packers,QB,317,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-6,7,Trevor Lawrence,Jacksonville Jaguars,QB,308,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-7,8,Kirk Cousins,Minnesota Vikings,QB,304,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-8,9,Josh Allen,Buffalo Bills,QB,298,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-9,10,Matt Ryan,Indianapolis Colts,QB,297,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-10,11,Matthew Stafford,Los Angeles Rams,QB,285,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-11,12,Geno Smith,Seattle Seahawks,QB,283,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-12,13,Jared Goff,Detroit Lions,QB,275,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-13,14,Derek Carr,Las Vegas Raiders,QB,273,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-14,15,Davis Mills,Houston Texans,QB,258,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-15,16,Jacoby Brissett,Cleveland Browns,QB,255,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-16,17,Jalen Hurts,Philadelphia Eagles,QB,239,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-17,18,Lamar Jackson,Baltimore Ravens,QB,235,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-18,19,Carson Wentz,Washington Commanders,QB,232,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-19,20,Russell Wilson,Denver Broncos,QB,228,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-20,21,Daniel Jones,New York Giants,QB,220,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-21,22,Tua Tagovailoa,Miami Dolphins,QB,216,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-22,23,Jimmy Garoppolo,San Francisco 49ers,QB,210,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-23,24,Marcus Mariota,Atlanta Falcons,QB,201,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-24,25,Justin Fields,Chicago Bears,QB,187,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-25,26,Baker Mayfield,Carolina Panthers,QB,173,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-26,27,Mac Jones,New England Patriots,QB,168,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-27,28,Zach Wilson,New York Jets,QB,167,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-28,29,Kenny Pickett,Pittsburgh Steelers,QB,165,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-29,30,Andy Dalton,New Orleans Saints,QB,161,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-30,31,Cooper Rush,Dallas Cowboys,QB,156,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-31,32,Joe Flacco,New York Jets,QB,155,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-32,33,Ryan Tannehill,Tennessee Titans,QB,146,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-33,34,Mitch Trubisky,Pittsburgh Steelers,QB,128,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-34,35,Jameis Winston,New Orleans Saints,QB,115,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-35,36,Bailey Zappe,New England Patriots,QB,92,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-36,36,Taylor Heinicke,Washington Commanders,QB,92,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-37,38,PJ Walker,Carolina Panthers,QB,90,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-38,39,Dak Prescott,Dallas Cowboys,QB,81,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-39,40,Teddy Bridgewater,Miami Dolphins,QB,60,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-40,41,Sam Ehlinger,Indianapolis Colts,QB,52,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-41,42,Skylar Thompson,Miami Dolphins,QB,46,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-42,42,Brett Rypien,Denver Broncos,QB,46,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-43,44,Trey Lance,San Francisco 49ers,QB,31,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-44,45,Malik Willis,Tennessee Titans,QB,30,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-45,46,Jarrett Stidham,Las Vegas Raiders,QB,13,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-46,47,Jordan Love,Green Bay Packers,QB,9,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-47,47,Brock Purdy,San Francisco 49ers,QB,9,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-48,49,Taysom Hill,New Orleans Saints,TE,8,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-49,50,Case Keenum,Buffalo Bills,QB,7,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-50,51,Brian Hoyer,New England Patriots,QB,6,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-51,52,Jacob Eason,Carolina Panthers,QB,5,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-52,53,Trace McSorley,Arizona Cardinals,QB,4,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-53,54,Tyrod Taylor,New York Giants,QB,3,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-54,54,Brandon Allen,Cincinnati Bengals,QB,3,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-55,56,Chad Henne,Kansas City Chiefs,QB,2,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-56,56,Gardner Minshew,Philadelphia Eagles,QB,2,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-57,58,Trevor Siemian,Chicago Bears,QB,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-58,58,Mack Hollins,Las Vegas Raiders,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-59,58,Braxton Berrios,New York Jets,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-60,58,Tommy Townsend,Kansas City Chiefs,P,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-61,58,Christian McCaffrey,San Francisco 49ers,RB,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-62,58,Amari Cooper,Cleveland Browns,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-63,58,Braden Mann,New York Jets,P,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-64,58,Christian Kirk,Jacksonville Jaguars,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-65,58,Ryan Wright,Minnesota Vikings,P,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-66,58,Jack Fox,Detroit Lions,P,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-67,58,Tyler Boyd,Cincinnati Bengals,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-68,58,Nick Mullens,Minnesota Vikings,QB,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-69,58,DeeJay Dallas,Seattle Seahawks,RB,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-70,58,Cooper Kupp,Los Angeles Rams,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-71,58,Riley Dixon,Los Angeles Rams,P,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-72,58,Justin Jefferson,Minnesota Vikings,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-73,58,Rex Burkhead,Houston Texans,RB,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-74,58,Najee Harris,Pittsburgh Steelers,RB,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-75,58,Chase Claypool,Chicago Bears,WR,1,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-76,77,A'Shawn Robinson,Los Angeles Rams,DT,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-77,77,Geron Christian,Kansas City Chiefs,T,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-78,77,Aaron Brewer,Tennessee Titans,G,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-79,77,Ed Ingram,Minnesota Vikings,G,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-80,77,Patrick Scales,Chicago Bears,LS,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-81,77,Cory Littleton,Carolina Panthers,LB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-82,77,Rayshawn Jenkins,Jacksonville Jaguars,S,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-83,77,Nahshon Wright,Dallas Cowboys,CB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-84,77,Luke Tenuta,Green Bay Packers,T,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-85,77,Kenny Young,Tampa Bay Buccaneers,LB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-86,77,Amari Rodgers,Green Bay Packers,WR,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-87,77,Cameron Dicker,Los Angeles Chargers,P,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-88,77,Vita Vea,Tampa Bay Buccaneers,DL,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-89,77,Myles Adams,Seattle Seahawks,DT,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-90,77,Austin Ekeler,Los Angeles Chargers,RB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-91,77,Taiwan Jones,Buffalo Bills,RB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-92,77,Daryl Worley,Baltimore Ravens,CB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-93,77,Bryan Mone,Seattle Seahawks,DT,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-94,77,Bryce Perkins,Los Angeles Rams,QB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-95,77,A.J. Green,Cleveland Browns,CB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-96,77,Keisean Nixon,Green Bay Packers,CB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-97,77,David Quessenberry,Buffalo Bills,T,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-98,77,Montravius Adams,Pittsburgh Steelers,DT,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
-99,77,Eddie Jackson,Chicago Bears,DB,0,2022-11-07 11:23:09.544532,/nfl/player-stat/passing-plays-attempted
+0,1,Tom Brady,Tampa Bay Buccaneers,QB,398,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+1,2,Kyler Murray,Arizona Cardinals,QB,360,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+2,3,Justin Herbert,Los Angeles Chargers,QB,351,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+3,4,Joe Burrow,Cincinnati Bengals,QB,333,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+4,5,Patrick Mahomes,Kansas City Chiefs,QB,331,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+5,6,Aaron Rodgers,Green Bay Packers,QB,317,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+6,7,Trevor Lawrence,Jacksonville Jaguars,QB,308,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+7,8,Kirk Cousins,Minnesota Vikings,QB,304,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+8,9,Josh Allen,Buffalo Bills,QB,298,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+9,10,Matt Ryan,Indianapolis Colts,QB,297,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+10,11,Matthew Stafford,Los Angeles Rams,QB,285,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+11,12,Geno Smith,Seattle Seahawks,QB,283,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+12,13,Jared Goff,Detroit Lions,QB,275,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+13,14,Derek Carr,Las Vegas Raiders,QB,273,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+14,15,Davis Mills,Houston Texans,QB,258,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+15,16,Lamar Jackson,Baltimore Ravens,QB,257,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+16,17,Jacoby Brissett,Cleveland Browns,QB,255,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+17,18,Jalen Hurts,Philadelphia Eagles,QB,239,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+18,19,Carson Wentz,Washington Commanders,QB,232,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+19,20,Russell Wilson,Denver Broncos,QB,228,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+20,21,Daniel Jones,New York Giants,QB,220,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+21,22,Tua Tagovailoa,Miami Dolphins,QB,216,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+22,23,Jimmy Garoppolo,San Francisco 49ers,QB,210,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+23,24,Marcus Mariota,Atlanta Falcons,QB,201,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+24,25,Andy Dalton,New Orleans Saints,QB,190,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+25,26,Justin Fields,Chicago Bears,QB,187,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+26,27,Baker Mayfield,Carolina Panthers,QB,173,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+27,28,Mac Jones,New England Patriots,QB,168,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+28,29,Zach Wilson,New York Jets,QB,167,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+29,30,Kenny Pickett,Pittsburgh Steelers,QB,165,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+30,31,Cooper Rush,Dallas Cowboys,QB,156,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+31,32,Joe Flacco,New York Jets,QB,155,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+32,33,Ryan Tannehill,Tennessee Titans,QB,146,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+33,34,Mitch Trubisky,Pittsburgh Steelers,QB,128,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+34,35,Jameis Winston,New Orleans Saints,QB,115,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+35,36,Taylor Heinicke,Washington Commanders,QB,92,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+36,36,Bailey Zappe,New England Patriots,QB,92,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+37,38,PJ Walker,Carolina Panthers,QB,90,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+38,39,Dak Prescott,Dallas Cowboys,QB,81,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+39,40,Teddy Bridgewater,Miami Dolphins,QB,60,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+40,41,Sam Ehlinger,Indianapolis Colts,QB,52,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+41,42,Brett Rypien,Denver Broncos,QB,46,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+42,42,Skylar Thompson,Miami Dolphins,QB,46,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+43,44,Trey Lance,San Francisco 49ers,QB,31,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+44,45,Malik Willis,Tennessee Titans,QB,30,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+45,46,Jarrett Stidham,Las Vegas Raiders,QB,13,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+46,47,Brock Purdy,San Francisco 49ers,QB,9,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+47,47,Taysom Hill,New Orleans Saints,TE,9,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+48,47,Jordan Love,Green Bay Packers,QB,9,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+49,50,Case Keenum,Buffalo Bills,QB,7,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+50,51,Brian Hoyer,New England Patriots,QB,6,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+51,52,Jacob Eason,Carolina Panthers,QB,5,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+52,53,Trace McSorley,Arizona Cardinals,QB,4,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+53,54,Brandon Allen,Cincinnati Bengals,QB,3,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+54,54,Tyrod Taylor,New York Giants,QB,3,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+55,56,Chad Henne,Kansas City Chiefs,QB,2,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+56,56,Gardner Minshew,Philadelphia Eagles,QB,2,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+57,58,Jack Fox,Detroit Lions,P,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+58,58,Braden Mann,New York Jets,P,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+59,58,Christian Kirk,Jacksonville Jaguars,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+60,58,Justin Jefferson,Minnesota Vikings,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+61,58,DeeJay Dallas,Seattle Seahawks,RB,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+62,58,Tyler Boyd,Cincinnati Bengals,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+63,58,Nick Mullens,Minnesota Vikings,QB,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+64,58,Amari Cooper,Cleveland Browns,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+65,58,Najee Harris,Pittsburgh Steelers,RB,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+66,58,Chase Claypool,Chicago Bears,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+67,58,Riley Dixon,Los Angeles Rams,P,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+68,58,Cooper Kupp,Los Angeles Rams,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+69,58,Mack Hollins,Las Vegas Raiders,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+70,58,Rex Burkhead,Houston Texans,RB,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+71,58,Braxton Berrios,New York Jets,WR,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+72,58,Trevor Siemian,Chicago Bears,QB,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+73,58,Tommy Townsend,Kansas City Chiefs,P,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+74,58,Ryan Wright,Minnesota Vikings,P,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+75,58,Christian McCaffrey,San Francisco 49ers,RB,1,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+76,77,Justin Watson,Kansas City Chiefs,WR,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+77,77,Antoine Winfield Jr.,Tampa Bay Buccaneers,S,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+78,77,Mykal Walker,Atlanta Falcons,LB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+79,77,Nick Bolton,Kansas City Chiefs,LB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+80,77,Emmanuel Moseley,San Francisco 49ers,CB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+81,77,Chris Reed,Minnesota Vikings,G,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+82,77,Ogbonnia Okoronkwo,Houston Texans,DL,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+83,77,Justin Murray,Buffalo Bills,OL,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+84,77,Cullen Gillaspia,Seattle Seahawks,LB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+85,77,George Fant,New York Jets,T,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+86,77,Dan Moore Jr.,Pittsburgh Steelers,T,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+87,77,Cole Strange,New England Patriots,OL,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+88,77,J.C. Jackson,Los Angeles Chargers,CB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+89,77,Osa Odighizuwa,Dallas Cowboys,DT,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+90,77,Grant Calcaterra,Philadelphia Eagles,TE,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+91,77,Tutu Atwell,Los Angeles Rams,WR,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+92,77,Mike Purcell,Denver Broncos,DL,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+93,77,Ben Jones,Tennessee Titans,C,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+94,77,Dre Greenlaw,San Francisco 49ers,LB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+95,77,Tremayne Anchrum Jr.,Los Angeles Rams,T,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+96,77,D'Andre Swift,Detroit Lions,RB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+97,77,Jahan Dotson,Washington Commanders,WR,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+98,77,Mason Rudolph,Pittsburgh Steelers,QB,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted
+99,77,Dominik Eberle,Green Bay Packers,K,0,2022-11-08 07:23:03.775749,/nfl/player-stat/passing-plays-attempted

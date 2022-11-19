@@ -12,12 +12,12 @@
 10,10,Tennessee,4.6,3.7,5.0,4.3,4.8,5.0,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 11,12,Cincinnati,4.7,4.0,4.0,4.3,5.0,4.9,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 12,13,Denver,4.8,4.7,4.0,4.3,5.3,4.4,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-13,14,Miami,4.9,4.7,6.0,3.3,6.2,4.9,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-14,15,Washington,5.0,4.7,5.0,4.8,5.3,5.4,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-15,15,Chicago,5.0,5.7,6.0,4.5,5.4,5.3,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-16,15,NY Giants,5.0,5.0,6.0,5.3,4.8,5.5,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-17,15,Baltimore,5.0,5.3,6.0,5.3,4.8,5.0,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-18,15,Seattle,5.0,4.0,4.0,4.3,5.6,4.9,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+13,14,Baltimore,4.8,4.7,3.0,5.3,4.4,5.0,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+14,15,Miami,4.9,4.7,6.0,3.3,6.2,4.9,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+15,16,Washington,5.0,4.7,5.0,4.8,5.3,5.4,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+16,16,Chicago,5.0,5.7,6.0,4.5,5.4,5.3,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+17,16,NY Giants,5.0,5.0,6.0,5.3,4.8,5.5,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+18,16,Seattle,5.0,4.0,4.0,4.3,5.6,4.9,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 19,20,Green Bay,5.1,4.7,3.0,5.0,5.2,4.4,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 20,20,Indianapolis,5.1,5.7,7.0,4.5,5.6,4.6,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 21,22,Houston,5.1,5.3,5.0,5.3,5.0,5.8,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
@@ -28,6 +28,6 @@
 26,26,Kansas City,5.5,5.7,5.0,5.5,5.5,4.9,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 27,28,Carolina,5.6,5.3,7.0,5.0,6.3,5.4,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 28,29,Arizona,5.7,6.3,6.0,6.2,5.0,4.8,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-29,30,New Orleans,5.8,5.0,1.0,4.8,6.8,4.6,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
-30,30,LA Chargers,5.8,5.7,4.0,6.5,5.0,5.6,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+29,30,LA Chargers,5.8,5.7,4.0,6.5,5.0,5.6,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
+30,31,New Orleans,5.8,5.0,6.0,5.0,6.8,4.6,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
 31,32,Detroit,6.0,4.7,3.0,6.2,5.7,5.9,2022-11-09,/nfl/stat/opponent-kickoffs-per-game
