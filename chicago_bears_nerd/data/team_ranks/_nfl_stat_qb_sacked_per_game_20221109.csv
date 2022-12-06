@@ -4,15 +4,15 @@
 2,3,Dallas,1.5,1.0,1.0,1.8,1.0,2.1,2022-11-09,/nfl/stat/qb-sacked-per-game
 3,4,Tampa Bay,1.6,1.7,1.0,1.6,1.5,1.6,2022-11-09,/nfl/stat/qb-sacked-per-game
 4,5,Detroit,1.6,2.0,0.0,1.2,2.3,2.1,2022-11-09,/nfl/stat/qb-sacked-per-game
-5,6,New Orleans,1.9,0.3,0.0,2.0,1.8,2.2,2022-11-09,/nfl/stat/qb-sacked-per-game
-6,7,Miami,1.9,0.7,0.0,2.8,1.2,2.4,2022-11-09,/nfl/stat/qb-sacked-per-game
-7,8,Cleveland,2.0,3.7,2.0,1.8,2.3,2.9,2022-11-09,/nfl/stat/qb-sacked-per-game
-8,8,Kansas City,2.0,2.7,4.0,2.8,1.3,1.9,2022-11-09,/nfl/stat/qb-sacked-per-game
-9,8,Buffalo,2.0,2.7,5.0,1.0,2.6,1.5,2022-11-09,/nfl/stat/qb-sacked-per-game
-10,8,Green Bay,2.0,1.0,1.0,2.7,1.7,2.1,2022-11-09,/nfl/stat/qb-sacked-per-game
-11,8,Minnesota,2.0,2.7,2.0,1.5,2.5,1.8,2022-11-09,/nfl/stat/qb-sacked-per-game
+5,6,Miami,1.9,0.7,0.0,2.8,1.2,2.4,2022-11-09,/nfl/stat/qb-sacked-per-game
+6,7,Cleveland,2.0,3.7,2.0,1.8,2.3,2.9,2022-11-09,/nfl/stat/qb-sacked-per-game
+7,7,Kansas City,2.0,2.7,4.0,2.8,1.3,1.9,2022-11-09,/nfl/stat/qb-sacked-per-game
+8,7,Buffalo,2.0,2.7,5.0,1.0,2.6,1.5,2022-11-09,/nfl/stat/qb-sacked-per-game
+9,7,Green Bay,2.0,1.0,1.0,2.7,1.7,2.1,2022-11-09,/nfl/stat/qb-sacked-per-game
+10,7,Minnesota,2.0,2.7,2.0,1.5,2.5,1.8,2022-11-09,/nfl/stat/qb-sacked-per-game
+11,12,New Orleans,2.1,1.3,4.0,2.4,1.8,2.2,2022-11-09,/nfl/stat/qb-sacked-per-game
 12,13,San Francisco,2.1,2.7,3.0,2.0,2.2,1.9,2022-11-09,/nfl/stat/qb-sacked-per-game
-13,13,Baltimore,2.1,2.7,3.0,1.5,2.8,3.4,2022-11-09,/nfl/stat/qb-sacked-per-game
+13,14,Baltimore,2.2,3.0,3.0,1.5,2.8,3.4,2022-11-09,/nfl/stat/qb-sacked-per-game
 14,15,Atlanta,2.3,2.3,2.0,1.4,3.5,2.4,2022-11-09,/nfl/stat/qb-sacked-per-game
 15,15,NY Jets,2.3,2.3,2.0,2.6,2.0,3.1,2022-11-09,/nfl/stat/qb-sacked-per-game
 16,15,Carolina,2.3,0.7,0.0,3.2,1.3,3.1,2022-11-09,/nfl/stat/qb-sacked-per-game

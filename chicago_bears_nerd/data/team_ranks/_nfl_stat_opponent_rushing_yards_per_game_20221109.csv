@@ -1,7 +1,7 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,San Francisco,86.6,112.0,56.0,68.3,97.6,98.7,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 1,2,Tennessee,87.6,61.7,77.0,133.0,60.4,83.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-2,3,Baltimore,97.5,80.0,44.0,106.3,88.8,84.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+2,3,Baltimore,92.0,68.3,48.0,106.3,80.6,84.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 3,4,LA Rams,98.4,85.0,51.0,115.6,69.7,95.0,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 4,5,Kansas City,102.0,132.7,172.0,131.8,72.3,114.0,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 5,6,Buffalo,104.9,150.0,174.0,114.0,99.4,112.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
@@ -9,15 +9,15 @@
 7,8,Atlanta,106.9,112.7,91.0,127.6,81.0,131.9,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 8,9,NY Jets,110.9,122.0,134.0,106.0,117.0,138.3,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 9,10,Minnesota,111.3,96.0,137.0,101.5,121.0,130.7,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-10,11,New Orleans,112.5,83.3,38.0,84.0,141.0,93.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-11,12,Washington,113.2,76.3,56.0,78.8,156.3,104.4,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-12,13,Indianapolis,114.4,101.3,70.0,131.0,101.2,109.1,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-13,14,Arizona,115.4,138.7,158.0,122.0,107.3,116.2,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-14,15,Las Vegas,116.0,137.3,168.0,112.0,118.4,112.6,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-15,16,Miami,117.4,143.0,252.0,91.5,138.2,109.8,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-16,17,Pittsburgh,117.9,99.0,111.0,99.0,129.2,143.8,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-17,18,Cincinnati,118.8,114.3,64.0,82.8,147.6,103.2,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
-18,19,New England,120.7,124.0,78.0,152.5,95.2,126.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+10,11,Washington,113.2,76.3,56.0,78.8,156.3,104.4,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+11,12,Indianapolis,114.4,101.3,70.0,131.0,101.2,109.1,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+12,13,Arizona,115.4,138.7,158.0,122.0,107.3,116.2,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+13,14,Las Vegas,116.0,137.3,168.0,112.0,118.4,112.6,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+14,15,Miami,117.4,143.0,252.0,91.5,138.2,109.8,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+15,16,Pittsburgh,117.9,99.0,111.0,99.0,129.2,143.8,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+16,17,Cincinnati,118.8,114.3,64.0,82.8,147.6,103.2,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+17,18,New England,120.7,124.0,78.0,152.5,95.2,126.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
+18,19,New Orleans,120.9,121.0,188.0,104.8,141.0,93.5,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 19,20,Philadelphia,121.4,148.7,168.0,102.8,140.0,107.8,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 20,21,Denver,122.6,139.7,191.0,107.3,138.0,111.3,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game
 21,22,Cleveland,123.1,98.0,36.0,113.8,138.7,109.2,2022-11-09,/nfl/stat/opponent-rushing-yards-per-game

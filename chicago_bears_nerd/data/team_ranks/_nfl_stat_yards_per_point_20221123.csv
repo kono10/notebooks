@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Atlanta,13.3,15.0,10.4,12.9,14.0,16.5,2022-11-23,/nfl/stat/yards-per-point
+1,2,Seattle,13.7,13.3,17.7,14.5,13.3,13.9,2022-11-23,/nfl/stat/yards-per-point
+2,3,Dallas,13.8,11.3,11.5,13.5,14.0,13.2,2022-11-23,/nfl/stat/yards-per-point
+3,4,Cincinnati,13.8,12.0,11.0,14.5,13.2,13.5,2022-11-23,/nfl/stat/yards-per-point
+4,5,Philadelphia,14.1,14.0,18.5,13.5,14.7,14.1,2022-11-23,/nfl/stat/yards-per-point
+5,6,Baltimore,14.1,16.1,23.7,14.7,13.7,16.6,2022-11-23,/nfl/stat/yards-per-point
+6,7,Kansas City,14.3,19.2,16.4,16.6,12.7,13.9,2022-11-23,/nfl/stat/yards-per-point
+7,8,Detroit,14.7,11.7,10.5,12.5,18.3,16.9,2022-11-23,/nfl/stat/yards-per-point
+8,9,Minnesota,14.8,17.2,61.0,15.1,14.5,14.5,2022-11-23,/nfl/stat/yards-per-point
+9,10,Buffalo,14.9,14.9,11.5,13.4,16.2,13.1,2022-11-23,/nfl/stat/yards-per-point
+10,11,Chicago,14.9,12.4,12.0,15.6,14.2,16.8,2022-11-23,/nfl/stat/yards-per-point
+11,12,New England,14.9,13.6,29.7,15.0,14.9,13.2,2022-11-23,/nfl/stat/yards-per-point
+12,13,Carolina,15.2,15.6,68.3,14.3,16.5,16.7,2022-11-23,/nfl/stat/yards-per-point
+13,14,Arizona,15.2,15.1,31.4,14.1,16.2,14.2,2022-11-23,/nfl/stat/yards-per-point
+14,15,Las Vegas,15.2,16.7,18.5,12.5,17.9,16.7,2022-11-23,/nfl/stat/yards-per-point
+15,16,Tennessee,15.2,15.5,15.1,16.0,14.7,14.2,2022-11-23,/nfl/stat/yards-per-point
+16,17,San Francisco,15.4,12.5,10.2,15.9,15.0,15.0,2022-11-23,/nfl/stat/yards-per-point
+17,18,Miami,15.5,12.8,12.6,16.4,14.8,15.3,2022-11-23,/nfl/stat/yards-per-point
+18,19,LA Chargers,15.6,15.4,14.6,16.4,15.0,14.0,2022-11-23,/nfl/stat/yards-per-point
+19,20,NY Jets,15.7,20.0,34.3,17.6,13.8,16.8,2022-11-23,/nfl/stat/yards-per-point
+20,21,New Orleans,15.7,15.0,12.0,14.9,16.6,14.2,2022-11-23,/nfl/stat/yards-per-point
+21,22,Cleveland,15.7,15.7,17.2,14.9,16.9,16.6,2022-11-23,/nfl/stat/yards-per-point
+22,23,NY Giants,16.3,18.3,22.9,16.1,16.6,18.9,2022-11-23,/nfl/stat/yards-per-point
+23,24,Washington,16.8,13.0,15.0,17.7,16.1,16.4,2022-11-23,/nfl/stat/yards-per-point
+24,25,Jacksonville,16.8,16.8,18.5,21.7,14.2,20.5,2022-11-23,/nfl/stat/yards-per-point
+25,26,LA Rams,17.1,16.0,16.8,16.4,18.4,13.8,2022-11-23,/nfl/stat/yards-per-point
+26,27,Houston,18.2,20.5,19.0,16.0,20.5,16.9,2022-11-23,/nfl/stat/yards-per-point
+27,28,Pittsburgh,18.4,16.4,11.7,14.8,24.0,15.4,2022-11-23,/nfl/stat/yards-per-point
+28,29,Tampa Bay,18.6,18.5,20.0,17.2,20.4,13.4,2022-11-23,/nfl/stat/yards-per-point
+29,30,Green Bay,18.8,18.9,15.9,16.3,21.9,14.1,2022-11-23,/nfl/stat/yards-per-point
+30,31,Indianapolis,20.4,18.6,17.8,16.2,26.7,13.1,2022-11-23,/nfl/stat/yards-per-point
+31,32,Denver,22.2,20.5,20.0,26.7,19.0,16.8,2022-11-23,/nfl/stat/yards-per-point

@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Derrick Henry,Tennessee Titans,RB,870,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-1,2,Nick Chubb,Cleveland Browns,RB,841,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-2,3,Saquon Barkley,New York Giants,RB,779,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-3,4,Josh Jacobs,Las Vegas Raiders,RB,743,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-4,5,Travis Etienne Jr.,Jacksonville Jaguars,RB,680,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-5,6,Dameon Pierce,Houston Texans,RB,678,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-6,7,Miles Sanders,Philadelphia Eagles,RB,656,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-7,8,Rhamondre Stevenson,New England Patriots,RB,618,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-8,9,Dalvin Cook,Minnesota Vikings,RB,608,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-9,10,Justin Fields,Chicago Bears,QB,602,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-10,11,Aaron Jones,Green Bay Packers,RB,600,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-11,12,Khalil Herbert,Chicago Bears,RB,586,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-12,13,Joe Mixon,Cincinnati Bengals,HB,585,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-13,14,Kenneth Walker III,Seattle Seahawks,RB,570,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-14,15,Lamar Jackson,Baltimore Ravens,QB,553,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-15,16,Jamaal Williams,Detroit Lions,RB,545,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-16,17,Christian McCaffrey,San Francisco 49ers,RB,525,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-17,18,Jeff Wilson Jr.,Miami Dolphins,RB,519,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-18,19,Tony Pollard,Dallas Cowboys,RB,506,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-19,20,Raheem Mostert,Miami Dolphins,RB,478,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-20,21,Breece Hall,New York Jets,RB,463,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-21,22,Jonathan Taylor,Indianapolis Colts,RB,462,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-22,23,Ezekiel Elliott,Dallas Cowboys,RB,443,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-23,24,Austin Ekeler,Los Angeles Chargers,RB,427,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-24,25,Tyler Allgeier,Atlanta Falcons,RB,423,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-25,26,Alvin Kamara,New Orleans Saints,RB,413,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-26,27,Leonard Fournette,Tampa Bay Buccaneers,RB,405,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-27,27,James Robinson,New York Jets,RB,405,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-28,29,David Montgomery,Chicago Bears,RB,397,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-29,30,Josh Allen,Buffalo Bills,QB,392,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-30,31,AJ Dillon,Green Bay Packers,RB,389,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-31,32,Cordarrelle Patterson,Atlanta Falcons,RB,384,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-32,33,Daniel Jones,New York Giants,QB,363,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-33,34,Najee Harris,Pittsburgh Steelers,RB,361,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-34,35,Kyler Murray,Arizona Cardinals,QB,359,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-35,36,Devin Singletary,Buffalo Bills,RB,347,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-36,37,Rashaad Penny,Seattle Seahawks,RB,346,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-37,38,Taysom Hill,New Orleans Saints,TE,337,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-38,39,Michael Carter,New York Jets,RB,330,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-39,40,Antonio Gibson,Washington Commanders,RB,328,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-40,41,Jalen Hurts,Philadelphia Eagles,QB,326,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-41,42,Kareem Hunt,Cleveland Browns,RB,305,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-42,43,Marcus Mariota,Atlanta Falcons,QB,304,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-43,44,Damien Harris,New England Patriots,RB,302,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-44,45,Caleb Huntley,Atlanta Falcons,RB,299,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-45,45,Eno Benjamin,Arizona Cardinals,RB,299,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-46,47,D'Onta Foreman,Carolina Panthers,RB,296,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-47,48,Clyde Edwards-Helaire,Kansas City Chiefs,RB,293,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-48,49,Melvin Gordon III,Denver Broncos,RB,263,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-49,50,Darrell Henderson Jr.,Los Angeles Rams,RB,253,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-50,51,Kenyan Drake,Baltimore Ravens,RB,251,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-51,52,D'Andre Swift,Detroit Lions,RB,247,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-52,53,James Conner,Arizona Cardinals,RB,245,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-53,54,Brian Robinson,Washington Commanders,RB,219,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-54,55,Javonte Williams,Denver Broncos,RB,204,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-55,56,Isiah Pacheco,Kansas City Chiefs,RB,197,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-56,57,Geno Smith,Seattle Seahawks,QB,196,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-57,57,Mark Ingram II,New Orleans Saints,RB,196,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-58,59,Latavius Murray,Denver Broncos,RB,193,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-59,60,Justice Hill,Baltimore Ravens,RB,179,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-60,61,Patrick Mahomes,Kansas City Chiefs,QB,176,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-61,62,Cam Akers,Los Angeles Rams,RB,154,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-62,63,Jaylen Warren,Pittsburgh Steelers,RB,153,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-63,64,Trevor Lawrence,Jacksonville Jaguars,QB,152,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-64,65,James Cook,Buffalo Bills,RB,147,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-65,66,Jacoby Brissett,Cleveland Browns,QB,142,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-66,67,Joe Burrow,Cincinnati Bengals,QB,141,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-67,68,Deebo Samuel,San Francisco 49ers,WR,138,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-68,68,Alexander Mattison,Minnesota Vikings,RB,138,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-69,70,Samaje Perine,Cincinnati Bengals,HB,133,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-70,71,Gus Edwards,Baltimore Ravens,RB,131,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-71,72,Deon Jackson,Indianapolis Colts,RB,123,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-72,72,Jerick McKinnon,Kansas City Chiefs,RB,123,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-73,72,J.K. Dobbins,Baltimore Ravens,RB,123,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-74,75,Curtis Samuel,Washington Commanders,WR,122,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-75,75,Kenneth Gainwell,Philadelphia Eagles,RB,122,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-76,77,Dontrell Hilliard,Tennessee Titans,RB,121,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-77,78,Chase Edmonds,Denver Broncos,RB,120,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-78,79,Rachaad White,Tampa Bay Buccaneers,RB,117,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-79,80,Russell Wilson,Denver Broncos,QB,113,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-80,81,Joshua Kelley,Los Angeles Chargers,RB,104,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-81,82,Sony Michel,Los Angeles Chargers,RB,103,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-82,83,Darrel Williams,Arizona Cardinals,RB,102,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-83,83,Craig Reynolds,Detroit Lions,RB,102,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-84,85,Kenny Pickett,Pittsburgh Steelers,QB,98,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-85,86,Chuba Hubbard,Carolina Panthers,RB,97,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-86,87,J.D. McKissic,Washington Commanders,RB,95,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-87,88,Zack Moss,Indianapolis Colts,RB,91,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-88,89,JaMycal Hasty,Jacksonville Jaguars,RB,88,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-89,90,Braxton Berrios,New York Jets,WR,82,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-90,90,Mike Boone,Denver Broncos,RB,82,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-91,92,Rex Burkhead,Houston Texans,RB,81,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-92,93,Carson Wentz,Washington Commanders,QB,79,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-93,94,Mac Jones,New England Patriots,QB,78,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-94,95,Matt Breida,New York Giants,RB,73,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-95,96,Boston Scott,Philadelphia Eagles,RB,71,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-96,97,Amon-Ra St. Brown,Detroit Lions,WR,68,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-97,97,Malik Willis,Tennessee Titans,QB,68,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-98,97,Zach Wilson,New York Jets,QB,68,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
-99,100,Trey Lance,San Francisco 49ers,QB,67,2022-11-07 11:23:29.166928,/nfl/player-stat/rushing-net-yards
+0,1,Derrick Henry,Tennessee Titans,RB,870,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+1,2,Nick Chubb,Cleveland Browns,RB,841,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+2,3,Saquon Barkley,New York Giants,RB,779,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+3,4,Josh Jacobs,Las Vegas Raiders,RB,743,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+4,5,Travis Etienne Jr.,Jacksonville Jaguars,RB,680,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+5,6,Dameon Pierce,Houston Texans,RB,678,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+6,7,Miles Sanders,Philadelphia Eagles,RB,656,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+7,8,Lamar Jackson,Baltimore Ravens,QB,635,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+8,9,Rhamondre Stevenson,New England Patriots,RB,618,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+9,10,Dalvin Cook,Minnesota Vikings,RB,608,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+10,11,Justin Fields,Chicago Bears,QB,602,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+11,12,Aaron Jones,Green Bay Packers,RB,600,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+12,13,Khalil Herbert,Chicago Bears,RB,586,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+13,14,Joe Mixon,Cincinnati Bengals,HB,585,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+14,15,Kenneth Walker III,Seattle Seahawks,RB,570,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+15,16,Jamaal Williams,Detroit Lions,RB,545,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+16,17,Christian McCaffrey,San Francisco 49ers,RB,525,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+17,18,Jeff Wilson Jr.,Miami Dolphins,RB,519,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+18,19,Tony Pollard,Dallas Cowboys,RB,506,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+19,20,Raheem Mostert,Miami Dolphins,RB,478,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+20,21,Breece Hall,New York Jets,RB,463,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+21,22,Jonathan Taylor,Indianapolis Colts,RB,462,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+22,23,Ezekiel Elliott,Dallas Cowboys,RB,443,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+23,23,Alvin Kamara,New Orleans Saints,RB,443,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+24,25,Austin Ekeler,Los Angeles Chargers,RB,427,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+25,26,Tyler Allgeier,Atlanta Falcons,RB,423,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+26,27,James Robinson,New York Jets,RB,405,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+27,27,Leonard Fournette,Tampa Bay Buccaneers,RB,405,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+28,29,David Montgomery,Chicago Bears,RB,397,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+29,30,Josh Allen,Buffalo Bills,QB,392,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+30,31,AJ Dillon,Green Bay Packers,RB,389,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+31,32,Cordarrelle Patterson,Atlanta Falcons,RB,384,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+32,33,Daniel Jones,New York Giants,QB,363,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+33,34,Najee Harris,Pittsburgh Steelers,RB,361,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+34,35,Kyler Murray,Arizona Cardinals,QB,359,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+35,36,Devin Singletary,Buffalo Bills,RB,347,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+36,37,Rashaad Penny,Seattle Seahawks,RB,346,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+37,38,Kenyan Drake,Baltimore Ravens,RB,344,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+38,39,Taysom Hill,New Orleans Saints,TE,343,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+39,40,Michael Carter,New York Jets,RB,330,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+40,41,Antonio Gibson,Washington Commanders,RB,328,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+41,42,Jalen Hurts,Philadelphia Eagles,QB,326,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+42,43,Kareem Hunt,Cleveland Browns,RB,305,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+43,44,Marcus Mariota,Atlanta Falcons,QB,304,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+44,45,Damien Harris,New England Patriots,RB,302,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+45,46,Caleb Huntley,Atlanta Falcons,RB,299,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+46,46,Eno Benjamin,Arizona Cardinals,RB,299,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+47,48,D'Onta Foreman,Carolina Panthers,RB,296,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+48,49,Clyde Edwards-Helaire,Kansas City Chiefs,RB,293,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+49,50,Melvin Gordon III,Denver Broncos,RB,263,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+50,51,Darrell Henderson Jr.,Los Angeles Rams,RB,253,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+51,52,D'Andre Swift,Detroit Lions,RB,247,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+52,53,James Conner,Arizona Cardinals,RB,245,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+53,54,Brian Robinson,Washington Commanders,RB,219,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+54,55,Javonte Williams,Denver Broncos,RB,204,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+55,56,Isiah Pacheco,Kansas City Chiefs,RB,197,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+56,57,Geno Smith,Seattle Seahawks,QB,196,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+57,57,Mark Ingram II,New Orleans Saints,RB,196,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+58,59,Latavius Murray,Denver Broncos,RB,193,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+59,60,Justice Hill,Baltimore Ravens,RB,190,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+60,61,Patrick Mahomes,Kansas City Chiefs,QB,176,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+61,62,Cam Akers,Los Angeles Rams,RB,154,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+62,63,Jaylen Warren,Pittsburgh Steelers,RB,153,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+63,64,Trevor Lawrence,Jacksonville Jaguars,QB,152,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+64,65,James Cook,Buffalo Bills,RB,147,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+65,66,Jacoby Brissett,Cleveland Browns,QB,142,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+66,67,Joe Burrow,Cincinnati Bengals,QB,141,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+67,68,Deebo Samuel,San Francisco 49ers,WR,138,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+68,68,Alexander Mattison,Minnesota Vikings,RB,138,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+69,70,Samaje Perine,Cincinnati Bengals,HB,133,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+70,71,Gus Edwards,Baltimore Ravens,RB,131,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+71,72,J.K. Dobbins,Baltimore Ravens,RB,123,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+72,72,Deon Jackson,Indianapolis Colts,RB,123,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+73,72,Jerick McKinnon,Kansas City Chiefs,RB,123,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+74,75,Kenneth Gainwell,Philadelphia Eagles,RB,122,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+75,75,Curtis Samuel,Washington Commanders,WR,122,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+76,77,Dontrell Hilliard,Tennessee Titans,RB,121,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+77,78,Chase Edmonds,Denver Broncos,RB,120,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+78,79,Rachaad White,Tampa Bay Buccaneers,RB,117,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+79,80,Russell Wilson,Denver Broncos,QB,113,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+80,81,Joshua Kelley,Los Angeles Chargers,RB,104,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+81,82,Sony Michel,Los Angeles Chargers,RB,103,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+82,83,Craig Reynolds,Detroit Lions,RB,102,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+83,83,Darrel Williams,Arizona Cardinals,RB,102,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+84,85,Kenny Pickett,Pittsburgh Steelers,QB,98,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+85,86,Chuba Hubbard,Carolina Panthers,RB,97,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+86,87,J.D. McKissic,Washington Commanders,RB,95,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+87,88,Zack Moss,Indianapolis Colts,RB,91,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+88,89,JaMycal Hasty,Jacksonville Jaguars,RB,88,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+89,90,Braxton Berrios,New York Jets,WR,82,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+90,90,Mike Boone,Denver Broncos,RB,82,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+91,92,Rex Burkhead,Houston Texans,RB,81,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+92,93,Carson Wentz,Washington Commanders,QB,79,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+93,94,Mac Jones,New England Patriots,QB,78,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+94,95,Matt Breida,New York Giants,RB,73,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+95,96,Boston Scott,Philadelphia Eagles,RB,71,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+96,97,Malik Willis,Tennessee Titans,QB,68,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+97,97,Zach Wilson,New York Jets,QB,68,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+98,97,Amon-Ra St. Brown,Detroit Lions,WR,68,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards
+99,100,Trey Lance,San Francisco 49ers,QB,67,2022-11-08 07:23:23.802977,/nfl/player-stat/rushing-net-yards

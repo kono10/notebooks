@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Miami,12.2,12.7,11.4,12.0,12.5,9.0,2022-11-23,/nfl/stat/yards-per-completion
+1,2,Kansas City,11.9,12.2,16.5,10.6,13.5,10.7,2022-11-23,/nfl/stat/yards-per-completion
+2,3,San Francisco,11.8,11.7,11.4,12.6,11.3,12.3,2022-11-23,/nfl/stat/yards-per-completion
+3,4,Buffalo,11.8,10.5,10.3,14.1,10.4,10.6,2022-11-23,/nfl/stat/yards-per-completion
+4,5,Philadelphia,11.5,10.0,9.6,11.8,11.2,11.1,2022-11-23,/nfl/stat/yards-per-completion
+5,6,Detroit,11.1,10.6,9.7,11.6,10.7,9.1,2022-11-23,/nfl/stat/yards-per-completion
+6,7,Tennessee,11.0,12.9,13.3,12.4,9.8,9.7,2022-11-23,/nfl/stat/yards-per-completion
+7,8,Denver,11.0,11.2,9.4,10.3,11.8,10.1,2022-11-23,/nfl/stat/yards-per-completion
+8,9,Atlanta,10.9,9.0,10.1,11.2,10.5,9.8,2022-11-23,/nfl/stat/yards-per-completion
+9,10,New Orleans,10.7,9.9,10.7,9.9,11.7,10.9,2022-11-23,/nfl/stat/yards-per-completion
+10,11,Cleveland,10.7,11.5,11.3,11.6,9.8,10.4,2022-11-23,/nfl/stat/yards-per-completion
+11,12,Dallas,10.6,11.0,11.8,11.1,10.2,10.7,2022-11-23,/nfl/stat/yards-per-completion
+12,13,Carolina,10.4,9.0,8.0,10.4,10.5,9.3,2022-11-23,/nfl/stat/yards-per-completion
+13,14,Las Vegas,10.4,11.4,13.0,9.7,10.9,10.6,2022-11-23,/nfl/stat/yards-per-completion
+14,15,Cincinnati,10.4,10.3,14.4,11.4,9.6,11.2,2022-11-23,/nfl/stat/yards-per-completion
+15,16,Chicago,10.3,9.2,9.1,10.3,10.3,9.7,2022-11-23,/nfl/stat/yards-per-completion
+16,17,Baltimore,10.2,8.7,8.0,9.8,10.6,10.0,2022-11-23,/nfl/stat/yards-per-completion
+17,18,NY Jets,10.2,11.0,4.9,10.3,10.0,9.9,2022-11-23,/nfl/stat/yards-per-completion
+18,19,New England,9.9,7.3,8.6,10.2,9.6,10.5,2022-11-23,/nfl/stat/yards-per-completion
+19,20,Seattle,9.9,9.7,10.6,8.5,10.9,10.6,2022-11-23,/nfl/stat/yards-per-completion
+20,21,Washington,9.9,10.5,12.7,10.0,9.7,9.7,2022-11-23,/nfl/stat/yards-per-completion
+21,22,Green Bay,9.8,11.6,9.0,10.3,9.4,10.7,2022-11-23,/nfl/stat/yards-per-completion
+22,23,Jacksonville,9.8,8.2,8.3,11.0,8.9,9.5,2022-11-23,/nfl/stat/yards-per-completion
+23,24,Houston,9.7,10.9,8.9,8.8,10.5,9.3,2022-11-23,/nfl/stat/yards-per-completion
+24,25,NY Giants,9.6,11.4,12.0,9.6,9.7,9.1,2022-11-23,/nfl/stat/yards-per-completion
+25,26,LA Chargers,9.6,9.6,12.2,9.3,9.9,10.8,2022-11-23,/nfl/stat/yards-per-completion
+26,27,Tampa Bay,9.6,9.9,11.7,9.3,10.0,10.5,2022-11-23,/nfl/stat/yards-per-completion
+27,28,Minnesota,9.5,9.8,6.5,9.5,9.5,10.6,2022-11-23,/nfl/stat/yards-per-completion
+28,29,LA Rams,8.9,9.6,11.8,8.6,9.7,11.5,2022-11-23,/nfl/stat/yards-per-completion
+29,30,Indianapolis,8.8,7.4,8.0,9.3,8.3,10.4,2022-11-23,/nfl/stat/yards-per-completion
+30,31,Pittsburgh,8.7,8.1,10.0,9.2,8.3,8.8,2022-11-23,/nfl/stat/yards-per-completion
+31,32,Arizona,8.2,7.5,8.2,7.8,8.6,10.1,2022-11-23,/nfl/stat/yards-per-completion

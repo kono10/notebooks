@@ -1,6 +1,6 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
-0,1,Seattle,8.8,9.7,7.0,9.5,8.2,5.6,2022-11-09,/nfl/stat/kicking-points-per-game
-1,2,Baltimore,8.8,9.3,9.0,10.0,7.5,8.1,2022-11-09,/nfl/stat/kicking-points-per-game
+0,1,Baltimore,8.8,9.7,9.0,10.0,7.8,8.1,2022-11-09,/nfl/stat/kicking-points-per-game
+1,1,Seattle,8.8,9.7,7.0,9.5,8.2,5.6,2022-11-09,/nfl/stat/kicking-points-per-game
 2,3,Las Vegas,8.6,5.3,8.0,11.0,7.2,9.1,2022-11-09,/nfl/stat/kicking-points-per-game
 3,4,New England,8.6,10.7,14.0,10.3,7.2,8.6,2022-11-09,/nfl/stat/kicking-points-per-game
 4,5,Tampa Bay,8.4,7.7,10.0,8.0,9.0,7.7,2022-11-09,/nfl/stat/kicking-points-per-game
@@ -13,8 +13,8 @@
 11,12,Atlanta,7.4,7.7,5.0,9.4,5.0,6.5,2022-11-09,/nfl/stat/kicking-points-per-game
 12,13,Chicago,7.2,8.7,6.0,4.8,9.2,6.2,2022-11-09,/nfl/stat/kicking-points-per-game
 13,14,Kansas City,7.1,6.7,6.0,7.3,7.0,7.9,2022-11-09,/nfl/stat/kicking-points-per-game
-14,15,New Orleans,6.9,10.0,6.0,7.8,6.0,6.2,2022-11-09,/nfl/stat/kicking-points-per-game
-15,15,Houston,6.9,5.7,5.0,5.8,8.0,5.2,2022-11-09,/nfl/stat/kicking-points-per-game
+14,15,New Orleans,6.9,7.7,7.0,7.6,6.0,6.2,2022-11-09,/nfl/stat/kicking-points-per-game
+15,16,Houston,6.9,5.7,5.0,5.8,8.0,5.2,2022-11-09,/nfl/stat/kicking-points-per-game
 16,17,Denver,6.6,5.3,3.0,6.3,7.0,6.5,2022-11-09,/nfl/stat/kicking-points-per-game
 17,18,Pittsburgh,6.5,6.3,7.0,7.3,6.0,7.7,2022-11-09,/nfl/stat/kicking-points-per-game
 18,19,Indianapolis,6.4,5.7,3.0,7.8,5.4,7.8,2022-11-09,/nfl/stat/kicking-points-per-game

@@ -1,19 +1,19 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
 0,1,Cleveland,45.80%,51.33%,38.75%,46.64%,44.39%,48.66%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
 1,2,Philadelphia,46.29%,50.88%,52.97%,43.22%,49.36%,50.40%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-2,3,Cincinnati,46.53%,46.84%,34.42%,41.05%,50.92%,48.83%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-3,4,NY Giants,46.83%,44.67%,44.06%,47.33%,46.33%,52.65%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-4,5,Washington,47.28%,45.24%,48.69%,46.31%,48.49%,48.78%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-5,6,Baltimore,47.49%,44.12%,36.03%,46.90%,48.08%,46.33%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-6,7,New Orleans,48.36%,46.60%,41.92%,43.76%,52.95%,48.96%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-7,8,Kansas City,48.41%,49.82%,40.78%,49.35%,47.48%,48.58%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-8,9,New England,48.48%,50.31%,48.17%,52.19%,45.52%,49.32%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-9,10,Green Bay,48.52%,49.23%,42.17%,46.25%,49.66%,45.63%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-10,11,LA Rams,48.71%,46.73%,52.11%,47.73%,50.35%,50.05%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-11,12,Jacksonville,48.96%,48.71%,45.97%,48.03%,49.70%,54.40%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-12,13,San Francisco,49.31%,49.85%,50.11%,45.82%,51.40%,49.51%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-13,14,Chicago,49.46%,39.96%,42.06%,47.97%,50.66%,49.45%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
-14,15,Arizona,49.49%,51.67%,57.53%,52.99%,45.11%,48.56%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+2,3,Baltimore,46.33%,38.76%,37.03%,46.90%,45.87%,46.33%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+3,4,Cincinnati,46.53%,46.84%,34.42%,41.05%,50.92%,48.83%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+4,5,NY Giants,46.83%,44.67%,44.06%,47.33%,46.33%,52.65%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+5,6,Washington,47.28%,45.24%,48.69%,46.31%,48.49%,48.78%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+6,7,Kansas City,48.41%,49.82%,40.78%,49.35%,47.48%,48.58%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+7,8,New England,48.48%,50.31%,48.17%,52.19%,45.52%,49.32%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+8,9,Green Bay,48.52%,49.23%,42.17%,46.25%,49.66%,45.63%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+9,10,LA Rams,48.71%,46.73%,52.11%,47.73%,50.35%,50.05%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+10,11,Jacksonville,48.96%,48.71%,45.97%,48.03%,49.70%,54.40%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+11,12,San Francisco,49.31%,49.85%,50.11%,45.82%,51.40%,49.51%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+12,13,Chicago,49.46%,39.96%,42.06%,47.97%,50.66%,49.45%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+13,14,Arizona,49.49%,51.67%,57.53%,52.99%,45.11%,48.56%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
+14,15,New Orleans,49.98%,52.17%,62.97%,47.61%,52.95%,48.96%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
 15,16,Denver,50.20%,53.52%,56.78%,46.26%,54.14%,48.66%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
 16,17,Atlanta,50.21%,50.53%,46.97%,48.82%,51.95%,53.06%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot
 17,18,Tennessee,50.35%,49.55%,59.22%,48.94%,51.19%,46.14%,2022-11-09,/nfl/stat/opponent-time-of-possession-pct-net-of-ot

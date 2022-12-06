@@ -7,3 +7,8 @@ tqdm
 beautifulsoup4
 lxml
 html5lib
+tweepy
+aquirdturtle_collapsible_headings
+matplotlib
+scikit-learn
+mlbgame

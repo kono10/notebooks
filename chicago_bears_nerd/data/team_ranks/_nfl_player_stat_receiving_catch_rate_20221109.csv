@@ -1,101 +1,101 @@
 ,Rank,Player,Team,Pos,Value,asof,url
-0,1,Deon Jackson,Indianapolis Colts,RB,94.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-1,2,Will Dissly,Seattle Seahawks,TE,92.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-2,3,Daniel Bellinger,New York Giants,TE,88.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-3,4,Olamide Zaccheaus,Atlanta Falcons,WR,88.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-4,5,Greg Dortch,Arizona Cardinals,WR,86.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-5,5,Nyheim Hines,Buffalo Bills,RB,86.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-6,5,Josh Jacobs,Las Vegas Raiders,RB,86.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-7,8,Austin Ekeler,Los Angeles Chargers,RB,85.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-8,8,Leonard Fournette,Tampa Bay Buccaneers,RB,85.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-9,8,Najee Harris,Pittsburgh Steelers,RB,85.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-10,11,Dameon Pierce,Houston Texans,RB,83.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-11,12,Robert Tonyan,Green Bay Packers,TE,82.6%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-12,12,Kareem Hunt,Cleveland Browns,RB,82.6%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-13,14,Samaje Perine,Cincinnati Bengals,HB,81.8%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-14,15,Antonio Gibson,Washington Commanders,RB,81.6%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-15,16,Rhamondre Stevenson,New England Patriots,RB,81.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-16,17,DeAndre Hopkins,Arizona Cardinals,WR,81.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-17,18,Clyde Edwards-Helaire,Kansas City Chiefs,RB,81.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-18,18,David Njoku,Cleveland Browns,TE,81.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-19,20,Saquon Barkley,New York Giants,RB,80.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-20,20,Dallas Goedert,Philadelphia Eagles,TE,80.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-21,20,Aaron Jones,Green Bay Packers,RB,80.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-22,20,Rachaad White,Tampa Bay Buccaneers,RB,80.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-23,24,Christian McCaffrey,San Francisco 49ers,RB,79.6%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-24,25,Noah Fant,Seattle Seahawks,TE,79.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-25,26,James Conner,Arizona Cardinals,RB,79.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-26,26,Hayden Hurst,Cincinnati Bengals,TE,79.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-27,28,Michael Carter,New York Jets,RB,78.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-28,29,Derrick Henry,Tennessee Titans,RB,77.8%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-29,29,Dontrell Hilliard,Tennessee Titans,RB,77.8%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-30,31,Cooper Kupp,Los Angeles Rams,WR,77.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-31,32,Tyler Lockett,Seattle Seahawks,WR,77.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-32,33,Devin Singletary,Buffalo Bills,RB,77.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-33,34,Jakobi Meyers,New England Patriots,WR,76.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-34,34,Richie James,New York Giants,WR,76.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-35,36,Melvin Gordon III,Denver Broncos,RB,76.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-36,36,D'Andre Swift,Detroit Lions,RB,76.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-37,36,Darrell Henderson Jr.,Los Angeles Rams,RB,76.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-38,39,Tyreek Hill,Miami Dolphins,WR,76.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-39,39,Jerick McKinnon,Kansas City Chiefs,RB,76.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-40,39,Joe Mixon,Cincinnati Bengals,HB,76.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-41,42,Rex Burkhead,Houston Texans,RB,75.8%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-42,43,Tyler Boyd,Cincinnati Bengals,WR,75.5%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-43,44,DeVonta Smith,Philadelphia Eagles,WR,75.5%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-44,45,Ben Skowronek,Los Angeles Rams,WR,75.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-45,45,Devin Duvernay,Baltimore Ravens,WR,75.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-46,47,Rondale Moore,Arizona Cardinals,WR,74.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-47,48,Dawson Knox,Buffalo Bills,TE,74.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-48,48,Kylen Granson,Indianapolis Colts,TE,74.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-49,50,Travis Kelce,Kansas City Chiefs,TE,74.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-50,51,Mecole Hardman,Kansas City Chiefs,WR,73.5%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-51,52,JuJu Smith-Schuster,Kansas City Chiefs,WR,73.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-52,52,Alvin Kamara,New Orleans Saints,RB,73.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-53,54,Cole Kmet,Chicago Bears,TE,73.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-54,55,Michael Thomas,New Orleans Saints,WR,72.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-55,55,Eno Benjamin,Arizona Cardinals,RB,72.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-56,55,Javonte Williams,Denver Broncos,RB,72.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-57,58,Russell Gage,Tampa Bay Buccaneers,WR,72.5%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-58,59,Hunter Renfrow,Las Vegas Raiders,WR,72.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-59,60,Stefon Diggs,Buffalo Bills,WR,72.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-60,61,Trent Sherfield,Miami Dolphins,WR,72.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-61,62,Cade Otton,Tampa Bay Buccaneers,TE,71.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-62,63,George Kittle,San Francisco 49ers,TE,71.8%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-63,64,Nelson Agholor,New England Patriots,WR,71.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-64,64,Jarvis Landry,New Orleans Saints,WR,71.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-65,64,Kalif Raymond,Detroit Lions,WR,71.4%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-66,67,Parris Campbell,Indianapolis Colts,WR,71.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-67,68,Michael Pittman Jr.,Indianapolis Colts,WR,71.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-68,69,Zay Jones,Jacksonville Jaguars,WR,70.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-69,70,Tee Higgins,Cincinnati Bengals,WR,70.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-70,71,DeAndre Carter,Los Angeles Chargers,WR,70.6%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-71,72,Justin Jefferson,Minnesota Vikings,WR,70.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-72,73,Evan Engram,Jacksonville Jaguars,TE,70.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-73,74,Randall Cobb,Green Bay Packers,WR,69.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-74,75,Brandon Aiyuk,San Francisco 49ers,WR,69.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-75,76,Dalton Schultz,Dallas Cowboys,TE,69.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-76,77,Mike Gesicki,Miami Dolphins,TE,68.8%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-77,78,Curtis Samuel,Washington Commanders,WR,68.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-78,79,Joshua Palmer,Los Angeles Chargers,WR,68.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-79,80,Dalvin Cook,Minnesota Vikings,RB,67.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-80,80,Hunter Henry,New England Patriots,TE,67.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-81,80,Travis Etienne Jr.,Jacksonville Jaguars,RB,67.9%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-82,83,Zach Ertz,Arizona Cardinals,TE,67.6%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-83,84,J.D. McKissic,Washington Commanders,RB,67.5%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-84,85,T.J. Hockenson,Minnesota Vikings,TE,67.3%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-85,86,Marquise Brown,Arizona Cardinals,WR,67.2%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-86,87,Jaylen Waddle,Miami Dolphins,WR,67.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-87,88,Darius Slayton,New York Giants,WR,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-88,88,Tre'quan Smith,New Orleans Saints,WR,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-89,88,Adam Thielen,Minnesota Vikings,WR,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-90,88,Pat Freiermuth,Pittsburgh Steelers,TE,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-91,88,Harrison Bryant,Cleveland Browns,TE,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-92,88,Irv Smith Jr.,Minnesota Vikings,TE,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-93,88,Darren Waller,Las Vegas Raiders,TE,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-94,88,Jonnu Smith,New England Patriots,TE,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-95,88,Isaiah McKenzie,Buffalo Bills,WR,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-96,88,Chris Moore,Houston Texans,WR,66.7%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-97,98,Amon-Ra St. Brown,Detroit Lions,WR,66.1%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-98,99,Tyler Conklin,New York Jets,TE,66.0%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
-99,100,Mark Andrews,Baltimore Ravens,TE,65.6%,2022-11-07 11:23:39.342262,/nfl/player-stat/receiving-catch-rate
+0,1,Deon Jackson,Indianapolis Colts,RB,94.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+1,2,Will Dissly,Seattle Seahawks,TE,92.3%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+2,3,Daniel Bellinger,New York Giants,TE,88.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+3,4,Olamide Zaccheaus,Atlanta Falcons,WR,88.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+4,5,Greg Dortch,Arizona Cardinals,WR,86.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+5,5,Nyheim Hines,Buffalo Bills,RB,86.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+6,5,Josh Jacobs,Las Vegas Raiders,RB,86.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+7,8,Leonard Fournette,Tampa Bay Buccaneers,RB,85.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+8,8,Najee Harris,Pittsburgh Steelers,RB,85.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+9,8,Austin Ekeler,Los Angeles Chargers,RB,85.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+10,11,Dameon Pierce,Houston Texans,RB,83.3%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+11,12,Robert Tonyan,Green Bay Packers,TE,82.6%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+12,12,Kareem Hunt,Cleveland Browns,RB,82.6%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+13,14,Samaje Perine,Cincinnati Bengals,HB,81.8%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+14,15,Antonio Gibson,Washington Commanders,RB,81.6%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+15,16,Rhamondre Stevenson,New England Patriots,RB,81.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+16,17,DeAndre Hopkins,Arizona Cardinals,WR,81.3%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+17,18,Clyde Edwards-Helaire,Kansas City Chiefs,RB,81.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+18,18,David Njoku,Cleveland Browns,TE,81.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+19,20,Saquon Barkley,New York Giants,RB,80.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+20,20,Aaron Jones,Green Bay Packers,RB,80.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+21,20,Dallas Goedert,Philadelphia Eagles,TE,80.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+22,20,Rachaad White,Tampa Bay Buccaneers,RB,80.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+23,24,Christian McCaffrey,San Francisco 49ers,RB,79.6%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+24,25,Noah Fant,Seattle Seahawks,TE,79.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+25,26,James Conner,Arizona Cardinals,RB,79.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+26,26,Hayden Hurst,Cincinnati Bengals,TE,79.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+27,28,Michael Carter,New York Jets,RB,78.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+28,29,Derrick Henry,Tennessee Titans,RB,77.8%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+29,29,Dontrell Hilliard,Tennessee Titans,RB,77.8%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+30,31,Cooper Kupp,Los Angeles Rams,WR,77.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+31,32,Tyler Lockett,Seattle Seahawks,WR,77.3%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+32,33,Devin Singletary,Buffalo Bills,RB,77.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+33,34,Jakobi Meyers,New England Patriots,WR,76.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+34,34,Richie James,New York Giants,WR,76.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+35,36,Melvin Gordon III,Denver Broncos,RB,76.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+36,36,D'Andre Swift,Detroit Lions,RB,76.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+37,36,Darrell Henderson Jr.,Los Angeles Rams,RB,76.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+38,39,Tyreek Hill,Miami Dolphins,WR,76.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+39,39,Jerick McKinnon,Kansas City Chiefs,RB,76.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+40,39,Joe Mixon,Cincinnati Bengals,HB,76.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+41,42,Rex Burkhead,Houston Texans,RB,75.8%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+42,42,Devin Duvernay,Baltimore Ravens,WR,75.8%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+43,44,Tyler Boyd,Cincinnati Bengals,WR,75.5%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+44,45,DeVonta Smith,Philadelphia Eagles,WR,75.5%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+45,46,Ben Skowronek,Los Angeles Rams,WR,75.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+46,47,Rondale Moore,Arizona Cardinals,WR,74.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+47,48,Dawson Knox,Buffalo Bills,TE,74.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+48,48,Kylen Granson,Indianapolis Colts,TE,74.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+49,50,Travis Kelce,Kansas City Chiefs,TE,74.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+50,51,Mecole Hardman,Kansas City Chiefs,WR,73.5%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+51,52,Alvin Kamara,New Orleans Saints,RB,73.5%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+52,53,JuJu Smith-Schuster,Kansas City Chiefs,WR,73.3%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+53,54,Cole Kmet,Chicago Bears,TE,73.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+54,55,Eno Benjamin,Arizona Cardinals,RB,72.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+55,55,Michael Thomas,New Orleans Saints,WR,72.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+56,55,Javonte Williams,Denver Broncos,RB,72.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+57,58,Russell Gage,Tampa Bay Buccaneers,WR,72.5%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+58,59,Hunter Renfrow,Las Vegas Raiders,WR,72.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+59,60,Stefon Diggs,Buffalo Bills,WR,72.3%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+60,61,Trent Sherfield,Miami Dolphins,WR,72.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+61,62,Cade Otton,Tampa Bay Buccaneers,TE,71.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+62,63,George Kittle,San Francisco 49ers,TE,71.8%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+63,64,Nelson Agholor,New England Patriots,WR,71.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+64,64,Jarvis Landry,New Orleans Saints,WR,71.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+65,64,Kalif Raymond,Detroit Lions,WR,71.4%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+66,67,Parris Campbell,Indianapolis Colts,WR,71.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+67,68,Michael Pittman Jr.,Indianapolis Colts,WR,71.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+68,69,Zay Jones,Jacksonville Jaguars,WR,70.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+69,70,Tee Higgins,Cincinnati Bengals,WR,70.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+70,71,DeAndre Carter,Los Angeles Chargers,WR,70.6%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+71,72,Justin Jefferson,Minnesota Vikings,WR,70.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+72,73,Evan Engram,Jacksonville Jaguars,TE,70.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+73,74,Randall Cobb,Green Bay Packers,WR,69.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+74,75,Brandon Aiyuk,San Francisco 49ers,WR,69.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+75,76,Dalton Schultz,Dallas Cowboys,TE,69.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+76,77,Mike Gesicki,Miami Dolphins,TE,68.8%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+77,78,Curtis Samuel,Washington Commanders,WR,68.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+78,79,Tre'quan Smith,New Orleans Saints,WR,68.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+79,79,Joshua Palmer,Los Angeles Chargers,WR,68.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+80,81,Dalvin Cook,Minnesota Vikings,RB,67.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+81,81,Hunter Henry,New England Patriots,TE,67.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+82,81,Travis Etienne Jr.,Jacksonville Jaguars,RB,67.9%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+83,84,Zach Ertz,Arizona Cardinals,TE,67.6%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+84,85,J.D. McKissic,Washington Commanders,RB,67.5%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+85,86,T.J. Hockenson,Minnesota Vikings,TE,67.3%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+86,87,Marquise Brown,Arizona Cardinals,WR,67.2%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+87,88,Jaylen Waddle,Miami Dolphins,WR,67.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+88,89,Darius Slayton,New York Giants,WR,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+89,89,Adam Thielen,Minnesota Vikings,WR,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+90,89,Pat Freiermuth,Pittsburgh Steelers,TE,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+91,89,Harrison Bryant,Cleveland Browns,TE,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+92,89,Irv Smith Jr.,Minnesota Vikings,TE,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+93,89,Darren Waller,Las Vegas Raiders,TE,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+94,89,Jonnu Smith,New England Patriots,TE,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+95,89,Chris Moore,Houston Texans,WR,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+96,89,Isaiah McKenzie,Buffalo Bills,WR,66.7%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+97,98,Amon-Ra St. Brown,Detroit Lions,WR,66.1%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+98,99,Tyler Conklin,New York Jets,TE,66.0%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
+99,100,Mark Andrews,Baltimore Ravens,TE,65.6%,2022-11-08 07:23:34.524295,/nfl/player-stat/receiving-catch-rate
