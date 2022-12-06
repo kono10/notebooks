@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Kansas City,0.455,0.358,0.484,0.368,0.545,0.439,2022-11-23,/nfl/stat/points-per-play
+1,2,Seattle,0.437,0.407,0.32,0.35,0.5,0.414,2022-11-23,/nfl/stat/points-per-play
+2,3,Buffalo,0.432,0.4,0.5,0.555,0.358,0.449,2022-11-23,/nfl/stat/points-per-play
+3,4,Miami,0.414,0.571,0.582,0.373,0.455,0.311,2022-11-23,/nfl/stat/points-per-play
+4,5,Philadelphia,0.406,0.394,0.279,0.431,0.383,0.404,2022-11-23,/nfl/stat/points-per-play
+5,6,Atlanta,0.406,0.341,0.509,0.436,0.366,0.311,2022-11-23,/nfl/stat/points-per-play
+6,7,Cincinnati,0.404,0.492,0.569,0.42,0.391,0.425,2022-11-23,/nfl/stat/points-per-play
+7,8,Dallas,0.403,0.568,0.571,0.409,0.398,0.447,2022-11-23,/nfl/stat/points-per-play
+8,9,Baltimore,0.402,0.327,0.197,0.367,0.437,0.327,2022-11-23,/nfl/stat/points-per-play
+9,10,Detroit,0.4,0.43,0.492,0.515,0.289,0.308,2022-11-23,/nfl/stat/points-per-play
+10,11,San Francisco,0.389,0.508,0.667,0.368,0.405,0.396,2022-11-23,/nfl/stat/points-per-play
+11,12,Las Vegas,0.371,0.339,0.355,0.445,0.318,0.341,2022-11-23,/nfl/stat/points-per-play
+12,13,New Orleans,0.37,0.333,0.482,0.367,0.374,0.346,2022-11-23,/nfl/stat/points-per-play
+13,14,Chicago,0.36,0.443,0.364,0.352,0.366,0.289,2022-11-23,/nfl/stat/points-per-play
+14,15,Cleveland,0.359,0.362,0.338,0.398,0.32,0.331,2022-11-23,/nfl/stat/points-per-play
+15,16,Minnesota,0.356,0.283,0.056,0.361,0.35,0.392,2022-11-23,/nfl/stat/points-per-play
+16,17,New England,0.351,0.296,0.169,0.365,0.34,0.43,2022-11-23,/nfl/stat/points-per-play
+17,18,Tennessee,0.339,0.355,0.422,0.345,0.335,0.367,2022-11-23,/nfl/stat/points-per-play
+18,19,Carolina,0.338,0.295,0.056,0.363,0.308,0.275,2022-11-23,/nfl/stat/points-per-play
+19,20,LA Chargers,0.337,0.335,0.415,0.303,0.372,0.42,2022-11-23,/nfl/stat/points-per-play
+20,21,Jacksonville,0.337,0.314,0.279,0.271,0.386,0.246,2022-11-23,/nfl/stat/points-per-play
+21,22,NY Jets,0.321,0.238,0.061,0.297,0.349,0.299,2022-11-23,/nfl/stat/points-per-play
+22,23,Arizona,0.316,0.294,0.141,0.338,0.299,0.39,2022-11-23,/nfl/stat/points-per-play
+23,24,NY Giants,0.315,0.271,0.25,0.303,0.335,0.246,2022-11-23,/nfl/stat/points-per-play
+24,25,Green Bay,0.294,0.302,0.288,0.344,0.249,0.409,2022-11-23,/nfl/stat/points-per-play
+25,26,Washington,0.289,0.344,0.343,0.278,0.299,0.313,2022-11-23,/nfl/stat/points-per-play
+26,27,LA Rams,0.276,0.282,0.323,0.285,0.263,0.427,2022-11-23,/nfl/stat/points-per-play
+27,28,Houston,0.274,0.251,0.185,0.286,0.263,0.277,2022-11-23,/nfl/stat/points-per-play
+28,29,Tampa Bay,0.274,0.274,0.284,0.305,0.242,0.444,2022-11-23,/nfl/stat/points-per-play
+29,30,Pittsburgh,0.26,0.29,0.441,0.319,0.202,0.309,2022-11-23,/nfl/stat/points-per-play
+30,31,Indianapolis,0.242,0.243,0.258,0.32,0.178,0.429,2022-11-23,/nfl/stat/points-per-play
+31,32,Denver,0.228,0.24,0.258,0.178,0.286,0.323,2022-11-23,/nfl/stat/points-per-play

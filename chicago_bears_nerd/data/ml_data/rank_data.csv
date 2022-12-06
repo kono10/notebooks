@@ -1,4 +1,580 @@
 ,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,week,url
+0,1,Kansas City,30.0,25.7,30.0,24.8,35.2,29.4,2022-11-23,11,points-per-game
+1,2,Buffalo,28.1,26.0,31.0,34.0,24.2,29.8,2022-11-23,11,points-per-game
+2,3,Cincinnati,26.5,30.7,37.0,31.0,23.5,26.3,2022-11-23,11,points-per-game
+3,4,Philadelphia,26.3,22.3,17.0,27.0,25.6,25.5,2022-11-23,11,points-per-game
+4,5,Seattle,25.7,24.7,16.0,21.5,28.5,23.2,2022-11-23,11,points-per-game
+5,6,Miami,25.2,35.0,39.0,22.4,28.0,20.1,2022-11-23,11,points-per-game
+6,7,Dallas,25.1,39.0,40.0,24.2,26.0,30.4,2022-11-23,11,points-per-game
+7,8,Detroit,25.0,25.7,31.0,31.6,18.4,19.1,2022-11-23,11,points-per-game
+8,9,Baltimore,24.8,22.3,13.0,22.6,27.0,22.8,2022-11-23,11,points-per-game
+9,10,Cleveland,24.0,24.0,23.0,26.8,21.2,20.5,2022-11-23,11,points-per-game
+10,11,San Francisco,23.6,30.3,38.0,24.0,23.3,24.0,2022-11-23,11,points-per-game
+11,12,Atlanta,23.5,19.7,27.0,26.3,20.2,18.4,2022-11-23,11,points-per-game
+12,13,Minnesota,22.9,18.7,3.0,23.4,22.4,25.0,2022-11-23,11,points-per-game
+13,14,LA Chargers,22.7,21.0,27.0,20.6,24.8,27.9,2022-11-23,11,points-per-game
+14,15,New Orleans,22.6,16.7,27.0,23.2,22.0,21.4,2022-11-23,11,points-per-game
+15,16,Las Vegas,22.5,20.7,22.0,28.3,18.7,21.8,2022-11-23,11,points-per-game
+16,17,Chicago,21.9,28.7,24.0,22.2,21.7,18.3,2022-11-23,11,points-per-game
+17,18,Arizona,21.8,19.3,10.0,22.6,21.2,25.6,2022-11-23,11,points-per-game
+18,19,Jacksonville,21.6,20.3,17.0,18.5,23.7,14.9,2022-11-23,11,points-per-game
+19,20,New England,21.3,19.3,10.0,21.0,21.6,26.6,2022-11-23,11,points-per-game
+20,21,NY Giants,20.5,18.3,18.0,20.2,21.0,15.2,2022-11-23,11,points-per-game
+21,22,NY Jets,19.9,13.3,3.0,19.6,20.2,18.2,2022-11-23,11,points-per-game
+22,23,Washington,19.5,24.0,23.0,18.6,20.2,19.7,2022-11-23,11,points-per-game
+23,24,Tennessee,19.3,20.3,27.0,20.0,18.8,24.2,2022-11-23,11,points-per-game
+24,25,Carolina,18.8,16.3,3.0,20.5,16.8,17.9,2022-11-23,11,points-per-game
+25,26,Green Bay,18.4,19.0,17.0,22.4,15.0,25.6,2022-11-23,11,points-per-game
+26,27,Tampa Bay,18.3,19.7,21.0,20.4,16.2,29.9,2022-11-23,11,points-per-game
+27,28,Pittsburgh,17.0,21.0,30.0,20.8,13.2,20.2,2022-11-23,11,points-per-game
+28,29,LA Rams,16.8,16.7,20.0,17.7,15.5,27.0,2022-11-23,11,points-per-game
+29,30,Houston,15.9,14.3,10.0,16.2,15.6,16.5,2022-11-23,11,points-per-game
+30,31,Indianapolis,15.7,14.7,16.0,20.6,11.7,26.5,2022-11-23,11,points-per-game
+31,32,Denver,14.7,15.7,16.0,12.2,17.2,19.7,2022-11-23,11,points-per-game
+0,1,Las Vegas,0.7,0.3,0.0,0.3,1.0,1.4,2022-11-23,11,giveaways-per-game
+1,2,Dallas,0.9,1.0,0.0,0.8,1.0,1.2,2022-11-23,11,giveaways-per-game
+2,2,Tampa Bay,0.9,1.0,2.0,1.0,0.8,1.1,2022-11-23,11,giveaways-per-game
+3,2,Philadelphia,0.9,2.3,2.0,1.2,0.6,1.1,2022-11-23,11,giveaways-per-game
+4,5,Miami,1.0,0.3,0.0,0.6,1.4,1.5,2022-11-23,11,giveaways-per-game
+5,5,Arizona,1.0,1.0,2.0,0.4,1.5,0.9,2022-11-23,11,giveaways-per-game
+6,5,Denver,1.0,0.7,0.0,0.8,1.2,1.1,2022-11-23,11,giveaways-per-game
+7,5,Baltimore,1.0,0.3,1.0,1.0,1.0,1.5,2022-11-23,11,giveaways-per-game
+8,9,Tennessee,1.1,0.7,1.0,1.0,1.2,1.6,2022-11-23,11,giveaways-per-game
+9,9,NY Giants,1.1,1.7,3.0,1.2,1.0,1.8,2022-11-23,11,giveaways-per-game
+10,9,Minnesota,1.1,1.3,1.0,0.8,1.4,0.8,2022-11-23,11,giveaways-per-game
+11,12,Washington,1.2,1.0,0.0,1.4,1.0,1.4,2022-11-23,11,giveaways-per-game
+12,13,Detroit,1.2,0.3,0.0,0.8,1.6,1.4,2022-11-23,11,giveaways-per-game
+13,13,LA Chargers,1.2,1.7,2.0,1.4,1.0,1.3,2022-11-23,11,giveaways-per-game
+14,13,Cincinnati,1.2,1.3,2.0,1.3,1.2,1.1,2022-11-23,11,giveaways-per-game
+15,16,Chicago,1.3,0.7,1.0,1.2,1.3,1.7,2022-11-23,11,giveaways-per-game
+16,17,Jacksonville,1.3,1.0,0.0,1.0,1.5,1.7,2022-11-23,11,giveaways-per-game
+17,17,San Francisco,1.3,0.3,0.0,1.0,1.5,1.4,2022-11-23,11,giveaways-per-game
+18,17,NY Jets,1.3,1.3,0.0,2.0,0.6,1.6,2022-11-23,11,giveaways-per-game
+19,17,Houston,1.3,2.0,2.0,1.6,1.0,1.3,2022-11-23,11,giveaways-per-game
+20,17,Kansas City,1.3,1.7,1.0,1.2,1.4,1.5,2022-11-23,11,giveaways-per-game
+21,17,Seattle,1.3,1.0,1.0,1.0,1.5,0.8,2022-11-23,11,giveaways-per-game
+22,23,Atlanta,1.4,1.7,2.0,1.5,1.2,1.5,2022-11-23,11,giveaways-per-game
+23,23,Carolina,1.4,2.0,3.0,0.8,2.0,1.7,2022-11-23,11,giveaways-per-game
+24,23,Green Bay,1.4,1.7,0.0,1.2,1.5,0.8,2022-11-23,11,giveaways-per-game
+25,26,Pittsburgh,1.4,0.7,0.0,1.2,1.6,1.2,2022-11-23,11,giveaways-per-game
+26,26,Cleveland,1.4,1.3,1.0,1.6,1.2,1.3,2022-11-23,11,giveaways-per-game
+27,28,LA Rams,1.5,0.7,0.0,2.0,0.8,1.4,2022-11-23,11,giveaways-per-game
+28,29,New England,1.7,0.7,0.0,2.0,1.4,1.4,2022-11-23,11,giveaways-per-game
+29,30,New Orleans,1.7,1.0,0.0,1.3,2.2,1.1,2022-11-23,11,giveaways-per-game
+30,30,Indianapolis,1.7,1.0,1.0,1.4,2.0,1.1,2022-11-23,11,giveaways-per-game
+31,32,Buffalo,1.8,2.0,0.0,2.0,1.7,1.2,2022-11-23,11,giveaways-per-game
+0,1,Philadelphia,2.1,1.7,1.0,3.0,1.2,0.9,2022-11-23,11,takeaways-per-game
+1,2,Baltimore,1.9,1.7,3.0,2.0,1.8,0.9,2022-11-23,11,takeaways-per-game
+2,3,Buffalo,1.8,1.3,1.0,2.3,1.5,1.7,2022-11-23,11,takeaways-per-game
+3,3,Minnesota,1.8,1.7,0.0,1.4,2.2,1.4,2022-11-23,11,takeaways-per-game
+4,5,New England,1.7,1.3,0.0,1.2,2.2,1.7,2022-11-23,11,takeaways-per-game
+5,5,Seattle,1.7,1.7,2.0,2.0,1.5,1.1,2022-11-23,11,takeaways-per-game
+6,7,Dallas,1.6,1.3,1.0,1.8,1.4,1.9,2022-11-23,11,takeaways-per-game
+7,8,Pittsburgh,1.4,1.3,2.0,1.4,1.4,1.3,2022-11-23,11,takeaways-per-game
+8,8,Jacksonville,1.4,1.7,3.0,1.0,1.7,0.5,2022-11-23,11,takeaways-per-game
+9,8,NY Jets,1.4,1.0,0.0,1.4,1.4,0.8,2022-11-23,11,takeaways-per-game
+10,11,Chicago,1.4,0.7,2.0,0.8,1.8,0.9,2022-11-23,11,takeaways-per-game
+11,12,Detroit,1.3,2.3,3.0,1.2,1.4,1.1,2022-11-23,11,takeaways-per-game
+12,12,Tennessee,1.3,0.7,0.0,1.8,1.0,1.3,2022-11-23,11,takeaways-per-game
+13,12,LA Chargers,1.3,1.3,1.0,1.4,1.2,1.2,2022-11-23,11,takeaways-per-game
+14,12,Cincinnati,1.3,1.7,0.0,1.3,1.3,1.4,2022-11-23,11,takeaways-per-game
+15,16,Atlanta,1.3,1.0,1.0,1.7,0.8,1.2,2022-11-23,11,takeaways-per-game
+16,16,Arizona,1.3,1.0,0.0,1.2,1.3,1.5,2022-11-23,11,takeaways-per-game
+17,18,San Francisco,1.2,1.0,2.0,2.0,0.7,1.2,2022-11-23,11,takeaways-per-game
+18,18,NY Giants,1.2,1.0,0.0,1.5,0.8,1.3,2022-11-23,11,takeaways-per-game
+19,20,Washington,1.2,2.3,2.0,0.6,1.7,1.1,2022-11-23,11,takeaways-per-game
+20,21,Houston,1.1,0.3,0.0,1.2,1.0,1.5,2022-11-23,11,takeaways-per-game
+21,22,Tampa Bay,1.0,0.3,1.0,0.6,1.4,1.9,2022-11-23,11,takeaways-per-game
+22,22,Kansas City,1.0,0.7,2.0,0.4,1.6,1.6,2022-11-23,11,takeaways-per-game
+23,22,Denver,1.0,1.0,0.0,1.0,1.0,1.1,2022-11-23,11,takeaways-per-game
+24,22,Green Bay,1.0,1.3,1.0,1.0,1.0,1.5,2022-11-23,11,takeaways-per-game
+25,22,Indianapolis,1.0,1.0,2.0,1.2,0.8,1.9,2022-11-23,11,takeaways-per-game
+26,27,Carolina,0.9,0.7,1.0,1.0,0.8,0.9,2022-11-23,11,takeaways-per-game
+27,28,Miami,0.8,0.3,1.0,1.6,0.0,1.5,2022-11-23,11,takeaways-per-game
+28,28,Cleveland,0.8,0.7,0.0,1.0,0.6,1.1,2022-11-23,11,takeaways-per-game
+29,28,LA Rams,0.8,0.0,0.0,1.3,0.0,1.4,2022-11-23,11,takeaways-per-game
+30,31,New Orleans,0.6,0.0,0.0,0.7,0.6,1.5,2022-11-23,11,takeaways-per-game
+31,32,Las Vegas,0.6,0.7,0.0,1.0,0.3,0.8,2022-11-23,11,takeaways-per-game
+0,1,Dallas,1.4,1.0,0.0,1.8,1.0,2.1,2022-11-23,11,qb-sacked-per-game
+1,1,Tampa Bay,1.4,1.3,0.0,1.6,1.2,1.6,2022-11-23,11,qb-sacked-per-game
+2,3,Detroit,1.5,0.7,0.0,1.2,1.8,2.1,2022-11-23,11,qb-sacked-per-game
+3,4,Jacksonville,1.7,2.3,5.0,0.0,2.8,1.9,2022-11-23,11,qb-sacked-per-game
+4,4,Kansas City,1.7,1.7,1.0,2.2,1.2,1.9,2022-11-23,11,qb-sacked-per-game
+5,6,San Francisco,1.8,1.3,0.0,1.8,1.8,1.9,2022-11-23,11,qb-sacked-per-game
+6,6,Miami,1.8,1.0,1.0,2.4,1.2,2.4,2022-11-23,11,qb-sacked-per-game
+7,6,LA Chargers,1.8,2.7,5.0,2.2,1.4,1.8,2022-11-23,11,qb-sacked-per-game
+8,9,Green Bay,1.9,1.3,1.0,2.2,1.7,2.1,2022-11-23,11,qb-sacked-per-game
+9,10,Cleveland,2.0,2.0,1.0,1.8,2.2,2.9,2022-11-23,11,qb-sacked-per-game
+10,10,Buffalo,2.0,3.0,2.0,1.3,2.5,1.5,2022-11-23,11,qb-sacked-per-game
+11,12,Las Vegas,2.2,1.7,1.0,1.5,2.7,2.4,2022-11-23,11,qb-sacked-per-game
+12,13,New Orleans,2.3,3.3,4.0,2.7,1.8,2.2,2022-11-23,11,qb-sacked-per-game
+13,14,Baltimore,2.3,3.0,3.0,1.8,2.8,3.4,2022-11-23,11,qb-sacked-per-game
+14,15,Atlanta,2.4,2.3,0.0,1.2,3.8,2.4,2022-11-23,11,qb-sacked-per-game
+15,15,Carolina,2.4,1.7,4.0,2.8,1.8,3.1,2022-11-23,11,qb-sacked-per-game
+16,17,Tennessee,2.4,2.3,3.0,1.3,3.2,2.7,2022-11-23,11,qb-sacked-per-game
+17,17,Seattle,2.4,2.7,3.0,3.0,2.0,2.7,2022-11-23,11,qb-sacked-per-game
+18,19,NY Jets,2.5,2.7,4.0,2.6,2.4,3.1,2022-11-23,11,qb-sacked-per-game
+19,20,Philadelphia,2.6,2.7,3.0,2.6,2.6,1.8,2022-11-23,11,qb-sacked-per-game
+20,21,Minnesota,2.7,4.3,7.0,2.6,2.8,1.8,2022-11-23,11,qb-sacked-per-game
+21,22,Arizona,2.7,3.3,3.0,2.6,2.8,2.3,2022-11-23,11,qb-sacked-per-game
+22,23,Houston,2.8,4.0,5.0,3.6,2.0,2.6,2022-11-23,11,qb-sacked-per-game
+23,23,New England,2.8,5.3,6.0,2.8,2.8,1.7,2022-11-23,11,qb-sacked-per-game
+24,25,Pittsburgh,2.9,4.7,2.0,3.2,2.6,2.2,2022-11-23,11,qb-sacked-per-game
+25,26,Washington,2.9,2.0,0.0,3.4,2.5,2.5,2022-11-23,11,qb-sacked-per-game
+26,27,NY Giants,3.0,3.3,2.0,3.0,3.0,2.2,2022-11-23,11,qb-sacked-per-game
+27,28,Denver,3.3,4.0,3.0,3.0,3.6,2.4,2022-11-23,11,qb-sacked-per-game
+28,29,Cincinnati,3.4,3.0,2.0,3.3,3.5,3.5,2022-11-23,11,qb-sacked-per-game
+29,30,LA Rams,3.5,3.7,4.0,3.2,4.0,1.8,2022-11-23,11,qb-sacked-per-game
+30,31,Chicago,3.6,3.0,4.0,3.4,3.8,3.4,2022-11-23,11,qb-sacked-per-game
+31,31,Indianapolis,3.6,4.7,4.0,2.8,4.3,1.9,2022-11-23,11,qb-sacked-per-game
+0,1,Kansas City,314.7,358.3,322.0,312.6,316.8,288.5,2022-11-23,11,passing-yards-per-game
+1,2,Miami,293.8,322.3,296.0,271.0,316.6,214.8,2022-11-23,11,passing-yards-per-game
+2,3,Buffalo,283.4,226.7,186.0,318.0,260.3,258.2,2022-11-23,11,passing-yards-per-game
+3,4,Cincinnati,271.3,254.0,346.0,321.3,238.0,256.0,2022-11-23,11,passing-yards-per-game
+4,5,Tampa Bay,269.8,278.3,258.0,310.4,229.2,304.2,2022-11-23,11,passing-yards-per-game
+5,6,LA Chargers,263.8,227.3,250.0,263.0,264.6,282.4,2022-11-23,11,passing-yards-per-game
+6,7,New Orleans,237.5,195.7,235.0,207.2,273.8,187.4,2022-11-23,11,passing-yards-per-game
+7,8,Las Vegas,235.5,259.3,298.0,221.3,245.0,269.4,2022-11-23,11,passing-yards-per-game
+8,8,San Francisco,235.5,238.3,228.0,249.0,226.5,236.6,2022-11-23,11,passing-yards-per-game
+9,10,Minnesota,234.9,229.7,110.0,229.8,240.0,249.3,2022-11-23,11,passing-yards-per-game
+10,11,Detroit,233.8,176.7,165.0,252.4,215.2,211.6,2022-11-23,11,passing-yards-per-game
+11,12,Philadelphia,228.1,186.7,173.0,221.2,235.0,202.7,2022-11-23,11,passing-yards-per-game
+12,13,Seattle,227.8,232.3,244.0,208.8,240.5,201.9,2022-11-23,11,passing-yards-per-game
+13,14,Cleveland,227.0,256.3,316.0,236.4,217.6,195.3,2022-11-23,11,passing-yards-per-game
+14,15,Denver,223.8,234.7,226.0,211.2,236.4,211.4,2022-11-23,11,passing-yards-per-game
+15,16,Arizona,223.0,202.3,247.0,208.4,235.2,244.3,2022-11-23,11,passing-yards-per-game
+16,17,Indianapolis,222.6,145.3,185.0,253.4,197.0,197.7,2022-11-23,11,passing-yards-per-game
+17,18,Jacksonville,222.6,196.3,240.0,266.5,193.3,202.1,2022-11-23,11,passing-yards-per-game
+18,19,Green Bay,222.3,235.3,215.0,219.2,224.8,250.6,2022-11-23,11,passing-yards-per-game
+19,20,LA Rams,211.9,172.0,188.0,225.7,191.3,277.5,2022-11-23,11,passing-yards-per-game
+20,21,Washington,209.8,165.0,191.0,224.8,197.3,202.4,2022-11-23,11,passing-yards-per-game
+21,22,Dallas,209.4,270.3,307.0,210.6,208.2,279.4,2022-11-23,11,passing-yards-per-game
+22,23,Pittsburgh,204.4,189.7,249.0,186.8,222.0,221.1,2022-11-23,11,passing-yards-per-game
+23,24,New England,202.2,164.0,198.0,202.2,202.2,226.3,2022-11-23,11,passing-yards-per-game
+24,25,NY Jets,201.5,172.0,44.0,241.6,161.4,208.3,2022-11-23,11,passing-yards-per-game
+25,26,Houston,192.2,182.7,127.0,163.4,221.0,194.4,2022-11-23,11,passing-yards-per-game
+26,27,Baltimore,187.4,182.0,193.0,181.8,193.0,233.0,2022-11-23,11,passing-yards-per-game
+27,28,NY Giants,177.3,215.7,324.0,176.2,179.0,188.0,2022-11-23,11,passing-yards-per-game
+28,29,Carolina,175.5,144.7,169.0,175.0,176.2,190.5,2022-11-23,11,passing-yards-per-game
+29,30,Tennessee,165.4,207.0,320.0,219.5,129.3,201.7,2022-11-23,11,passing-yards-per-game
+30,31,Atlanta,154.5,132.7,131.0,158.5,149.6,218.4,2022-11-23,11,passing-yards-per-game
+31,32,Chicago,128.1,131.3,128.0,121.4,133.7,188.6,2022-11-23,11,passing-yards-per-game
+0,1,Chicago,197.9,223.3,160.0,225.4,175.0,118.7,2022-11-23,11,rushing-yards-per-game
+1,2,Baltimore,162.8,178.0,115.0,149.4,176.2,145.8,2022-11-23,11,rushing-yards-per-game
+2,3,Atlanta,159.4,162.7,149.0,181.3,133.0,85.4,2022-11-23,11,rushing-yards-per-game
+3,4,NY Giants,157.2,119.3,89.0,149.2,169.3,99.3,2022-11-23,11,rushing-yards-per-game
+4,5,Cleveland,150.9,121.3,80.0,162.0,139.8,145.4,2022-11-23,11,rushing-yards-per-game
+5,6,Philadelphia,142.5,126.0,141.0,142.8,142.2,156.1,2022-11-23,11,rushing-yards-per-game
+6,7,Jacksonville,139.6,144.7,75.0,135.5,142.3,103.2,2022-11-23,11,rushing-yards-per-game
+7,8,Dallas,136.2,170.0,151.0,115.8,156.6,122.0,2022-11-23,11,rushing-yards-per-game
+8,9,Buffalo,134.0,160.0,171.0,137.3,131.8,131.2,2022-11-23,11,rushing-yards-per-game
+9,10,Detroit,132.8,124.0,160.0,143.2,122.4,110.9,2022-11-23,11,rushing-yards-per-game
+10,11,Tennessee,128.9,107.7,88.0,100.8,147.7,141.3,2022-11-23,11,rushing-yards-per-game
+11,12,San Francisco,127.2,142.3,159.0,133.8,122.8,124.6,2022-11-23,11,rushing-yards-per-game
+12,13,Seattle,124.3,94.7,39.0,102.8,138.7,122.0,2022-11-23,11,rushing-yards-per-game
+13,14,Green Bay,122.6,123.0,56.0,145.0,104.0,109.3,2022-11-23,11,rushing-yards-per-game
+14,15,New Orleans,117.7,55.0,88.0,139.2,92.0,117.1,2022-11-23,11,rushing-yards-per-game
+15,16,Washington,116.1,147.3,153.0,103.6,126.5,121.2,2022-11-23,11,rushing-yards-per-game
+16,17,New England,115.4,98.7,99.0,112.0,118.8,124.4,2022-11-23,11,rushing-yards-per-game
+17,18,Kansas City,114.6,131.7,163.0,99.2,130.0,119.1,2022-11-23,11,rushing-yards-per-game
+18,19,Carolina,110.5,110.7,36.0,118.0,101.6,108.4,2022-11-23,11,rushing-yards-per-game
+19,20,NY Jets,110.3,94.7,59.0,103.8,116.8,98.1,2022-11-23,11,rushing-yards-per-game
+20,21,Arizona,108.9,89.0,67.0,111.2,107.0,118.7,2022-11-23,11,rushing-yards-per-game
+21,22,Pittsburgh,107.8,154.3,102.0,121.2,94.4,91.1,2022-11-23,11,rushing-yards-per-game
+22,23,Las Vegas,106.8,86.3,109.0,133.3,89.2,95.6,2022-11-23,11,rushing-yards-per-game
+23,24,Minnesota,103.6,92.0,73.0,122.4,84.8,113.5,2022-11-23,11,rushing-yards-per-game
+24,25,Denver,102.6,86.7,94.0,114.8,90.4,119.1,2022-11-23,11,rushing-yards-per-game
+25,26,Indianapolis,98.7,128.0,99.0,79.8,114.5,149.4,2022-11-23,11,rushing-yards-per-game
+26,27,Miami,97.7,126.3,195.0,97.0,98.4,92.2,2022-11-23,11,rushing-yards-per-game
+27,28,Cincinnati,95.1,113.0,62.0,129.8,72.0,99.3,2022-11-23,11,rushing-yards-per-game
+28,29,Houston,93.7,96.7,21.0,88.0,99.4,83.6,2022-11-23,11,rushing-yards-per-game
+29,30,LA Chargers,87.9,85.7,115.0,68.6,107.2,107.9,2022-11-23,11,rushing-yards-per-game
+30,31,LA Rams,76.1,94.0,148.0,64.7,93.3,95.7,2022-11-23,11,rushing-yards-per-game
+31,32,Tampa Bay,70.7,85.3,161.0,40.2,101.2,96.3,2022-11-23,11,rushing-yards-per-game
+0,1,Kansas City,30.0,30.3,27.0,24.8,36.5,29.4,2022-11-16,10,points-per-game
+1,2,Buffalo,27.8,24.7,30.0,34.0,22.8,29.8,2022-11-16,10,points-per-game
+2,3,Philadelphia,27.3,28.3,21.0,27.0,27.8,25.5,2022-11-16,10,points-per-game
+3,4,Baltimore,26.1,25.7,27.0,25.0,27.0,22.8,2022-11-16,10,points-per-game
+4,5,Seattle,25.7,24.7,16.0,21.5,28.5,23.2,2022-11-16,10,points-per-game
+5,6,Cincinnati,25.3,30.0,42.0,31.0,20.8,26.3,2022-11-16,10,points-per-game
+6,7,Miami,25.2,35.0,39.0,22.4,28.0,20.1,2022-11-16,10,points-per-game
+7,8,Minnesota,25.1,29.0,33.0,28.5,22.4,25.0,2022-11-16,10,points-per-game
+8,9,Detroit,24.3,24.3,31.0,31.6,15.3,19.1,2022-11-16,10,points-per-game
+9,10,Cleveland,24.1,23.0,17.0,26.8,20.8,20.5,2022-11-16,10,points-per-game
+10,11,Dallas,23.4,33.7,28.0,24.2,22.5,30.4,2022-11-16,10,points-per-game
+11,12,Atlanta,23.2,23.0,15.0,26.2,20.2,18.4,2022-11-16,10,points-per-game
+12,13,Arizona,23.0,24.7,27.0,22.6,23.4,25.6,2022-11-16,10,points-per-game
+13,14,Las Vegas,22.6,13.3,20.0,28.3,18.0,21.8,2022-11-16,10,points-per-game
+14,14,New England,22.6,20.7,26.0,23.8,21.6,26.6,2022-11-16,10,points-per-game
+15,16,LA Chargers,22.2,19.7,16.0,19.0,24.8,27.9,2022-11-16,10,points-per-game
+16,17,New Orleans,22.2,15.7,10.0,22.4,22.0,21.4,2022-11-16,10,points-per-game
+17,18,San Francisco,22.0,25.3,22.0,24.0,20.4,24.0,2022-11-16,10,points-per-game
+18,19,NY Jets,21.8,17.7,20.0,19.6,24.5,18.2,2022-11-16,10,points-per-game
+19,20,Chicago,21.7,30.3,30.0,22.2,21.2,18.3,2022-11-16,10,points-per-game
+20,21,Jacksonville,21.6,20.3,17.0,18.5,23.7,14.9,2022-11-16,10,points-per-game
+21,22,NY Giants,20.8,20.0,24.0,20.6,21.0,15.2,2022-11-16,10,points-per-game
+22,23,Carolina,20.4,26.7,25.0,20.5,20.3,17.9,2022-11-16,10,points-per-game
+23,24,Washington,19.1,22.0,32.0,18.6,19.6,19.7,2022-11-16,10,points-per-game
+24,25,Green Bay,18.5,19.0,31.0,23.8,15.0,25.6,2022-11-16,10,points-per-game
+25,26,Tennessee,18.4,17.0,17.0,20.0,17.2,24.2,2022-11-16,10,points-per-game
+26,27,Tampa Bay,18.3,19.7,21.0,20.4,16.2,29.9,2022-11-16,10,points-per-game
+27,28,Houston,16.6,14.3,16.0,17.8,15.6,16.5,2022-11-16,10,points-per-game
+28,29,LA Rams,16.4,14.7,17.0,17.7,14.0,27.0,2022-11-16,10,points-per-game
+29,30,Indianapolis,15.7,14.7,25.0,21.8,11.7,26.5,2022-11-16,10,points-per-game
+30,31,Pittsburgh,15.6,14.3,20.0,18.5,13.2,20.2,2022-11-16,10,points-per-game
+31,32,Denver,14.6,13.3,10.0,11.3,17.2,19.7,2022-11-16,10,points-per-game
+0,1,Las Vegas,0.8,0.7,0.0,0.3,1.2,1.4,2022-11-16,10,giveaways-per-game
+1,1,Philadelphia,0.8,1.7,4.0,1.2,0.3,1.1,2022-11-16,10,giveaways-per-game
+2,3,NY Giants,0.9,0.7,0.0,0.8,1.0,1.8,2022-11-16,10,giveaways-per-game
+3,4,Tampa Bay,0.9,1.0,2.0,1.0,0.8,1.1,2022-11-16,10,giveaways-per-game
+4,4,Arizona,0.9,1.3,0.0,0.4,1.4,0.9,2022-11-16,10,giveaways-per-game
+5,6,Dallas,1.0,1.3,2.0,0.8,1.3,1.2,2022-11-16,10,giveaways-per-game
+6,6,Miami,1.0,0.3,0.0,0.6,1.4,1.5,2022-11-16,10,giveaways-per-game
+7,6,Baltimore,1.0,0.3,0.0,1.0,1.0,1.5,2022-11-16,10,giveaways-per-game
+8,9,Tennessee,1.1,1.0,1.0,1.0,1.2,1.6,2022-11-16,10,giveaways-per-game
+9,9,Denver,1.1,1.0,1.0,1.0,1.2,1.1,2022-11-16,10,giveaways-per-game
+10,9,LA Chargers,1.1,1.7,1.0,1.3,1.0,1.3,2022-11-16,10,giveaways-per-game
+11,9,Cincinnati,1.1,0.7,0.0,1.3,1.0,1.1,2022-11-16,10,giveaways-per-game
+12,9,Minnesota,1.1,1.3,2.0,0.8,1.4,0.8,2022-11-16,10,giveaways-per-game
+13,14,Carolina,1.2,1.3,0.0,0.8,1.8,1.7,2022-11-16,10,giveaways-per-game
+14,15,Houston,1.2,1.7,2.0,1.5,1.0,1.3,2022-11-16,10,giveaways-per-game
+15,16,Atlanta,1.3,1.7,1.0,1.4,1.2,1.5,2022-11-16,10,giveaways-per-game
+16,16,Washington,1.3,1.3,2.0,1.4,1.2,1.4,2022-11-16,10,giveaways-per-game
+17,16,Chicago,1.3,0.7,1.0,1.2,1.4,1.7,2022-11-16,10,giveaways-per-game
+18,16,Jacksonville,1.3,1.0,0.0,1.0,1.5,1.7,2022-11-16,10,giveaways-per-game
+19,16,Seattle,1.3,1.0,1.0,1.0,1.5,0.8,2022-11-16,10,giveaways-per-game
+20,21,Detroit,1.3,0.3,0.0,0.8,2.0,1.4,2022-11-16,10,giveaways-per-game
+21,21,Kansas City,1.3,2.0,3.0,1.2,1.5,1.5,2022-11-16,10,giveaways-per-game
+22,23,San Francisco,1.4,1.3,1.0,1.0,1.8,1.4,2022-11-16,10,giveaways-per-game
+23,23,NY Jets,1.4,1.3,1.0,2.0,0.8,1.6,2022-11-16,10,giveaways-per-game
+24,23,Cleveland,1.4,1.7,1.0,1.6,1.3,1.3,2022-11-16,10,giveaways-per-game
+25,26,Green Bay,1.5,2.0,2.0,1.5,1.5,0.8,2022-11-16,10,giveaways-per-game
+26,27,Pittsburgh,1.6,1.7,0.0,1.5,1.6,1.2,2022-11-16,10,giveaways-per-game
+27,28,LA Rams,1.7,0.7,2.0,2.0,1.0,1.4,2022-11-16,10,giveaways-per-game
+28,29,Indianapolis,1.8,1.3,1.0,1.5,2.0,1.1,2022-11-16,10,giveaways-per-game
+29,30,New England,1.9,2.0,1.0,2.5,1.4,1.4,2022-11-16,10,giveaways-per-game
+30,31,New Orleans,1.9,1.0,2.0,1.6,2.2,1.1,2022-11-16,10,giveaways-per-game
+31,32,Buffalo,2.0,2.7,4.0,2.0,2.0,1.2,2022-11-16,10,giveaways-per-game
+0,1,Philadelphia,2.2,2.0,2.0,3.0,1.3,0.9,2022-11-16,10,takeaways-per-game
+1,2,Minnesota,2.0,2.7,4.0,1.8,2.2,1.4,2022-11-16,10,takeaways-per-game
+2,3,New England,1.9,1.7,1.0,1.5,2.2,1.7,2022-11-16,10,takeaways-per-game
+3,3,Buffalo,1.9,1.3,2.0,2.3,1.6,1.7,2022-11-16,10,takeaways-per-game
+4,5,Baltimore,1.8,1.3,1.0,1.8,1.8,0.9,2022-11-16,10,takeaways-per-game
+5,6,Seattle,1.7,1.7,2.0,2.0,1.5,1.1,2022-11-16,10,takeaways-per-game
+6,7,Dallas,1.7,2.7,2.0,1.8,1.5,1.9,2022-11-16,10,takeaways-per-game
+7,8,NY Jets,1.6,1.3,2.0,1.4,1.8,0.8,2022-11-16,10,takeaways-per-game
+8,9,Tennessee,1.4,1.0,1.0,1.8,1.2,1.3,2022-11-16,10,takeaways-per-game
+9,9,Cincinnati,1.4,1.7,3.0,1.3,1.6,1.4,2022-11-16,10,takeaways-per-game
+10,11,Jacksonville,1.4,1.7,3.0,1.0,1.7,0.5,2022-11-16,10,takeaways-per-game
+11,11,Arizona,1.4,1.3,2.0,1.2,1.6,1.5,2022-11-16,10,takeaways-per-game
+12,13,Pittsburgh,1.3,0.7,2.0,1.3,1.4,1.3,2022-11-16,10,takeaways-per-game
+13,13,LA Chargers,1.3,1.7,1.0,1.5,1.2,1.2,2022-11-16,10,takeaways-per-game
+14,13,NY Giants,1.3,1.3,2.0,1.8,0.8,1.3,2022-11-16,10,takeaways-per-game
+15,16,Atlanta,1.3,1.0,0.0,1.8,0.8,1.2,2022-11-16,10,takeaways-per-game
+16,16,Chicago,1.3,0.3,0.0,0.8,1.8,0.9,2022-11-16,10,takeaways-per-game
+17,18,Houston,1.2,1.0,0.0,1.5,1.0,1.5,2022-11-16,10,takeaways-per-game
+18,19,Detroit,1.1,1.7,1.0,1.2,1.0,1.1,2022-11-16,10,takeaways-per-game
+19,19,San Francisco,1.1,1.0,1.0,2.0,0.4,1.2,2022-11-16,10,takeaways-per-game
+20,19,Denver,1.1,1.0,1.0,1.3,1.0,1.1,2022-11-16,10,takeaways-per-game
+21,22,Washington,1.1,2.3,4.0,0.6,1.6,1.1,2022-11-16,10,takeaways-per-game
+22,23,Tampa Bay,1.0,0.3,1.0,0.6,1.4,1.9,2022-11-16,10,takeaways-per-game
+23,23,Green Bay,1.0,1.7,2.0,1.0,1.0,1.5,2022-11-16,10,takeaways-per-game
+24,25,Carolina,0.9,1.0,1.0,1.0,0.8,0.9,2022-11-16,10,takeaways-per-game
+25,25,Indianapolis,0.9,0.7,0.0,1.0,0.8,1.9,2022-11-16,10,takeaways-per-game
+26,27,Cleveland,0.9,1.0,0.0,1.0,0.8,1.1,2022-11-16,10,takeaways-per-game
+27,27,Kansas City,0.9,1.0,0.0,0.4,1.5,1.6,2022-11-16,10,takeaways-per-game
+28,27,LA Rams,0.9,0.0,0.0,1.3,0.0,1.4,2022-11-16,10,takeaways-per-game
+29,30,Miami,0.8,0.3,1.0,1.6,0.0,1.5,2022-11-16,10,takeaways-per-game
+30,31,New Orleans,0.7,0.3,0.0,0.8,0.6,1.5,2022-11-16,10,takeaways-per-game
+31,32,Las Vegas,0.7,0.7,1.0,1.0,0.4,0.8,2022-11-16,10,takeaways-per-game
+0,1,Tampa Bay,1.4,1.3,0.0,1.6,1.2,1.6,2022-11-16,10,qb-sacked-per-game
+1,2,LA Chargers,1.4,2.0,3.0,1.5,1.4,1.8,2022-11-16,10,qb-sacked-per-game
+2,3,Dallas,1.6,1.7,2.0,1.8,1.3,2.1,2022-11-16,10,qb-sacked-per-game
+3,4,Detroit,1.7,1.0,2.0,1.2,2.3,2.1,2022-11-16,10,qb-sacked-per-game
+4,5,Jacksonville,1.7,2.3,5.0,0.0,2.8,1.9,2022-11-16,10,qb-sacked-per-game
+5,6,Kansas City,1.8,1.7,0.0,2.2,1.3,1.9,2022-11-16,10,qb-sacked-per-game
+6,7,Miami,1.8,1.0,1.0,2.4,1.2,2.4,2022-11-16,10,qb-sacked-per-game
+7,8,San Francisco,2.0,3.0,1.0,1.8,2.2,1.9,2022-11-16,10,qb-sacked-per-game
+8,8,Buffalo,2.0,3.0,2.0,1.3,2.6,1.5,2022-11-16,10,qb-sacked-per-game
+9,8,Green Bay,2.0,1.7,2.0,2.5,1.7,2.1,2022-11-16,10,qb-sacked-per-game
+10,11,New Orleans,2.1,2.0,2.0,2.4,1.8,2.2,2022-11-16,10,qb-sacked-per-game
+11,12,Cleveland,2.1,3.3,3.0,1.8,2.5,2.9,2022-11-16,10,qb-sacked-per-game
+12,13,Carolina,2.2,0.7,1.0,2.8,1.3,3.1,2022-11-16,10,qb-sacked-per-game
+13,14,Baltimore,2.2,3.0,3.0,1.5,2.8,3.4,2022-11-16,10,qb-sacked-per-game
+14,14,Minnesota,2.2,3.0,4.0,1.5,2.8,1.8,2022-11-16,10,qb-sacked-per-game
+15,16,Las Vegas,2.3,2.7,2.0,1.5,3.0,2.4,2022-11-16,10,qb-sacked-per-game
+16,16,NY Jets,2.3,2.3,2.0,2.6,2.0,3.1,2022-11-16,10,qb-sacked-per-game
+17,16,Tennessee,2.3,2.3,1.0,1.3,3.2,2.7,2022-11-16,10,qb-sacked-per-game
+18,19,Seattle,2.4,2.7,3.0,3.0,2.0,2.7,2022-11-16,10,qb-sacked-per-game
+19,20,New England,2.4,3.7,4.0,2.0,2.8,1.7,2022-11-16,10,qb-sacked-per-game
+20,21,Houston,2.6,3.3,4.0,3.3,2.0,2.6,2022-11-16,10,qb-sacked-per-game
+21,21,Philadelphia,2.6,2.7,1.0,2.6,2.5,1.8,2022-11-16,10,qb-sacked-per-game
+22,23,Atlanta,2.6,3.0,5.0,1.4,3.8,2.4,2022-11-16,10,qb-sacked-per-game
+23,24,Arizona,2.7,3.7,2.0,2.6,2.8,2.3,2022-11-16,10,qb-sacked-per-game
+24,25,Pittsburgh,3.0,4.7,6.0,3.5,2.6,2.2,2022-11-16,10,qb-sacked-per-game
+25,26,NY Giants,3.1,3.0,3.0,3.2,3.0,2.2,2022-11-16,10,qb-sacked-per-game
+26,27,Washington,3.2,2.7,3.0,3.4,3.0,2.5,2022-11-16,10,qb-sacked-per-game
+27,28,Denver,3.3,3.3,6.0,3.0,3.6,2.4,2022-11-16,10,qb-sacked-per-game
+28,29,LA Rams,3.4,3.0,3.0,3.2,4.0,1.8,2022-11-16,10,qb-sacked-per-game
+29,30,Cincinnati,3.6,3.3,2.0,3.3,3.8,3.5,2022-11-16,10,qb-sacked-per-game
+30,31,Chicago,3.6,3.0,3.0,3.4,3.8,3.4,2022-11-16,10,qb-sacked-per-game
+31,31,Indianapolis,3.6,4.0,1.0,2.5,4.3,1.9,2022-11-16,10,qb-sacked-per-game
+0,1,Kansas City,313.9,390.0,331.0,312.6,315.5,288.5,2022-11-16,10,passing-yards-per-game
+1,2,Buffalo,294.2,236.7,311.0,318.0,275.2,258.2,2022-11-16,10,passing-yards-per-game
+2,3,Miami,293.8,322.3,296.0,271.0,316.6,214.8,2022-11-16,10,passing-yards-per-game
+3,4,Tampa Bay,269.8,278.3,258.0,310.4,229.2,304.2,2022-11-16,10,passing-yards-per-game
+4,5,LA Chargers,265.3,236.0,187.0,266.3,264.6,282.4,2022-11-16,10,passing-yards-per-game
+5,6,Cincinnati,263.0,291.7,223.0,321.3,216.4,256.0,2022-11-16,10,passing-yards-per-game
+6,7,Minnesota,248.8,262.3,334.0,259.8,240.0,249.3,2022-11-16,10,passing-yards-per-game
+7,8,Detroit,241.4,225.3,228.0,252.4,227.8,211.6,2022-11-16,10,passing-yards-per-game
+8,9,New Orleans,237.7,194.3,157.0,201.6,273.8,187.4,2022-11-16,10,passing-yards-per-game
+9,10,San Francisco,236.3,276.7,230.0,249.0,226.2,236.6,2022-11-16,10,passing-yards-per-game
+10,11,Philadelphia,234.2,225.7,170.0,221.2,250.5,202.7,2022-11-16,10,passing-yards-per-game
+11,12,Las Vegas,228.6,208.3,232.0,221.3,234.4,269.4,2022-11-16,10,passing-yards-per-game
+12,13,Seattle,227.8,232.3,244.0,208.8,240.5,201.9,2022-11-16,10,passing-yards-per-game
+13,14,Indianapolis,226.4,146.7,208.0,270.5,197.0,197.7,2022-11-16,10,passing-yards-per-game
+14,15,Denver,223.6,232.3,248.0,207.5,236.4,211.4,2022-11-16,10,passing-yards-per-game
+15,16,Green Bay,223.0,227.0,208.0,220.3,224.8,250.6,2022-11-16,10,passing-yards-per-game
+16,17,Jacksonville,222.6,196.3,240.0,266.5,193.3,202.1,2022-11-16,10,passing-yards-per-game
+17,18,Arizona,220.6,219.0,220.0,208.4,232.8,244.3,2022-11-16,10,passing-yards-per-game
+18,19,NY Jets,219.0,192.3,136.0,241.6,190.8,208.3,2022-11-16,10,passing-yards-per-game
+19,20,Cleveland,217.1,225.3,185.0,236.4,193.0,195.3,2022-11-16,10,passing-yards-per-game
+20,21,LA Rams,214.6,165.0,190.0,225.7,192.3,277.5,2022-11-16,10,passing-yards-per-game
+21,22,Washington,211.7,190.0,178.0,224.8,198.6,202.4,2022-11-16,10,passing-yards-per-game
+22,23,New England,202.7,161.3,133.0,203.3,202.2,226.3,2022-11-16,10,passing-yards-per-game
+23,24,Pittsburgh,199.4,188.7,162.0,171.3,222.0,221.1,2022-11-16,10,passing-yards-per-game
+24,24,Houston,199.4,179.7,286.0,172.5,221.0,194.4,2022-11-16,10,passing-yards-per-game
+25,26,Dallas,198.6,231.7,262.0,210.6,183.5,279.4,2022-11-16,10,passing-yards-per-game
+26,27,Baltimore,186.8,149.0,131.0,179.0,193.0,233.0,2022-11-16,10,passing-yards-per-game
+27,28,Carolina,176.2,191.3,101.0,175.0,178.0,190.5,2022-11-16,10,passing-yards-per-game
+28,29,NY Giants,161.0,174.3,176.0,146.6,179.0,188.0,2022-11-16,10,passing-yards-per-game
+29,30,Atlanta,156.8,168.7,153.0,164.0,149.6,218.4,2022-11-16,10,passing-yards-per-game
+30,31,Tennessee,148.2,113.7,244.0,219.5,91.2,201.7,2022-11-16,10,passing-yards-per-game
+31,32,Chicago,128.1,132.3,150.0,121.4,134.8,188.6,2022-11-16,10,passing-yards-per-game
+0,1,Chicago,201.7,250.0,258.0,225.4,178.0,118.7,2022-11-16,10,rushing-yards-per-game
+1,2,Baltimore,168.1,193.0,188.0,158.0,176.2,145.8,2022-11-16,10,rushing-yards-per-game
+2,3,NY Giants,164.8,168.3,191.0,161.2,169.3,99.3,2022-11-16,10,rushing-yards-per-game
+3,4,Atlanta,160.4,168.7,138.0,187.8,133.0,85.4,2022-11-16,10,rushing-yards-per-game
+4,5,Cleveland,158.8,132.3,112.0,162.0,154.8,145.4,2022-11-16,10,rushing-yards-per-game
+5,6,Philadelphia,142.7,116.0,94.0,142.8,142.5,156.1,2022-11-16,10,rushing-yards-per-game
+6,7,Jacksonville,139.6,144.7,75.0,135.5,142.3,103.2,2022-11-16,10,rushing-yards-per-game
+7,8,Dallas,134.6,166.0,159.0,115.8,158.0,122.0,2022-11-16,10,rushing-yards-per-game
+8,9,Tennessee,133.4,183.0,63.0,100.8,159.6,141.3,2022-11-16,10,rushing-yards-per-game
+9,10,Buffalo,129.9,154.0,175.0,137.3,124.0,131.2,2022-11-16,10,rushing-yards-per-game
+10,11,Detroit,129.8,98.0,95.0,143.2,113.0,110.9,2022-11-16,10,rushing-yards-per-game
+11,12,Green Bay,129.3,173.7,207.0,167.3,104.0,109.3,2022-11-16,10,rushing-yards-per-game
+12,13,Seattle,124.3,94.7,39.0,102.8,138.7,122.0,2022-11-16,10,rushing-yards-per-game
+13,14,San Francisco,123.7,123.0,157.0,133.8,115.6,124.6,2022-11-16,10,rushing-yards-per-game
+14,15,New Orleans,120.7,71.0,29.0,149.4,92.0,117.1,2022-11-16,10,rushing-yards-per-game
+15,16,Carolina,118.0,155.0,232.0,118.0,118.0,108.4,2022-11-16,10,rushing-yards-per-game
+16,17,New England,117.2,89.0,70.0,115.3,118.8,124.4,2022-11-16,10,rushing-yards-per-game
+17,18,NY Jets,116.0,126.7,174.0,103.8,131.3,98.1,2022-11-16,10,rushing-yards-per-game
+18,19,Arizona,113.1,92.7,78.0,111.2,115.0,118.7,2022-11-16,10,rushing-yards-per-game
+19,20,Washington,112.4,128.3,152.0,103.6,121.2,121.2,2022-11-16,10,rushing-yards-per-game
+20,21,Kansas City,109.2,114.7,155.0,99.2,121.8,119.1,2022-11-16,10,rushing-yards-per-game
+21,22,Pittsburgh,108.4,152.0,217.0,126.0,94.4,91.1,2022-11-16,10,rushing-yards-per-game
+22,23,Minnesota,107.0,125.3,147.0,134.8,84.8,113.5,2022-11-16,10,rushing-yards-per-game
+23,24,Las Vegas,106.6,62.7,77.0,133.3,85.2,95.6,2022-11-16,10,rushing-yards-per-game
+24,25,Denver,103.6,90.3,65.0,120.0,90.4,119.1,2022-11-16,10,rushing-yards-per-game
+25,26,Houston,101.8,104.0,101.0,104.8,99.4,83.6,2022-11-16,10,rushing-yards-per-game
+26,27,Cincinnati,98.8,118.3,241.0,129.8,74.0,99.3,2022-11-16,10,rushing-yards-per-game
+27,28,Indianapolis,98.7,140.0,207.0,75.0,114.5,149.4,2022-11-16,10,rushing-yards-per-game
+28,29,Miami,97.7,126.3,195.0,97.0,98.4,92.2,2022-11-16,10,rushing-yards-per-game
+29,30,LA Chargers,84.9,65.0,51.0,57.0,107.2,107.9,2022-11-16,10,rushing-yards-per-game
+30,31,Tampa Bay,70.7,85.3,161.0,40.2,101.2,96.3,2022-11-16,10,rushing-yards-per-game
+31,32,LA Rams,68.1,63.3,66.0,64.7,75.0,95.7,2022-11-16,10,rushing-yards-per-game
+0,1,Kansas City,30.4,28.0,20.0,24.3,36.5,29.4,2022-11-09,9,points-per-game
+1,2,Philadelphia,28.1,30.0,29.0,28.5,27.8,25.5,2022-11-09,9,points-per-game
+2,3,Buffalo,27.5,22.7,17.0,35.3,22.8,29.8,2022-11-09,9,points-per-game
+3,4,Seattle,26.8,31.7,31.0,21.5,31.0,23.2,2022-11-09,9,points-per-game
+4,5,Baltimore,26.1,25.7,27.0,25.0,27.0,22.8,2022-11-09,9,points-per-game
+5,6,Cincinnati,25.3,30.0,42.0,31.0,20.8,26.3,2022-11-09,9,points-per-game
+6,7,Cleveland,25.0,22.3,32.0,26.8,22.0,20.5,2022-11-09,9,points-per-game
+7,8,Minnesota,24.1,26.0,20.0,28.5,19.8,25.0,2022-11-09,9,points-per-game
+8,9,Atlanta,24.1,23.7,17.0,26.2,21.5,18.4,2022-11-09,9,points-per-game
+9,10,Miami,23.7,27.3,35.0,18.3,28.0,20.1,2022-11-09,9,points-per-game
+10,11,New Orleans,23.6,23.7,13.0,22.4,25.0,21.4,2022-11-09,9,points-per-game
+11,12,Detroit,23.5,16.0,15.0,31.6,10.0,19.1,2022-11-09,9,points-per-game
+12,13,LA Chargers,23.0,20.7,20.0,19.0,27.0,27.9,2022-11-09,9,points-per-game
+13,14,Dallas,22.9,30.0,49.0,24.2,20.7,30.4,2022-11-09,9,points-per-game
+14,14,Las Vegas,22.9,19.3,20.0,31.0,18.0,21.8,2022-11-09,9,points-per-game
+15,16,Arizona,22.6,29.7,21.0,22.6,22.5,25.6,2022-11-09,9,points-per-game
+16,16,New England,22.6,20.7,26.0,23.8,21.6,26.6,2022-11-09,9,points-per-game
+17,18,Jacksonville,22.1,20.3,27.0,18.5,25.0,14.9,2022-11-09,9,points-per-game
+18,19,San Francisco,22.0,22.7,31.0,24.7,20.4,24.0,2022-11-09,9,points-per-game
+19,20,NY Jets,21.8,17.7,20.0,19.6,24.5,18.2,2022-11-09,9,points-per-game
+20,21,Chicago,20.8,31.3,32.0,20.3,21.2,18.3,2022-11-09,9,points-per-game
+21,22,NY Giants,20.4,20.0,13.0,19.8,21.0,15.2,2022-11-09,9,points-per-game
+22,23,Carolina,19.9,25.3,21.0,19.6,20.3,17.9,2022-11-09,9,points-per-game
+23,24,Tennessee,18.6,17.7,17.0,21.0,17.2,24.2,2022-11-09,9,points-per-game
+24,25,Tampa Bay,18.0,13.7,16.0,20.4,15.0,29.9,2022-11-09,9,points-per-game
+25,26,Washington,17.7,19.0,17.0,18.6,16.5,19.7,2022-11-09,9,points-per-game
+26,27,Green Bay,17.1,15.7,9.0,21.3,15.0,25.6,2022-11-09,9,points-per-game
+27,28,Houston,16.6,15.7,17.0,17.8,15.5,16.5,2022-11-09,9,points-per-game
+28,29,LA Rams,16.4,17.0,13.0,17.8,14.0,27.0,2022-11-09,9,points-per-game
+29,30,Denver,15.1,15.3,21.0,11.3,19.0,19.7,2022-11-09,9,points-per-game
+30,31,Pittsburgh,15.0,14.3,13.0,18.0,13.2,20.2,2022-11-09,9,points-per-game
+31,32,Indianapolis,14.7,9.7,3.0,21.8,9.0,26.5,2022-11-09,9,points-per-game
+0,1,Philadelphia,0.4,0.3,1.0,0.5,0.3,1.1,2022-11-09,9,giveaways-per-game
+1,2,Tampa Bay,0.8,0.3,0.0,1.0,0.5,1.1,2022-11-09,9,giveaways-per-game
+2,3,Dallas,0.9,1.7,1.0,0.8,1.0,1.2,2022-11-09,9,giveaways-per-game
+3,3,Las Vegas,0.9,0.7,1.0,0.3,1.2,1.4,2022-11-09,9,giveaways-per-game
+4,5,Arizona,1.0,1.3,1.0,0.4,1.8,0.9,2022-11-09,9,giveaways-per-game
+5,5,NY Giants,1.0,1.0,2.0,1.0,1.0,1.8,2022-11-09,9,giveaways-per-game
+6,5,Baltimore,1.0,0.3,0.0,1.0,1.0,1.5,2022-11-09,9,giveaways-per-game
+7,5,Minnesota,1.0,0.7,1.0,0.8,1.3,0.8,2022-11-09,9,giveaways-per-game
+8,9,Miami,1.1,0.3,0.0,0.8,1.4,1.5,2022-11-09,9,giveaways-per-game
+9,9,Cincinnati,1.1,0.7,0.0,1.3,1.0,1.1,2022-11-09,9,giveaways-per-game
+10,11,Tennessee,1.1,1.0,0.0,1.0,1.2,1.6,2022-11-09,9,giveaways-per-game
+11,11,Houston,1.1,1.3,2.0,1.5,0.8,1.3,2022-11-09,9,giveaways-per-game
+12,11,Kansas City,1.1,1.7,1.0,0.8,1.5,1.5,2022-11-09,9,giveaways-per-game
+13,11,Denver,1.1,1.0,1.0,1.0,1.3,1.1,2022-11-09,9,giveaways-per-game
+14,11,LA Chargers,1.1,1.7,2.0,1.3,1.0,1.3,2022-11-09,9,giveaways-per-game
+15,16,Washington,1.2,1.0,1.0,1.4,1.0,1.4,2022-11-09,9,giveaways-per-game
+16,17,Atlanta,1.3,1.3,2.0,1.4,1.3,1.5,2022-11-09,9,giveaways-per-game
+17,17,Chicago,1.3,0.7,0.0,1.3,1.4,1.7,2022-11-09,9,giveaways-per-game
+18,17,Carolina,1.3,1.3,3.0,1.0,1.8,1.7,2022-11-09,9,giveaways-per-game
+19,17,Seattle,1.3,1.3,1.0,1.0,1.6,0.8,2022-11-09,9,giveaways-per-game
+20,21,Jacksonville,1.4,1.3,1.0,1.0,1.8,1.7,2022-11-09,9,giveaways-per-game
+21,21,NY Jets,1.4,1.3,1.0,2.0,0.8,1.6,2022-11-09,9,giveaways-per-game
+22,21,Green Bay,1.4,1.7,3.0,1.3,1.5,0.8,2022-11-09,9,giveaways-per-game
+23,24,Detroit,1.5,2.0,1.0,0.8,2.7,1.4,2022-11-09,9,giveaways-per-game
+24,24,San Francisco,1.5,2.0,0.0,1.0,1.8,1.4,2022-11-09,9,giveaways-per-game
+25,24,Cleveland,1.5,2.7,2.0,1.6,1.3,1.3,2022-11-09,9,giveaways-per-game
+26,27,LA Rams,1.6,0.3,0.0,2.0,1.0,1.4,2022-11-09,9,giveaways-per-game
+27,28,Pittsburgh,1.8,1.7,2.0,2.0,1.6,1.2,2022-11-09,9,giveaways-per-game
+28,28,Buffalo,1.8,1.7,2.0,1.3,2.0,1.2,2022-11-09,9,giveaways-per-game
+29,30,New Orleans,1.9,1.3,1.0,1.6,2.3,1.1,2022-11-09,9,giveaways-per-game
+30,30,New England,1.9,2.0,1.0,2.5,1.4,1.4,2022-11-09,9,giveaways-per-game
+31,30,Indianapolis,1.9,2.0,1.0,1.5,2.2,1.1,2022-11-09,9,giveaways-per-game
+0,1,Philadelphia,2.3,2.3,2.0,3.3,1.3,0.9,2022-11-09,9,takeaways-per-game
+1,2,New England,1.9,1.7,1.0,1.5,2.2,1.7,2022-11-09,9,takeaways-per-game
+2,3,Buffalo,1.9,1.3,1.0,2.3,1.6,1.7,2022-11-09,9,takeaways-per-game
+3,4,Baltimore,1.8,1.3,1.0,1.8,1.8,0.9,2022-11-09,9,takeaways-per-game
+4,5,Minnesota,1.8,2.3,1.0,1.8,1.8,1.4,2022-11-09,9,takeaways-per-game
+5,6,Seattle,1.7,1.7,1.0,2.0,1.4,1.1,2022-11-09,9,takeaways-per-game
+6,7,Dallas,1.6,2.0,1.0,1.8,1.3,1.9,2022-11-09,9,takeaways-per-game
+7,8,NY Jets,1.6,1.3,2.0,1.4,1.8,0.8,2022-11-09,9,takeaways-per-game
+8,9,Tennessee,1.5,1.7,1.0,2.0,1.2,1.3,2022-11-09,9,takeaways-per-game
+9,10,Atlanta,1.4,1.0,2.0,1.8,1.0,1.2,2022-11-09,9,takeaways-per-game
+10,10,Chicago,1.4,1.7,0.0,1.0,1.8,0.9,2022-11-09,9,takeaways-per-game
+11,10,Cincinnati,1.4,1.7,3.0,1.3,1.6,1.4,2022-11-09,9,takeaways-per-game
+12,13,Houston,1.4,1.0,1.0,1.5,1.3,1.5,2022-11-09,9,takeaways-per-game
+13,13,LA Chargers,1.4,1.7,2.0,1.5,1.3,1.2,2022-11-09,9,takeaways-per-game
+14,15,Arizona,1.3,1.7,1.0,1.2,1.5,1.5,2022-11-09,9,takeaways-per-game
+15,16,Pittsburgh,1.3,0.0,0.0,1.0,1.4,1.3,2022-11-09,9,takeaways-per-game
+16,16,NY Giants,1.3,1.3,1.0,1.8,0.8,1.3,2022-11-09,9,takeaways-per-game
+17,18,Jacksonville,1.2,0.7,1.0,1.0,1.4,0.5,2022-11-09,9,takeaways-per-game
+18,19,Detroit,1.1,1.7,3.0,1.2,1.0,1.1,2022-11-09,9,takeaways-per-game
+19,19,San Francisco,1.1,0.7,0.0,2.3,0.4,1.2,2022-11-09,9,takeaways-per-game
+20,19,Denver,1.1,1.0,2.0,1.3,1.0,1.1,2022-11-09,9,takeaways-per-game
+21,22,Cleveland,1.0,1.3,2.0,1.0,1.0,1.1,2022-11-09,9,takeaways-per-game
+22,22,Tampa Bay,1.0,0.0,0.0,0.6,1.5,1.9,2022-11-09,9,takeaways-per-game
+23,22,Kansas City,1.0,1.3,0.0,0.5,1.5,1.6,2022-11-09,9,takeaways-per-game
+24,22,LA Rams,1.0,0.3,0.0,1.6,0.0,1.4,2022-11-09,9,takeaways-per-game
+25,22,Indianapolis,1.0,1.0,1.0,1.0,1.0,1.9,2022-11-09,9,takeaways-per-game
+26,27,Carolina,0.9,0.7,0.0,1.0,0.8,0.9,2022-11-09,9,takeaways-per-game
+27,27,Green Bay,0.9,1.3,1.0,0.7,1.0,1.5,2022-11-09,9,takeaways-per-game
+28,29,Washington,0.8,1.3,1.0,0.6,1.0,1.1,2022-11-09,9,takeaways-per-game
+29,29,New Orleans,0.8,0.3,0.0,0.8,0.8,1.5,2022-11-09,9,takeaways-per-game
+30,29,Miami,0.8,1.0,0.0,1.8,0.0,1.5,2022-11-09,9,takeaways-per-game
+31,32,Las Vegas,0.6,0.7,1.0,1.0,0.4,0.8,2022-11-09,9,takeaways-per-game
+0,1,LA Chargers,1.3,1.7,0.0,1.5,1.0,1.8,2022-11-09,9,qb-sacked-per-game
+1,2,Jacksonville,1.3,0.7,0.0,0.0,2.4,1.9,2022-11-09,9,qb-sacked-per-game
+2,3,Dallas,1.5,1.0,1.0,1.8,1.0,2.1,2022-11-09,9,qb-sacked-per-game
+3,4,Tampa Bay,1.6,1.7,1.0,1.6,1.5,1.6,2022-11-09,9,qb-sacked-per-game
+4,5,Detroit,1.6,2.0,0.0,1.2,2.3,2.1,2022-11-09,9,qb-sacked-per-game
+5,6,Miami,1.9,0.7,0.0,2.8,1.2,2.4,2022-11-09,9,qb-sacked-per-game
+6,7,Cleveland,2.0,3.7,2.0,1.8,2.3,2.9,2022-11-09,9,qb-sacked-per-game
+7,7,Kansas City,2.0,2.7,4.0,2.8,1.3,1.9,2022-11-09,9,qb-sacked-per-game
+8,7,Buffalo,2.0,2.7,5.0,1.0,2.6,1.5,2022-11-09,9,qb-sacked-per-game
+9,7,Green Bay,2.0,1.0,1.0,2.7,1.7,2.1,2022-11-09,9,qb-sacked-per-game
+10,7,Minnesota,2.0,2.7,2.0,1.5,2.5,1.8,2022-11-09,9,qb-sacked-per-game
+11,12,New Orleans,2.1,1.3,4.0,2.4,1.8,2.2,2022-11-09,9,qb-sacked-per-game
+12,13,San Francisco,2.1,2.7,3.0,2.0,2.2,1.9,2022-11-09,9,qb-sacked-per-game
+13,14,Baltimore,2.2,3.0,3.0,1.5,2.8,3.4,2022-11-09,9,qb-sacked-per-game
+14,15,Atlanta,2.3,2.3,2.0,1.4,3.5,2.4,2022-11-09,9,qb-sacked-per-game
+15,15,NY Jets,2.3,2.3,2.0,2.6,2.0,3.1,2022-11-09,9,qb-sacked-per-game
+16,15,Carolina,2.3,0.7,0.0,3.2,1.3,3.1,2022-11-09,9,qb-sacked-per-game
+17,15,Seattle,2.3,2.3,2.0,3.0,1.8,2.7,2022-11-09,9,qb-sacked-per-game
+18,19,Las Vegas,2.4,2.3,2.0,1.3,3.0,2.4,2022-11-09,9,qb-sacked-per-game
+19,19,Houston,2.4,2.3,3.0,3.3,1.5,2.6,2022-11-09,9,qb-sacked-per-game
+20,21,New England,2.4,3.7,4.0,2.0,2.8,1.7,2022-11-09,9,qb-sacked-per-game
+21,22,Tennessee,2.5,2.7,3.0,1.3,3.2,2.7,2022-11-09,9,qb-sacked-per-game
+22,23,Pittsburgh,2.6,3.3,6.0,2.7,2.6,2.2,2022-11-09,9,qb-sacked-per-game
+23,24,Philadelphia,2.8,3.7,4.0,3.0,2.5,1.8,2022-11-09,9,qb-sacked-per-game
+24,25,Arizona,2.8,3.7,5.0,2.6,3.0,2.3,2022-11-09,9,qb-sacked-per-game
+25,26,Denver,3.0,2.7,3.0,3.0,3.0,2.4,2022-11-09,9,qb-sacked-per-game
+26,27,NY Giants,3.1,3.3,5.0,3.3,3.0,2.2,2022-11-09,9,qb-sacked-per-game
+27,28,Washington,3.2,2.0,3.0,3.4,3.0,2.5,2022-11-09,9,qb-sacked-per-game
+28,29,LA Rams,3.5,2.3,4.0,3.2,4.0,1.8,2022-11-09,9,qb-sacked-per-game
+29,30,Cincinnati,3.6,3.3,2.0,3.3,3.8,3.5,2022-11-09,9,qb-sacked-per-game
+30,31,Chicago,3.7,3.3,2.0,3.5,3.8,3.4,2022-11-09,9,qb-sacked-per-game
+31,32,Indianapolis,3.9,4.7,9.0,2.5,5.0,1.9,2022-11-09,9,qb-sacked-per-game
+0,1,Kansas City,311.8,386.0,422.0,308.0,315.5,288.5,2022-11-09,9,passing-yards-per-game
+1,2,Miami,293.6,310.7,302.0,264.8,316.6,214.8,2022-11-09,9,passing-yards-per-game
+2,3,Buffalo,292.1,239.0,183.0,320.3,275.2,258.2,2022-11-09,9,passing-yards-per-game
+3,4,LA Chargers,275.1,248.3,245.0,266.3,284.0,282.4,2022-11-09,9,passing-yards-per-game
+4,5,Tampa Bay,271.1,284.3,272.0,310.4,222.0,304.2,2022-11-09,9,passing-yards-per-game
+5,6,Cincinnati,263.0,291.7,223.0,321.3,216.4,256.0,2022-11-09,9,passing-yards-per-game
+6,7,New Orleans,246.7,278.3,195.0,201.6,303.0,187.4,2022-11-09,9,passing-yards-per-game
+7,8,Detroit,243.1,214.3,137.0,252.4,227.7,211.6,2022-11-09,9,passing-yards-per-game
+8,9,Philadelphia,242.3,213.0,217.0,234.0,250.5,202.7,2022-11-09,9,passing-yards-per-game
+9,10,Minnesota,238.1,203.0,245.0,259.8,216.5,249.3,2022-11-09,9,passing-yards-per-game
+10,11,San Francisco,237.1,298.7,257.0,255.3,226.2,236.6,2022-11-09,9,passing-yards-per-game
+11,12,Indianapolis,228.4,153.0,43.0,270.5,194.8,197.7,2022-11-09,9,passing-yards-per-game
+12,13,Las Vegas,228.1,209.7,248.0,217.7,234.4,269.4,2022-11-09,9,passing-yards-per-game
+13,14,Seattle,226.0,214.7,263.0,208.8,239.8,201.9,2022-11-09,9,passing-yards-per-game
+14,15,Green Bay,224.7,222.3,283.0,224.3,224.8,250.6,2022-11-09,9,passing-yards-per-game
+15,16,Cleveland,221.1,249.7,268.0,236.4,195.7,195.3,2022-11-09,9,passing-yards-per-game
+16,17,Jacksonville,220.7,219.7,235.0,266.5,184.0,202.1,2022-11-09,9,passing-yards-per-game
+17,17,Arizona,220.7,208.7,140.0,208.4,236.0,244.3,2022-11-09,9,passing-yards-per-game
+18,19,Denver,220.5,203.0,230.0,207.5,233.5,211.4,2022-11-09,9,passing-yards-per-game
+19,20,NY Jets,219.0,192.3,136.0,241.6,190.8,208.3,2022-11-09,9,passing-yards-per-game
+20,21,LA Rams,217.6,184.7,138.0,232.8,192.3,277.5,2022-11-09,9,passing-yards-per-game
+21,22,Washington,215.4,196.7,126.0,224.8,203.8,202.4,2022-11-09,9,passing-yards-per-game
+22,23,Pittsburgh,204.1,199.0,158.0,174.3,222.0,221.1,2022-11-09,9,passing-yards-per-game
+23,24,New England,202.7,161.3,133.0,203.3,202.2,226.3,2022-11-09,9,passing-yards-per-game
+24,25,Dallas,190.6,204.7,242.0,210.6,157.3,279.4,2022-11-09,9,passing-yards-per-game
+25,26,Houston,188.6,183.0,135.0,172.5,204.8,194.4,2022-11-09,9,passing-yards-per-game
+26,27,Baltimore,186.8,149.0,131.0,179.0,193.0,233.0,2022-11-09,9,passing-yards-per-game
+27,28,Carolina,184.6,214.3,164.0,189.8,178.0,190.5,2022-11-09,9,passing-yards-per-game
+28,29,NY Giants,159.1,167.3,147.0,139.3,179.0,188.0,2022-11-09,9,passing-yards-per-game
+29,30,Atlanta,157.2,153.3,114.0,164.0,148.8,218.4,2022-11-09,9,passing-yards-per-game
+30,31,Tennessee,136.3,71.0,57.0,211.3,91.2,201.7,2022-11-09,9,passing-yards-per-game
+31,32,Chicago,125.7,131.3,116.0,114.3,134.8,188.6,2022-11-09,9,passing-yards-per-game
+0,1,Chicago,195.4,245.0,252.0,217.3,178.0,118.7,2022-11-09,9,rushing-yards-per-game
+1,2,Baltimore,168.1,193.0,188.0,158.0,176.2,145.8,2022-11-09,9,rushing-yards-per-game
+2,3,Cleveland,164.6,118.3,172.0,162.0,169.0,145.4,2022-11-09,9,rushing-yards-per-game
+3,4,Atlanta,162.9,158.3,201.0,187.8,131.8,85.4,2022-11-09,9,rushing-yards-per-game
+4,5,NY Giants,161.5,132.3,78.0,153.8,169.3,99.3,2022-11-09,9,rushing-yards-per-game
+5,6,Philadelphia,148.8,130.0,143.0,155.0,142.5,156.1,2022-11-09,9,rushing-yards-per-game
+6,7,Jacksonville,146.8,167.0,168.0,135.5,155.8,103.2,2022-11-09,9,rushing-yards-per-game
+7,8,Tennessee,142.3,208.0,172.0,113.3,159.6,141.3,2022-11-09,9,rushing-yards-per-game
+8,9,Detroit,134.1,105.3,117.0,143.2,119.0,110.9,2022-11-09,9,rushing-yards-per-game
+9,10,Seattle,133.8,152.7,158.0,102.8,158.6,122.0,2022-11-09,9,rushing-yards-per-game
+10,11,Dallas,131.5,157.7,200.0,115.8,157.7,122.0,2022-11-09,9,rushing-yards-per-game
+11,12,New Orleans,130.9,89.7,48.0,149.4,107.8,117.1,2022-11-09,9,rushing-yards-per-game
+12,13,Buffalo,124.3,137.3,134.0,124.7,124.0,131.2,2022-11-09,9,rushing-yards-per-game
+13,14,Green Bay,120.7,117.3,106.0,154.0,104.0,109.3,2022-11-09,9,rushing-yards-per-game
+14,15,San Francisco,119.5,87.3,111.0,126.0,115.6,124.6,2022-11-09,9,rushing-yards-per-game
+15,16,New England,117.2,89.0,70.0,115.3,118.8,124.4,2022-11-09,9,rushing-yards-per-game
+16,17,Arizona,117.0,112.3,122.0,111.2,124.3,118.7,2022-11-09,9,rushing-yards-per-game
+17,18,NY Jets,116.0,126.7,174.0,103.8,131.3,98.1,2022-11-09,9,rushing-yards-per-game
+18,19,Las Vegas,110.3,91.7,73.0,152.0,85.2,95.6,2022-11-09,9,rushing-yards-per-game
+19,20,Denver,108.4,101.3,101.0,120.0,96.8,119.1,2022-11-09,9,rushing-yards-per-game
+20,21,Washington,108.0,133.0,137.0,103.6,113.5,121.2,2022-11-09,9,rushing-yards-per-game
+21,22,Carolina,105.3,135.3,64.0,95.2,118.0,108.4,2022-11-09,9,rushing-yards-per-game
+22,23,Kansas City,103.5,85.7,77.0,85.3,121.8,119.1,2022-11-09,9,rushing-yards-per-game
+23,24,Minnesota,102.0,102.3,56.0,134.8,69.3,113.5,2022-11-09,9,rushing-yards-per-game
+24,25,Houston,101.9,106.3,168.0,104.8,99.0,83.6,2022-11-09,9,rushing-yards-per-game
+25,26,Cincinnati,98.8,118.3,241.0,129.8,74.0,99.3,2022-11-09,9,rushing-yards-per-game
+26,27,Pittsburgh,94.9,105.3,144.0,95.7,94.4,91.1,2022-11-09,9,rushing-yards-per-game
+27,28,LA Chargers,89.1,72.3,91.0,57.0,121.3,107.9,2022-11-09,9,rushing-yards-per-game
+28,29,Miami,86.9,98.3,77.0,72.5,98.4,92.2,2022-11-09,9,rushing-yards-per-game
+29,30,Indianapolis,86.7,92.7,78.0,75.0,96.0,149.4,2022-11-09,9,rushing-yards-per-game
+30,31,LA Rams,68.4,78.3,68.0,64.4,75.0,95.7,2022-11-09,9,rushing-yards-per-game
+31,32,Tampa Bay,60.7,47.0,51.0,40.2,86.3,96.3,2022-11-09,9,rushing-yards-per-game
 0,1,Kansas City,31.9,31.3,44.0,25.7,36.5,29.4,2022-11-02,8,points-per-game
 1,2,Buffalo,29.0,29.7,27.0,35.3,24.3,29.8,2022-11-02,8,points-per-game
 2,3,Philadelphia,28.0,27.0,35.0,28.5,27.3,25.5,2022-11-02,8,points-per-game
