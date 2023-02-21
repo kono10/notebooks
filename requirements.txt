@@ -12,3 +12,9 @@ aquirdturtle_collapsible_headings
 matplotlib
 scikit-learn
 mlbgame
+seaborn
+bokeh
+selenium
+webdriver_manager
+yagmail
+pandas-bokeh

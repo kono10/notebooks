@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Atlanta,4.1,4.7,5.0,4.4,3.8,5.4,2022-12-28,/nfl/stat/penalties-per-game
+1,2,LA Rams,4.7,6.0,3.0,4.4,5.0,4.3,2022-12-28,/nfl/stat/penalties-per-game
+2,3,Baltimore,4.9,3.0,1.0,4.7,5.0,6.0,2022-12-28,/nfl/stat/penalties-per-game
+3,4,Houston,4.9,4.0,4.0,5.1,4.8,6.7,2022-12-28,/nfl/stat/penalties-per-game
+4,4,LA Chargers,4.9,5.0,6.0,5.9,4.1,6.8,2022-12-28,/nfl/stat/penalties-per-game
+5,4,Minnesota,4.9,4.7,2.0,5.2,4.5,6.5,2022-12-28,/nfl/stat/penalties-per-game
+6,7,Chicago,5.0,4.3,2.0,4.9,5.1,6.2,2022-12-28,/nfl/stat/penalties-per-game
+7,8,Kansas City,5.1,6.3,5.0,4.9,5.4,5.9,2022-12-28,/nfl/stat/penalties-per-game
+8,9,Cincinnati,5.2,5.3,8.0,5.0,5.3,4.4,2022-12-28,/nfl/stat/penalties-per-game
+9,9,Philadelphia,5.2,2.0,2.0,6.1,4.4,6.2,2022-12-28,/nfl/stat/penalties-per-game
+10,11,Detroit,5.3,5.7,4.0,5.0,5.6,6.2,2022-12-28,/nfl/stat/penalties-per-game
+11,12,Indianapolis,5.3,6.3,2.0,4.7,5.9,4.5,2022-12-28,/nfl/stat/penalties-per-game
+12,13,Green Bay,5.5,3.7,5.0,4.8,5.9,4.1,2022-12-28,/nfl/stat/penalties-per-game
+13,14,San Francisco,5.5,4.3,4.0,4.6,6.6,6.1,2022-12-28,/nfl/stat/penalties-per-game
+14,14,NY Jets,5.5,6.0,9.0,4.3,7.0,6.1,2022-12-28,/nfl/stat/penalties-per-game
+15,16,Pittsburgh,5.6,4.0,3.0,4.9,6.3,6.1,2022-12-28,/nfl/stat/penalties-per-game
+16,16,Jacksonville,5.6,5.3,3.0,5.7,5.6,6.1,2022-12-28,/nfl/stat/penalties-per-game
+17,18,Washington,5.7,6.3,6.0,5.6,5.8,4.8,2022-12-28,/nfl/stat/penalties-per-game
+18,19,Tampa Bay,5.9,6.7,5.0,5.6,6.1,5.5,2022-12-28,/nfl/stat/penalties-per-game
+19,20,Cleveland,6.0,5.3,4.0,5.1,7.0,6.6,2022-12-28,/nfl/stat/penalties-per-game
+20,20,Buffalo,6.0,7.0,9.0,6.0,6.0,6.3,2022-12-28,/nfl/stat/penalties-per-game
+21,22,New Orleans,6.3,4.7,2.0,5.3,7.1,5.8,2022-12-28,/nfl/stat/penalties-per-game
+22,22,Carolina,6.3,7.0,10.0,6.1,6.5,6.3,2022-12-28,/nfl/stat/penalties-per-game
+23,24,Dallas,6.3,3.0,4.0,6.1,6.7,7.8,2022-12-28,/nfl/stat/penalties-per-game
+24,24,Tennessee,6.3,5.3,5.0,6.1,6.5,5.8,2022-12-28,/nfl/stat/penalties-per-game
+25,24,NY Giants,6.3,5.7,7.0,6.0,6.7,5.2,2022-12-28,/nfl/stat/penalties-per-game
+26,27,New England,6.4,8.0,10.0,5.9,6.9,5.6,2022-12-28,/nfl/stat/penalties-per-game
+27,28,Miami,6.5,7.3,8.0,5.7,7.1,6.2,2022-12-28,/nfl/stat/penalties-per-game
+28,28,Seattle,6.5,5.7,6.0,4.7,8.0,5.7,2022-12-28,/nfl/stat/penalties-per-game
+29,30,Las Vegas,6.7,7.3,2.0,7.5,6.2,7.3,2022-12-28,/nfl/stat/penalties-per-game
+30,31,Arizona,6.9,7.0,6.0,5.8,8.1,6.7,2022-12-28,/nfl/stat/penalties-per-game
+31,32,Denver,7.1,5.3,6.0,6.3,7.9,4.9,2022-12-28,/nfl/stat/penalties-per-game

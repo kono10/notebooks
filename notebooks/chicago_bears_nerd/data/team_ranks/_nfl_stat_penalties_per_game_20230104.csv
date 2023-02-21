@@ -1,0 +1,33 @@
+,Rank,Team,2022,Last 3,Last 1,Home,Away,2021,asof,url
+0,1,Atlanta,4.1,4.3,5.0,4.5,3.8,5.4,2023-01-04,/nfl/stat/penalties-per-game
+1,2,LA Rams,4.6,4.7,3.0,4.4,4.7,4.3,2023-01-04,/nfl/stat/penalties-per-game
+2,3,LA Chargers,4.8,3.7,2.0,5.4,4.1,6.8,2023-01-04,/nfl/stat/penalties-per-game
+3,4,Baltimore,4.8,2.7,4.0,4.6,5.0,6.0,2023-01-04,/nfl/stat/penalties-per-game
+4,5,Chicago,4.9,3.7,3.0,4.9,4.9,6.2,2023-01-04,/nfl/stat/penalties-per-game
+5,6,Minnesota,5.0,5.7,6.0,5.2,4.7,6.5,2023-01-04,/nfl/stat/penalties-per-game
+6,7,Houston,5.1,5.0,7.0,5.4,4.8,6.7,2023-01-04,/nfl/stat/penalties-per-game
+7,8,Kansas City,5.1,6.7,5.0,4.9,5.4,5.9,2023-01-04,/nfl/stat/penalties-per-game
+8,9,Cincinnati,5.2,5.3,8.0,5.0,5.3,4.4,2023-01-04,/nfl/stat/penalties-per-game
+9,10,Detroit,5.3,5.3,6.0,5.1,5.6,6.2,2023-01-04,/nfl/stat/penalties-per-game
+10,10,NY Jets,5.3,4.3,2.0,4.3,6.4,6.1,2023-01-04,/nfl/stat/penalties-per-game
+11,10,Green Bay,5.3,4.0,3.0,4.6,5.9,4.1,2023-01-04,/nfl/stat/penalties-per-game
+12,13,Jacksonville,5.4,3.0,2.0,5.7,5.2,6.1,2023-01-04,/nfl/stat/penalties-per-game
+13,13,Philadelphia,5.4,4.0,8.0,6.4,4.4,6.2,2023-01-04,/nfl/stat/penalties-per-game
+14,15,Indianapolis,5.4,6.7,7.0,4.7,6.0,4.5,2023-01-04,/nfl/stat/penalties-per-game
+15,16,Washington,5.6,5.7,5.0,5.5,5.8,4.8,2023-01-04,/nfl/stat/penalties-per-game
+16,16,Pittsburgh,5.6,5.3,6.0,4.9,6.2,6.1,2023-01-04,/nfl/stat/penalties-per-game
+17,18,San Francisco,5.8,6.7,9.0,4.6,6.9,6.1,2023-01-04,/nfl/stat/penalties-per-game
+18,19,Cleveland,5.8,3.3,3.0,5.1,6.5,6.6,2023-01-04,/nfl/stat/penalties-per-game
+19,20,Tampa Bay,6.0,6.7,8.0,5.9,6.1,5.5,2023-01-04,/nfl/stat/penalties-per-game
+20,20,Buffalo,6.0,7.0,9.0,6.0,6.0,6.3,2023-01-04,/nfl/stat/penalties-per-game
+21,22,New Orleans,6.1,3.7,3.0,5.3,6.7,5.8,2023-01-04,/nfl/stat/penalties-per-game
+22,23,Dallas,6.1,3.0,3.0,6.1,6.1,7.8,2023-01-04,/nfl/stat/penalties-per-game
+23,23,NY Giants,6.1,5.0,3.0,5.7,6.7,5.2,2023-01-04,/nfl/stat/penalties-per-game
+24,25,New England,6.4,7.3,6.0,5.9,6.9,5.6,2023-01-04,/nfl/stat/penalties-per-game
+25,25,Carolina,6.4,7.7,8.0,6.1,6.7,6.3,2023-01-04,/nfl/stat/penalties-per-game
+26,25,Seattle,6.4,6.3,5.0,4.8,8.0,5.7,2023-01-04,/nfl/stat/penalties-per-game
+27,28,Tennessee,6.6,7.0,10.0,6.6,6.5,5.8,2023-01-04,/nfl/stat/penalties-per-game
+28,29,Miami,6.6,8.3,9.0,5.7,7.3,6.2,2023-01-04,/nfl/stat/penalties-per-game
+29,30,Las Vegas,6.7,7.0,6.0,7.3,6.2,7.3,2023-01-04,/nfl/stat/penalties-per-game
+30,31,Denver,6.9,4.3,3.0,6.3,7.3,4.9,2023-01-04,/nfl/stat/penalties-per-game
+31,32,Arizona,6.9,7.0,8.0,5.8,8.1,6.7,2023-01-04,/nfl/stat/penalties-per-game
